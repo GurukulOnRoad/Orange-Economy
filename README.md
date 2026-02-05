@@ -91,11 +91,11 @@ Thematic or contextual knowledge packs (Budget, sectors, livelihoods, etc.)
 **Schema.org/DefinedTerm + HCAM™ cognitive layers. Same structure across ALL domains.**
 Each asset is a Schema.org DefinedTerm that keeps a core **HCAM™ structure** description (hi-IN), English Explanation (en-IN), HCAM™ Hinglish Explanation (hi-Latn), Example(en-IN & hi-IN) and then extends it with **HCAM™ cognitive layers in additionalProperty**.
 
-| Domain            | Term                        | termCode              | HCAM™ Signal                                | Voice-First intent (preview)                           |
+| Domain            | Term (hi-IN) / alternateName (en-IN & hi-Latn)                       | termCode              | HCAM™ Signal                                | Voice-First intent (preview)                           |
 |-------------------|-----------------------------|-----------------------|---------------------------------------------|--------------------------------------------------------|
-| National Vision   | विकसित भारत                | B30-HCAMOE26-T001     | Task → Outcome → Impact                     | Explains “Viksit Bharat” as measurable destination with 30-sec Hinglish script     |
-| Cultural Economy  | मंदिर-नगर (Temple-Towns)   | B30-HCAMOE26-T026     | Urban inclusion → Service economy → Enterprise | Frames temple-towns as CER growth centres with 30-sec Hinglish script             |
-| Technical Finance | डायरेक्ट टैक्स             | B30-BUDGET26-T7       | Levy → Progressive revenue → Equity         | Clarifies direct tax with 30-sec Hinglish script |
+| National Vision   | विकसित भारत / Viksit Bharat / Developed India                | B30-HCAMOE26-T001     | Task → Outcome → Impact                     | Explains “Viksit Bharat” as measurable destination with 30-sec Hinglish script     |
+| Cultural Economy  | मंदिर-नगर (Temple-Towns / मंदिर-शहर)   | B30-HCAMOE26-T026     | Urban inclusion → Service economy → Enterprise | Frames temple-towns as CER growth centres with 30-sec Hinglish script             |
+| Technical Finance | डायरेक्ट टैक्स / Direct Tax            | B30-BUDGET26-T7       | Levy → Progressive revenue → Equity         | Clarifies direct tax with 30-sec Hinglish script |
 
 **Live files:** `[registry/voice-index.json` indexes ALL assets by `Domain & Context](https://raw.githubusercontent.com/GurukulOnRoad/Orange-Economy/main/registry/voice-index.json/packs/union-budget-2026-27/part-a-core-budget-concepts-2026.json
 )`
