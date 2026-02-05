@@ -102,6 +102,19 @@ Each asset is a Schema.org DefinedTerm that keeps a core **HCAM™ structure** d
 
 **🧠 HCAM™ (Hinglish Cognitive Anchoring Model™): Hindi Soch | English System | Hinglish by Design ➡️ (Hindi ↔ English ↔ Hinglish)**
 
+#### 📘 How this concept is structured in JSON
+| JSON Field                  | Purpose                  | What it represents                                                                                                                                                          |
+| --------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `@type`                     | Schema identity          | Declares this node as a **DefinedTerm** (a concept, not a scheme or page).                                                                                                  |
+| `@id`                       | Canonical identifier     | Permanent, citable ID for this concept across AI systems and platforms.                                                                                                     |
+| `name`                      | Primary term label       | Main Hindi term used in Bharat-centric explanation.                                                                                                                         |
+| `alternateName`             | Recall & discoverability | English / metaphor / recall-friendly variants for search and voice queries.                                                                                                 |
+| `termCode`                  | Internal taxonomy        | Stable **HCAM™ / B-30 Bharat** code for versioning and governance.                                                                                                          |
+| `description`               | Primary explanation      | Long-form Hindi explanation decoding intent, context, and meaning.                                                                                                          |
+| `disambiguatingDescription` | Authority clarity        | Explicitly states this is an **independent educational interpretation**, & what is not.                                                                            |
+| `additionalProperty[]`      | HCAM™ layers             | Structured cognitive layers including:<br>• English Explanation<br>• HCAM™ Hinglish Explanation<br>• HCAM™ Signal (Task → Outcome → Impact)<br>• HCAM™ Voice-First (30 sec) |
+
+
 ## 🔵 Canonical authority
 The canonical interpretive authority for this repository is: 👉 https://voice.b30bharat.com/
 
