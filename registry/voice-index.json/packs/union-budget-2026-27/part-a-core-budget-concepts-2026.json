@@ -1,0 +1,1308 @@
+
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://www.orangeeconomy.in/#voice-first-glossary",
+  "url": "https://voice.b30bharat.com/",
+  "name": "PART  A  -  Core Union Budget 2026-27 Key Concepts (Intent, Impact & Future Direction)",
+  "description": "Part A of the Union Budget 2026–27 explanation focuses on the core conceptual language and directional intent of the Budget. It decodes how Bharat’s long-term vision is articulated through governance vocabulary, rural and community-anchored structures, agriculture-linked and Bharat-first digital systems, social inclusion and human capability building, and the role of culture, tourism, and the civilisational economy as economic drivers. This section explains intent, impact, and future direction rather than allocations or schemes.",
+   "publisher": {
+        "@type": "WebSite",
+        "name": "OrangeEconomy.in",
+        "url": "https://www.orangeeconomy.in/"
+    },
+  "creator": {
+        "@type": "Organization",
+        "name": "GurukulAI Thought Lab",
+        "url": "https://ai.gurukulonroad.com/"
+    },
+   "owner": {
+        "@type": "Organization",
+        "name": "GurukulOnRoad",
+        "url": "https://www.gurukulonroad.com/"
+    },
+
+"isPartOf": [
+  {
+    "@type": "Book",
+    "@id": "https://www.orangeeconomy.in/#book-budget-guide",
+    "url": "https://play.google.com/store/books/details?id=QAq8EQAAQBAJ",
+    "name": "B-30 Bharat Union Budget Guide & Dictionary 2026–27 (केंद्रीय बजट गाइड एवं शब्दकोश)",
+    "description": "B-30 Bharat Union Budget Guide & Dictionary 2026–27  (केंद्रीय बजट गाइड एवं शब्दकोश) Hindi ↔ English ↔ Hinglish. HCAM™ यूनियन बजट के मुख्य शब्दों, कॉन्सेप्ट और पॉलिसी संकेतों के लिए इंटरप्रिटिव गाइड -भारत की लोकल इकॉनमी की स्ट्रीट-स्मार्ट समझ के लिए, परीक्षाओं, प्रोफेशन और रोज़ाना की बातचीत के लिए बजट में क्लैरिटी। A Street-smart Budget understanding -clear enough for everyday conversations, rigorous enough for exams and professionals. A structured, language-first and ethics-first guide to the Union Budget 2026-27, designed for Bharat (भारत) across local trade, services, rural livelihoods, and knowledge professions."
+  },
+{
+      "@type": "CreativeWork",
+      "additionalType": "Project",
+      "@id": "https://www.b30bharat.com/#brand-b30bharat",
+      "url": "https://www.b30bharat.com/",
+      "name": "B30BHARAT",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "description": "B30BHARAT is a Bharat-first AI literacy, learning identity and business enablement initiative conceptualized and operated by GurukulOnRoad, focused on rebuilding human understanding before technology adoption. Built for clarity, dignity, and conscious technology adoption beyond Top-30 India. B30BHARAT exists to decode English-heavy, jargon-driven technology, business and finance language through structured dictionaries, cognitive frameworks, and language-first learning systems, using The Hinglish Cognitive Anchoring Model (HCAM&#8482;). Its core mission is to restore clarity where labels, tools, and hype have replaced real conceptual understanding. Through a gradual, Language-First, Not Translation-First principle, (Hindi &#183; English &#183; Hinglish) journey, B30BHARAT enables 14 different audience segment of B30BHARAT 1 - Local Trade &amp; Retail, 2 - Skill-Based Service Providers, 3 - Licensed Professionals (MFDs, insurance advisors, CAs, Doctors), 4 - Independent Knowledge Workers, 5 - Freelancers and Platform Earners, 6 - Small and Micro Agencies, 7 - Informal and Family Enterprises, 8 - Rural and Semi-Rural Livelihoods, 9 - Faith, Culture and Community Services (eg; Temples, cultural groups), 10 - Students and Students Turned Earners / Side Hustlers, 11 - Public-Facing Individuals (Including Astrologers and Kathabachak), 12 - Small Institutions, 13 - Street Vendors and Mobile Livelihoods, and 14 - HCAM&#8482; Human + Machine Collaborators via three pre defined journey PATH A - MAP-FIRST (Minimal Tech), PATH B - PRESENCE-FIRST, and PATH C - IDENTITY-FIRST (Portfolio & Trust)."
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://play.google.com/store/books/series?id=gJiSHAAAABAThM#series",
+      "url": "https://play.google.com/store/books/series?id=gJiSHAAAABAThM",
+      "name": "HCAM-KG™: BFSI & AI Literacy Hinglish Knowledge Graph™ (Powered by HCAM™) | Hindi ↔ English ↔ Hinglish | B30BHARAT",
+      "description": "HCAM-KG™: BFSI & AI Literacy Hinglish Knowledge Graph™ Powered by HCAM™ (Hinglish Cognitive Anchoring Model™ - Knowledge Graph | A B-30 Bharat AI Education Initiative)",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "creativeWorkStatus": "Live"
+    },
+{
+      "@type": "SoftwareSourceCode",
+      "@id": "https://www.orangeeconomy.in#voice-kg-project",
+      "url": "https://github.com/GurukulOnRoad/Orange-Economy",
+      "name": "Orange Economy: The Voice of Bharat - HCAM™ Voice-First Structured Index",
+      "alternateName": [
+      "Orange Economy Voice of Bharat",
+      "B-30 Bharat Voice Index",
+      "HCAM™ Voice-First Index for Bharat"
+       ],
+      "description": " An open knowledge repo decoding Bharat’s Orange Economy: creative industries, cultural capital, and livelihood systems -built with HCAM™ (Hinglish Cognitive Anchoring Model™) (Hindi–English–Hinglish) and structured-first documentation. | A B-30 Bharat Project under Bharat AI Education Initiative)",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "creativeWorkStatus": "Live"
+    },
+   
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.orangeeconomy.in#project",
+      "url": "https://learn.gurukulonroad.com/s/pages/bfsi-ai-hinglish-knowledge-graph-hcam",
+      "name": "BFSI & AI Literacy Hinglish Knowledge Graph™ (Powered by HCAM™ - Hinglish Cognitive Anchoring Model™)| B30BHARAT",
+      "description": "यह Knowledge Graph भारत के learners, BFSI professionals और exam aspirants के लिए बनाया गया है, ताकि Banking, Financial Services, Insurance (BFSI) और AI Literacy concepts को Hindi + English + Hinglish में समझना आसान हो सके। यह पूरा framework HCAM™ -Hinglish Cognitive Anchoring Model™ पर आधारित है -यानी Language-First, Not Translation-First, जहाँ समझ, याद और real-life application तीनों को equal importance दी जाती है।",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "creativeWorkStatus": "Live"
+    }
+],
+"subjectOf": [
+  {
+    "@type": "WebPage",
+    "@id": "https://www.orangeeconomy.in/#ref-union-budget-2026-27",
+    "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+    "name": "Union Budget 2026–27 (Government of India)",
+    "disambiguatingDescription": "Reference pointer only. The official document is hosted on a Government of India website; this node is an internal reference identifier used for linking and attribution."
+  }
+],
+"hasPart": [
+  {
+  "@type": "Periodical",
+  "@id": "https://ai.gurukulonroad.com/p/hcam-bharats-bfsi-ai-wire.html#periodical",
+  "url": "https://ai.gurukulonroad.com/p/hcam-bharats-bfsi-ai-wire.html",
+  "name": "HCAM™ Bharat’s BFSI × AI Wire",
+  "description": "HCAM™ Bharat’s BFSI × AI Wire: A weekly Human+Machine newsletter designed for Bharat’s BFSI professionals, AI literacy learners, fashion and creative industry participants, corporate teams, creators, freelancers, digital marketing (SEO/AEO/GEO) professionals, tech builders, startups, and emotionally PsyOp-aware audiences. HCAM™ Bharat’s BFSI × AI Wire - Season 1 (Volume 01) brings together BFSI education, AI usage literacy, creative and fashion careers, corporate productivity systems, startup execution, policy decoding, technical infrastructure, and emotional clarity into one integrated knowledge flow. Season 1 (Volume 01) collects all published editions of HCAM™ Bharat’s BFSI × AI Wire, with each edition serving as a focused, actionable map across real-world domains - from exam-oriented BFSI concepts to advisory and risk judgment, from AI confusion to Hindi-first Human+Machine workflows, from creative burnout to structured visibility systems, from corporate overload to clarity-driven productivity, from startup chaos to operational discipline, from policy headlines to DPI and IndiaAI explained simply, and from hype around agents and architectures to grounded technical clarity. This season is not an archive -it is a progression map. Readers do not need to consume everything at once. Start with the edition aligned to your current challenge -BFSI compliance, AI adoption, creative fatigue, corporate stress, startup execution, policy noise, or emotional overload. One edition, one idea, one real-world application at a time is enough to change how you think, work, create, and decide.",
+  "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+  "publisher": "https://ai.gurukulonroad.com/"
+}
+],
+
+
+ "hasDefinedTerm": [
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/viksit-bharat.html#B30-HCAMOE26-T001",
+      "url": "https://www.orangeeconomy.in/p/viksit-bharat.html",
+      "name": "विकसित भारत",
+      "alternateName": [
+        "Viksit Bharat",
+        "Developed India (Vision)"
+      ],
+      "termCode": "B30-HCAMOE26-T001",
+      "identifier": "B30-HCAMOE26-T001",
+      "description": "बजट भाषण में, \"विकसित भारत\" को प्रेरक नारे के रूप में नहीं, बल्कि एक मापने योग्य राष्ट्रीय लक्ष्य के रूप में प्रस्तुत किया गया है। भाषण में इसे बार-बार रोजगार, वैश्विक प्रतिस्पर्धा और संस्थागत क्षमता निर्माण से जोड़ा गया है। यह उच्च-स्तरीय \"शिक्षा से रोजगार और उद्यम\" स्थायी समिति की स्थापना के संदर्भ में सामने आता है, जिसका उद्देश्य सेवा क्षेत्र को विकसित भारत का मुख्य चालक बनाना है और 2047 तक भारत को सेवाओं में वैश्विक नेता बनाना है, जिसमें वैश्विक हिस्सेदारी में 10% की घोषित आकांक्षा है। यह दर्शाता है कि \"विकसित भारत\" को एक दीर्घकालिक परिवर्तन लक्ष्य के रूप में स्थापित किया गया है -जिसमें कौशल, सेवा निर्यात और एआई-आधारित रोजगार मानचित्रण जैसे क्षेत्रीय मार्ग शामिल हैं -न कि एक वार्षिक राजकोषीय विषय। भाषण में, विकसित भारत तीसरे कर्तव्य के लिए एक दृष्टि-संरेखण वाक्यांश के रूप में भी दिखाई देता है, जो समावेशी विकास और लक्षित समर्थन (कृषि आय, दिव्यांगजन सशक्तिकरण, मानसिक स्वास्थ्य, पूर्वोदय फोकस) को व्यापक राष्ट्रीय लक्ष्य से जोड़ता है। इसलिए, इस बजट की भाषा में, विकसित भारत ही गंतव्य है और प्रस्तावों को संरचित मार्गों (समितियाँ, कौशल विकास पाइपलाइन, देखभाल पारिस्थितिकी तंत्र, क्षेत्रीय केंद्र) के रूप में तैयार किया गया है जो गंतव्य को क्रियान्वित करते हैं।",
+      "disambiguatingDescription": "Independent educational interpretation of the term 'Viksit Bharat' based on the Union Budget speech 2026-27. This is not an official scheme notification.",
+ 
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "In the Budget speech, “Viksit Bharat” is not used as a motivational slogan; it is used as a measurable national outcome, repeatedly tied to employment, global competitiveness, and institutional capacity-building. It appears alongside the High-Powered “Education to Employment and Enterprise” Standing Committee, meant to make the Services Sector a core driver of Viksit Bharat, aiming for India to become a global leader in services with an aspiration of 10% global share by 2047. This positions Viksit Bharat as a long-run transformation target with sectoral pathways -skills, services exports, and AI-linked job mapping -rather than a single-year fiscal theme. It also functions as a vision alignment phrase for the third kartavya, connecting inclusive development and targeted support (farm incomes, Divyangjan empowerment, mental health, Purvodaya focus) to the national end-state. In short: Viksit Bharat is the destination; proposals are the structured pathways that operationalise it."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Budget mein Viksit Bharat sirf vision word nahi hai. Isse ek measurable destination maana gaya hai -jahan employment, services exports, skills aur institutional capacity milkar Bharat ko global leader banaye. Speech mein Services Sector ko core engine bataya gaya hai, jiska target hai 2047 tak global services share badhana."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Skill & employment committees → Outcome: Employable youth + service-ready workforce → Impact: Global competitiveness + institutional accountability"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Viksit Bharat ka matlab sirf ek slogan nahi. Budget speech ke context mein yeh ek measurable national destination hai -jahan skills, jobs, services exports aur strong institutions milkar Bharat ko 2047 tak global leader banate hain. Isliye proposals ko schemes ki list nahi, balki structured pathways -committees, skilling pipelines aur regional hubs -ke roop mein dekha jaata hai."
+        }
+      ]
+    },
+
+
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/three-kartavya-framework.html#B30-HCAMOE26-T002",
+      "name": "तीन कर्तव्य रूपरेखा",
+      "alternateName": [
+        "Kartavya Framework (Three Kartavya)",
+        "Three Kartavya Framework"
+      ],
+      "termCode": "B30-HCAMOE26-T002",
+      "identifier": "B30-HCAMOE26-T002",
+      "description": "भाषण में बजट के संगठनात्मक तर्क के रूप में स्पष्ट रूप से \"तीन कर्तव्य\" की रूपरेखा का उपयोग किया गया है। यहाँ \"कर्तव्य\" एक शासन संरचना के रूप में कार्य करता है जो प्राथमिकताओं को निर्धारित करता है -एक नैतिक शब्द जिसे नीति अनुक्रमण उपकरण में बदल दिया गया है। भाषण आकांक्षाओं और क्षमता निर्माण के उपाय प्रस्तुत करते समय \"हमारे दूसरे कर्तव्य\" का उल्लेख करता है (जैसे सेवा क्षेत्र मार्ग और शिक्षा-से-रोजगार समिति)। यह \"हमारे तीसरे कर्तव्य\" को विकसित भारत की ओर 'सबका साथ, सबका विकास' से जोड़ता है और फिर लक्षित नीतिगत क्षेत्रों (किसानों की आय, दिव्यांगजन सशक्तिकरण, मानसिक स्वास्थ्य और आघात देखभाल, पूर्वोदय और उत्तर-पूर्व) पर जोर देता है। इससे पहले \"सुधार एक्सप्रेस... हमारे कर्तव्य को पूरा करने में मदद करने के लिए अपनी गति बनाए रखेगी\" जैसे वाक्य संकेत देते हैं कि \"कर्तव्य\" को बजटों में सुधारों की निरंतरता तंत्र की तरह भी इस्तेमाल किया गया है। परीक्षा के संदर्भ में यह एक framing tool है -\"बजट की संरचना कैसी है?\" या \"कौन से नीतिगत समूह किस कर्तव्य से जुड़े हैं?\" जैसे प्रश्नों की अपेक्षा करें, क्योंकि भाषण में \"कर्तव्य\" को रूपक नहीं, मानचित्र की तरह इस्तेमाल किया गया है।",
+      "disambiguatingDescription": "Independent educational interpretation of the ‘Three Kartavya’ framing as used in the Budget speech. This is not an official government policy framework document or notification.",
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech explicitly uses a “three kartavya” framing as the organizing logic of the Budget. Kartavya functions like a governance architecture for prioritisation -a moral-sounding word converted into a policy sequencing tool. The speech refers to “our second kartavya” while introducing aspirations and capacity-building measures, including the Services Sector pathway and the Education-to-Employment committee. It then mentions “our third kartavya” and ties it to Sabka Sath, Sabka Vikas towards a Viksit Bharat, followed by targeted emphasis areas (farmer incomes, Divyangjan empowerment, mental health and trauma care, Purvodaya and North-East). Earlier, phrases like “The Reform Express… will maintain its momentum to help us fulfil our kartavya” show kartavya as a continuity mechanism for reforms across budgets. In exam terms: treat this as a framing device -expect questions like “How is the Budget structured?” or “Which policy sets map to which kartavya?” because the speech uses kartavya as a map, not a metaphor."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Budget ko three kartavya mein structure kiya gaya hai. Kartavya yahan moral word nahi, balki policy sequencing framework hai -kaunsa kaam pehle, kaunsa baad mein. Speech “second kartavya”, “third kartavya” bolkar proposals map karti hai."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Kartavya define → Outcome: Policy order + mapping → Impact: Clear priorities + delivery accountability"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Three Kartavya framework ka matlab yeh hai ki Budget speech apne proposals ko 3 duties ke map par organise karti hai. Kartavya yahan moral word nahi, policy sequencing tool hai -kaunsa focus pehle, kaunsa baad mein. Speech “second kartavya” bolkar services aur skills jaise capacity-building measures introduce karti hai, aur “third kartavya” ko inclusion aur regional focus se jodti hai. Exam mein isse Budget structure aur mapping questions ke liye framing device samjho."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/reform-express.html#B30-HCAMOE26-T003",
+      "url": "https://www.orangeeconomy.in/p/reform-express.html",
+      "name": "सुधार एक्सप्रेस",
+      "alternateName": [
+        "Reform Express",
+        "Reforms as a Continuity Pipeline",
+        "Reform Momentum Metaphor"
+      ],
+      "termCode": "B30-HCAMOE26-T003",
+      "identifier": "B30-HCAMOE26-T003",
+
+      "description": "भाषण में “Reform Express / सुधार एक्सप्रेस” एक सोची-समझी उपमा है जो बताती है कि सुधार एक बार की घोषणाएँ नहीं हैं; वे निरंतर और तेज़ गति वाली गतिशील प्रक्रिया हैं। “सुधार एक्सप्रेस अपने मार्ग पर अच्छी तरह से आगे बढ़ रही है और हमारे कर्तव्य को पूरा करने में हमारी मदद करने के लिए अपनी गति बनाए रखेगी”  - यह कथन सुधारों को केवल विधायी इरादे (legislative intent) के बजाय एक सतत क्रियान्वयन कार्यक्रम (ongoing execution program) के रूप में प्रस्तुत करता है। यह वाक्यांश भाषण के “विशिष्ट प्रस्तावों” पर जाने से ठीक पहले आता है, जिससे संकेत मिलता है कि नई योजनाएँ, विनिर्माण विस्तार, MSME समर्थन, अवसंरचना और शहरी आर्थिक क्षेत्र -सब इसी सुधार-मार्ग (reform track) पर चलते हैं। व्यावहारिक अर्थ में “सुधार एक्सप्रेस” तीन संकेत देता है: (क) नीतिगत स्थिरता, (ख) निरंतर प्रक्रियात्मक सरलीकरण, और (ग) निरंतर क्रियान्वयन गति। Bharat-केंद्रित शब्दावली में यह खास है क्योंकि यह भारतीय राजनीतिक भाषा (कर्तव्य) को शासन-क्रियान्वयन उपमा (एक्सप्रेस) से जोड़ता है -और पाठकों को संकेत देता है कि आगे आने वाले उपायों को अलग-थलग खर्च नहीं, बल्कि सुधार-निरंतरता (reform continuum) के हिस्से की तरह पढ़ें।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the ‘Reform Express’ metaphor used in the Union Budget speech 2026. This is not an official government scheme, notification, or a named programme.",
+
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "“Reform Express” is a deliberate metaphor used in the speech to signal that reforms are not one-off announcements; they are a moving pipeline with continuity and speed. The statement “The Reform Express is well on its way and will maintain its momentum to help us fulfil our kartavya” positions reforms as an ongoing execution program, not merely legislative intent. It appears right before the speech moves into “specific proposals,” implying reforms are the track on which new schemes, manufacturing scale-up, MSME support, infrastructure, and city economic regions ride. Practically, it becomes shorthand for (a) policy stability, (b) continuous procedural simplification, and (c) sustained implementation momentum. It also cues readers to interpret later measures as part of a reform continuum rather than isolated budget spends."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Reform Express ka matlab hai reforms rukte nahi -wo continuous pipeline mein chalte rehte hain. Budget bolta hai reforms ek journey hai, one-time announcement nahi. Isme speed + continuity dono signal hote hain."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Reform processes → Outcome: Simplification & faster execution → Impact: Business confidence & investment readiness"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Reform Express ka simple meaning: Budget speech reforms ko train-journey jaisa batati hai -reforms ek baar announce karke rukte nahi, they keep moving with momentum. Iska signal hai policy stability, procedures ka continuous simplification, aur implementation ki speed. Isliye aage jo proposals aate hain -MSME, infra, manufacturing -unhe isolated spends nahi, reform continuum ke part ki tarah samjho."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/city-economic-regions.html#B30-HCAMOE26-T004",
+      "url": "https://www.orangeeconomy.in/p/city-economic-regions.html",
+      "name": "शहर आर्थिक क्षेत्र",
+      "alternateName": [
+        "City Economic Regions",
+        "CERs",
+        "City + Region Growth Nodes"
+      ],
+      "termCode": "B30-HCAMOE26-T004",
+      "identifier": "B30-HCAMOE26-T004",
+
+      "description": "बजट में प्रथम कर्तव्य के हस्तक्षेपों के अंतर्गत “शहर आर्थिक क्षेत्रों” (City Economic Regions) को एक नामित फोकस क्षेत्र के रूप में पेश किया गया है। भाषण में CERs को विनिर्माण विस्तार, विरासत क्लस्टर पुनरुद्धार, “चैंपियन MSME”, अवसंरचना विकास, ऊर्जा सुरक्षा आदि के साथ रखा गया है -अर्थात CERs को किसी नगरपालिका योजना (municipal scheme) के बजाय एक व्यापक विकास-इंजन (macro growth engine) की तरह देखा जा रहा है। आगे भाषण स्पष्ट करता है कि ध्यान किन शहरों पर है: द्वितीय और तृतीय स्तर के शहर, और “यहाँ तक कि मंदिर-नगर” भी -जिन्हें आधुनिक अवसंरचना और बुनियादी सुविधाओं की आवश्यकता है। यह सिर्फ ‘smart city’ branding नहीं, बल्कि छोटे शहरों को growth nodes की तरह तैयार करने का दृष्टिकोण है -जहाँ infrastructure, logistics और amenities निवेश, रोजगार और नवाचार को आकर्षित करें। “Region” का अर्थ है कि शहर की वृद्धि आसपास के क्षेत्रों (labour markets, supply chains, service ecosystems) से जुड़ी होती है, शहर-सीमा तक सीमित नहीं। मंदिर-नगरों को शामिल करना CERs को Bharat-विशिष्ट बनाता है: सांस्कृतिक/विरासत शहरी केंद्रों को भी वैध विकास केंद्रों के रूप में आर्थिक नियोजन में जोड़ा जाता है। इसलिए CERs = भारत की growth decentralisation रणनीति का बजट-भाषा में अंतर्निहित रूप।",
+
+      "disambiguatingDescription": "Independent educational interpretation of 'City Economic Regions (CERs)' as used in the Union Budget speech 2026. This is not an official scheme notification or a standalone municipal programme definition.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget introduces “City Economic Regions” (CERs) as a named focus area under the first kartavya’s interventions. The speech places CERs alongside manufacturing scale-up, legacy cluster rejuvenation, “Champion MSMEs,” infrastructure push, and energy security -meaning CERs are treated as a macro growth engine rather than a municipal scheme. It clarifies the focus on Tier II and Tier III cities and “even temple-towns” needing modern infrastructure and basic amenities. CERs are not just ‘smart cities’ branding; they aim to make smaller cities function like growth nodes, with infrastructure, logistics, and amenities that attract investment, jobs, and innovation. The ‘region’ idea implies growth links beyond city limits -labour markets, supply chains, and service ecosystems. Including temple-towns adds a Bharat-specific flavour by integrating cultural/heritage urban centres as legitimate growth nodes. CERs therefore reflect India’s decentralised growth strategy embedded in budget language."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "CERs ka matlab city ko akela nahi, balki city + surrounding region ko growth engine banana. Focus Tier-II, Tier-III cities aur temple-towns par hai -jahan infra, logistics aur amenities se investment aur jobs aate hain."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Infra + amenities → Outcome: Investment attraction & growth nodes → Impact: Decentralised growth & regional jobs"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "City Economic Regions ya CERs ka matlab hai: city ko akela plan nahi karna, balki city + surrounding area ko ek growth engine banana. Budget speech mein focus Tier-II, Tier-III cities aur even temple-towns par hai -jahan modern infra, logistics aur basic amenities se investment aata hai, jobs banti hain, aur innovation grow hota hai. ‘Region’ ka signal hai ki growth city limits se bahar bhi supply chain aur labour market tak connected hoti hai."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/mahatma-gandhi-gram-swaraj-initiative.html#B30-HCAMOE26-T005",
+      "url": "https://www.orangeeconomy.in/p/mahatma-gandhi-gram-swaraj-initiative.html",
+      "name": "महात्मा गांधी ग्राम स्वराज पहल",
+      "alternateName": [
+        "Mahatma Gandhi Gram Swaraj Initiative",
+        "Gram Swaraj Value-Chain Upgrade",
+        "Khadi-Handloom-Handicrafts Market Linkage"
+      ],
+      "termCode": "B30-HCAMOE26-T005",
+      "identifier": "B30-HCAMOE26-T005",
+
+      "description": "बजट भाषण में खादी, हथकरघा और हस्तशिल्प को मजबूत करने के लिए “महात्मा गांधी ग्राम स्वराज पहल” शुरू करने का प्रस्ताव रखा गया है, और इसे स्पष्ट रूप से वैश्विक बाजार संपर्क और ब्रांडिंग से जोड़ा गया है। भाषण के अनुसार यह पहल “प्रशिक्षण, कौशल विकास, प्रक्रिया और उत्पादन की गुणवत्ता” को सुव्यवस्थित और समर्थन देगी, और इससे बुनकरों, ग्राम उद्योगों, एक जिला–एक उत्पाद (ODOP) पहल तथा ग्रामीण युवाओं को लाभ होगा। इससे स्पष्ट है कि यह पहल केवल सांस्कृतिक संरक्षण नहीं, बल्कि एक value-chain upgrade program की तरह डिज़ाइन की गई है। यहाँ “ग्राम स्वराज” का प्रयोग एक आर्थिक अवधारणा के रूप में किया गया है: (1) कौशल उन्नयन, (2) प्रक्रिया गुणवत्ता, (3) उत्पादन सुदृढ़ीकरण, और (4) ब्रांडिंग + वैश्विक बाजार पहुंच। दूसरे शब्दों में, यह ग्रामीण आत्मनिर्भरता को आधुनिक बाजार भाषा में operationalise करता है। Bharat-केंद्रित शब्दावली के दृष्टिकोण से यह महत्वपूर्ण है क्योंकि ऐतिहासिक रूप से महत्वपूर्ण वाक्यांश (ग्राम स्वराज) को आजीविका, उद्योग संपर्क और निर्यात/ब्रांडिंग परिणामों से जोड़ा गया है। भाषण में इसे वस्त्र और क्लस्टर हस्तक्षेपों के हिस्से के रूप में प्रस्तुत किया गया है, यानी यह व्यापक आर्थिक विकास पाइपलाइन के भीतर ही स्थित है, उससे बाहर नहीं।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Mahatma Gandhi Gram Swaraj initiative as described in the Union Budget speech 2026-27. This is not an official scheme guideline document or implementation notification.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget speech proposes launching the “Mahatma Gandhi Gram Swaraj initiative” to strengthen khadi, handloom and handicrafts, explicitly linked to global market linkage and branding. It will streamline and support training, skilling, and quality of process and production, benefiting weavers, village industries, ODOP, and rural youth. This positions the initiative as a value-chain upgrade program rather than only cultural preservation. ‘Gram Swaraj’ is used as an economic construct: skill upgrading, process quality, production strengthening, and branding + global market access -rural self-reliance framed in modern market language. The speech places it within textile and cluster interventions, meaning it sits inside the broader growth pipeline."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Gram Swaraj yahan nostalgia nahi hai. Budget isse rural value-chain upgrade banata hai -khadi, handloom, handicrafts aur ODOP ko training, quality aur global markets + branding se jodna."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Skilling + quality + branding → Outcome: Market access → Impact: Rural income & stronger clusters"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Mahatma Gandhi Gram Swaraj initiative ka matlab yeh hai ki Budget khadi, handloom aur handicrafts ko sirf preserve nahi karna chahta -unhe upgrade karke global market se jodna chahta hai. Isme training, skilling, process aur production quality improve karna, branding aur market linkage banana include hai. Weavers, village industries, ODOP aur rural youth ko benefit milega -goal hai rural income badhana aur export competitiveness improve karna."
+        }
+      ]
+    },
+  {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/corporate-mitras.html#B30-HCAMOE26-T006",
+      "url": "https://www.orangeeconomy.in/p/corporate-mitras.html",
+      "name": "कॉर्पोरेट मित्र",
+      "alternateName": [
+        "Corporate Mitras",
+        "MSME Compliance Helpers",
+        "Accredited Para-Professional Cadre"
+      ],
+      "termCode": "B30-HCAMOE26-T006",
+      "identifier": "B30-HCAMOE26-T006",
+
+      "description": "बजट भाषण में “कॉर्पोरेट मित्र” शब्द का प्रयोग मान्यता प्राप्त अर्ध-पेशेवरों (accredited para-professionals) के एक नामित कैडर के रूप में किया गया है, जिसका उद्देश्य विशेष रूप से द्वितीय और तृतीय स्तर के शहरों में MSMEs को सहायता प्रदान करना है। भाषण में कहा गया है कि ICAI, ICSI, ICMAI जैसे पेशेवर संस्थान इस कैडर को विकसित करने के लिए अल्पकालिक मॉड्यूलर पाठ्यक्रम और व्यावहारिक उपकरण तैयार करेंगे। उनकी भूमिका स्पष्ट है: वे MSMEs को किफायती लागत पर अनुपालन (compliance) आवश्यकताओं को पूरा करने में सहायता करेंगे। यह एक Bharat-केंद्रित अवधारणा है क्योंकि यह एक संरचनात्मक अंतर को स्वीकार करती है: छोटे व्यवसाय अक्सर पूर्ण पैमाने पर पेशेवर अनुपालन टीमों का खर्च वहन नहीं कर सकते, फिर भी अनुपालन न करने से ऋण, अनुबंध और विकास बाधित होते हैं। “कॉर्पोरेट मित्र” को पेशेवर नियामक मानकों और लघु उद्यम की वास्तविकता के बीच एक सेतु (bridge layer) के रूप में स्थापित किया गया है। “मित्र” शब्द एक गैर-धमकी देने वाली सहायता पहचान का संकेत देता है -व्यवसायों को अनुपालन में सहायता करना, न कि उन पर निगरानी रखना। परिचालन दृष्टि से, इसका तात्पर्य भविष्य के पारिस्थितिकी तंत्रों से है: प्रमाणित मॉड्यूलर प्रशिक्षण, तैनाती नेटवर्क, किफायती अनुपालन सुविधा और MSME के औपचारिकीकरण (formalisation) परिणामों में सुधार। परीक्षा के प्रारूप में, परिदृश्य प्रश्न अपेक्षित हैं: “बजट MSMEs के लिए अनुपालन लागत को कैसे कम करने का प्रस्ताव करता है?” -उत्तर में कॉर्पोरेट मित्रों को क्षमता-निर्माण उपकरण के रूप में इंगित किया जाएगा।",
+
+      "disambiguatingDescription": "Independent educational interpretation of 'Corporate Mitras' as mentioned in the Union Budget speech 2026. This is not a statutory regulator role, enforcement authority, or an official compliance policing function.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget speech uses “Corporate Mitras” as a named cadre of accredited para-professionals meant to support MSMEs, particularly in Tier-II and Tier-III towns. It states that professional institutions like ICAI, ICSI, and ICMAI will design short-term modular courses and practical tools to develop this cadre. Their role is explicit: helping MSMEs meet compliance requirements at affordable costs. This acknowledges a structural gap -small businesses often cannot afford full compliance teams, yet non-compliance blocks credit, contracts, and growth. Corporate Mitras are positioned as a bridge layer between professional regulatory standards and small-enterprise reality. ‘Mitra’ signals a non-threatening support identity -helping businesses comply rather than policing them. Operationally, it implies certified modular training, deployment networks, affordable compliance facilitation, and improved MSME formalisation outcomes. Exam-style framing can ask: “How does the budget propose reducing compliance cost for MSMEs?” -answer points to Corporate Mitras as a capacity-building tool."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Corporate Mitras MSMEs ke liye low-cost compliance helpers honge. ICAI, ICSI jaise institutes modular courses + practical tools design karenge. Ye police nahi, mitra honge -compliance mein help karne ke liye."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Compliance support → Outcome: Formalisation & easier access → Impact: MSME growth & credit readiness"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Corporate Mitras ka matlab hai MSMEs ke liye certified compliance helpers -especially Tier-II aur Tier-III towns mein. Budget ke hisaab se ICAI, ICSI, ICMAI jaise institutes short modular courses aur practical tools banayenge, jisse trained para-professionals MSMEs ko affordable cost par compliance complete karne mein help kar sakein. Ye enforcement ya policing nahi -support layer hai. Result: formalisation better, credit aur contracts ke chances improve, aur non-compliance kam."
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/orange-economy.html#B30-HCAMOE26-T007",
+      "url": "https://www.orangeeconomy.in/p/orange-economy.html",
+      "name": "ऑरेंज इकोनॉमी",
+      "alternateName": [
+        "Orange Economy",
+        "Orange Economy (AVGC Focus)",
+        "AVGC Economy",
+        "Animation VFX Gaming Comics Sector"
+      ],
+      "termCode": "B30-HCAMOE26-T007",
+      "identifier": "B30-HCAMOE26-T007",
+
+      "description": "बजट भाषण में AVGC (एनिमेशन, विजुअल इफेक्ट्स, गेमिंग और कॉमिक्स) क्षेत्र को स्पष्ट रूप से “ऑरेंज इकोनॉमी” के अंतर्गत रखा गया है। इसमें AVGC को एक बढ़ते उद्योग के रूप में प्रस्तुत किया गया है, जिसके लिए 2030 तक 20 लाख पेशेवरों की आवश्यकता होने का अनुमान है, और मुंबई स्थित भारतीय रचनात्मक प्रौद्योगिकी संस्थान के माध्यम से 15,000 माध्यमिक विद्यालयों और 500 कॉलेजों में AVGC कंटेंट क्रिएटर लैब स्थापित करने के लिए समर्थन का प्रस्ताव दिया गया है। “ऑरेंज इकोनॉमी” का यह उपयोग रचनात्मक/सांस्कृतिक डिजिटल क्षेत्र को एक आर्थिक श्रेणी के रूप में स्थापित करता है, न कि केवल एक शौक उद्योग के रूप में। यह शब्द Bharat-केंद्रित हो जाता है क्योंकि यह सांस्कृतिक सृजन को रोजगार, कौशल विकास और स्कूल/कॉलेज के बुनियादी ढांचे से जोड़ता है -रचनात्मकता को औपचारिक कार्यबल नियोजन में बदल देता है। बजट इसे राष्ट्रीय शिक्षा और कौशल विकास संरचना (बड़े पैमाने पर प्रयोगशालाएं) से भी जोड़ता है, जो STEM पाइपलाइनों की तरह प्रतिभा आपूर्ति को प्रारंभिक स्तर पर विकसित करने के सुनियोजित प्रयास का संकेत देता है। व्यवहार में, यहाँ “ऑरेंज इकोनॉमी” का अर्थ है: (1) एक मान्यता प्राप्त रोजगार-सृजन क्षेत्र, (2) कंटेंट निर्माण उपकरणों/प्रयोगशालाओं के लिए संस्थागत समर्थन, और (3) बड़े पैमाने पर प्रतिभा विकास। यह एक “new term signal” भी है क्योंकि यह एक नीतिगत लेबल प्रदान करता है जो बाद में कई योजनाओं को एक ही पहचान के तहत समूहित कर सकता है।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech usage of the label 'Orange Economy' for AVGC. This is not an official industry classification document or a standalone government scheme notification.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget speech explicitly labels the AVGC sector (Animation, Visual Effects, Gaming and Comics) under the term “Orange Economy.” It frames AVGC as a growing industry projected to require 2 million professionals by 2030, and proposes support via the Indian Institute of Creative Technologies, Mumbai to set up AVGC Content Creator Labs in 15,000 secondary schools and 500 colleges. This use of “Orange Economy” makes the creative/cultural digital sector an economic category, not a hobby industry. The term becomes Bharat-centric because it ties cultural creation to jobs, skill pipelines, and school/college infrastructure -turning creativity into formal workforce planning. The budget also links it to national education and skilling architecture (labs at scale), suggesting a deliberate effort to build talent supply early, similar to STEM pipelines. In practice, “Orange Economy” here means: (1) a recognised employment-generating sector, (2) institutional support for content creation tools and labs, and (3) mass-scale talent development. It is a “new term” signal because it provides a policy label that can later group many schemes under one identity."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "AVGC sector ko Budget ne Orange Economy ka naam diya -yaani creativity bhi job economy hai. Schools aur colleges mein AVGC labs banenge, jisse talent pipeline early stage se build hogi."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Creative labs → Outcome: Skilled creators → Impact: Digital jobs & exports"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Budget speech mein AVGC -Animation, VFX, Gaming aur Comics -ko ‘Orange Economy’ label diya gaya hai, matlab creativity ab hobby nahi, job economy hai. Speech ke hisaab se 2030 tak lagbhag 20 lakh professionals ki demand ho sakti hai. Isliye schools aur colleges mein AVGC Content Creator Labs propose kiye gaye hain -15,000 secondary schools aur 500 colleges mein, Indian Institute of Creative Technologies, Mumbai ke through. Goal: mass-scale talent pipeline banana aur digital creative jobs create karna."
+        }
+      ]
+    },
+   {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/national-destination-digital-knowledge.html#B30-HCAMOE26-T008",
+      "url": "https://www.orangeeconomy.in/p/national-destination-digital-knowledge.html",
+      "name": "राष्ट्रीय गंतव्य डिजिटल ज्ञान ग्रिड",
+      "alternateName": [
+        "National Destination Digital Knowledge Grid",
+        "Destination Digital Knowledge Grid",
+        "Digital Heritage Knowledge Grid",
+        "Connected Heritage Datasets Grid"
+      ],
+      "termCode": "B30-HCAMOE26-T008",
+      "identifier": "B30-HCAMOE26-T008",
+
+      "description": "भाषण में सभी महत्वपूर्ण सांस्कृतिक, आध्यात्मिक और विरासत स्थलों को डिजिटल रूप से प्रलेखित करने के लिए एक “राष्ट्रीय गंतव्य डिजिटल ज्ञान ग्रिड” का प्रस्ताव रखा गया है। महत्वपूर्ण बात यह है कि भाषण इसे केवल एक अभिलेख परियोजना के रूप में प्रस्तुत नहीं करता है; बल्कि इसे स्थानीय शोधकर्ताओं, इतिहासकारों, सामग्री निर्माताओं और प्रौद्योगिकी भागीदारों के लिए रोजगार का एक नया पारिस्थितिकी तंत्र बनाने के रूप में प्रस्तुत करता है। इससे बजट का उद्देश्य स्पष्ट होता है: भारत की सभ्यतागत संपत्तियों को एक संरचित डिजिटल सार्वजनिक ज्ञान परत में बदलना जो पर्यटन, शिक्षा, स्थानीय आजीविका और डिजिटल सामग्री उद्योगों का समर्थन करे। “ग्रिड” का विचार अलग-थलग वेबपेजों के बजाय मानकीकृत, जुड़े हुए डेटासेट को दर्शाता है -जिनका उपयोग प्लेटफॉर्म, टूर ऑपरेटर, डिजिटल गाइड और भविष्य में संभावित रूप से एआई टूल द्वारा किया जा सकता है। यह बड़े पैमाने पर डिजिटल प्रलेखन को सक्षम करके शीर्ष स्तरीय पर्यटन स्थलों से परे भारत की स्थानीय विरासत की “खोज” को भी अप्रत्यक्ष रूप से समर्थन देता है। व्यावहारिक रूप से: यह प्रलेखन, कहानी कहने, मानचित्रण, डिजिटलीकरण और सामग्री सत्यापन के माध्यम से रोजगार सृजित कर सकता है। यह शब्द Bharat-केंद्रित है क्योंकि यह विरासत + आजीविका + डिजिटल अवसंरचना को एक ही नाम में एकीकृत करता है। परीक्षा मानचित्रण के लिए: संभावित प्रश्नों में शामिल है, “प्रस्तावित ग्रिड का उद्देश्य क्या है?” और “यह किस प्रकार का रोजगार तंत्र बनाता है?”",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal of a connected digital documentation ‘grid’ for destinations. This is not an official archive specification, technical standard, or a completed national database release.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech proposes a “National Destination Digital Knowledge Grid” to digitally document all places of significance -cultural, spiritual, and heritage. It is positioned not as an archive-only project but as creating a new ecosystem of jobs for local researchers, historians, content creators, and technology partners. The intent is to turn Bharat’s civilisational assets into a structured digital public knowledge layer supporting tourism, education, local livelihoods, and digital content industries. The “grid” implies standardised, connected datasets (not isolated webpages) usable by platforms, tour operators, digital guides, and potentially AI tools in the future. It also supports discoverability of local heritage beyond top-tier tourist sites through digital documentation at scale. Practically, it can drive employment through documentation, storytelling, mapping, digitisation, and content verification. Exam mapping can ask: “What is the grid’s purpose?” and “Which job ecosystem does it create?”"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Bharat ke heritage, spiritual aur cultural places ko ek digital grid mein document kiya jayega -sirf archive nahi, jobs ecosystem ke liye. Local researchers, historians, creators aur tech partners ko kaam milega."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Digitisation → Outcome: Discoverability → Impact: Local employment & tourism enablement"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "National Destination Digital Knowledge Grid ka matlab hai Bharat ke cultural, spiritual aur heritage places ko ek connected digital grid mein document karna. Speech isse sirf archive project nahi maanta -ye local researchers, historians, content creators aur tech partners ke liye jobs ecosystem create karne ka idea hai. ‘Grid’ ka signal hai standardised, linked datasets -taaki tourism, education aur local livelihoods ko support mile, aur future mein platforms, digital guides ya AI tools bhi in datasets ko use kar saken."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/turtle-trails.html#B30-HCAMOE26-T009",
+      "url": "https://www.orangeeconomy.in/p/turtle-trails.html",
+      "name": "कछुआ पथ",
+      "alternateName": [
+        "Turtle Trails",
+        "Ecologically Sustainable Turtle Tourism Trails",
+        "Nesting Site Themed Trails"
+      ],
+      "termCode": "B30-HCAMOE26-T009",
+      "identifier": "B30-HCAMOE26-T009",
+
+      "description": "बजट भाषण में पारिस्थितिक रूप से टिकाऊ पर्यटन अनुभवों के हिस्से के रूप में ओडिशा, कर्नाटक और केरल के तटीय क्षेत्रों में प्रमुख घोंसला बनाने वाले स्थलों के साथ “कछुआ पथ” विकसित करने का प्रस्ताव है। यह महज़ एक पर्यटन नारा नहीं है: यह आजीविका और संरक्षण से जुड़ा एक सूक्ष्म दृष्टिकोण है। पर्वतीय पथों और पक्षी अवलोकन पथों के साथ “कछुआ पथ” का नामकरण करके, भाषण पर्यटन को स्थानीय रोजगार के लिए डिज़ाइन किए गए संरचित, विषय-आधारित मार्गों के रूप में प्रस्तुत करता है, जो पारिस्थितिक स्थिरता को बनाए रखते हैं। “कछुआ पथ” में निर्देशित अनुभव, आगंतुक प्रबंधन, व्याख्या सहायता और स्थानीय सेवा पारिस्थितिकी तंत्र (होमस्टे, परिवहन, स्थानीय उत्पाद) जैसी बुनियादी ढांचागत सुविधाएं शामिल हैं, लेकिन ये संरक्षण संवेदनशीलता से जुड़ी हैं। यह Bharat-केंद्रित है क्योंकि यह भारत की जैव विविधता संपदा (घोंसला बनाने वाले स्थल) को लेता है और इसे सामान्य “पर्यावरण-पर्यटन” के बजाय एक नामयुक्त, रोजगार-संबंधी पर्यटन श्रेणी में परिवर्तित करता है। भाषण की भाषा से पता चलता है कि ये पथ नीति-मान्यता प्राप्त इकाइयाँ हैं (जिनकी योजना बनाई जा सकती है, बजट बनाया जा सकता है और मानकीकरण किया जा सकता है), जिन्हें बाद में अन्य संरक्षण विषयों के लिए दोहराया जा सकता है। परीक्षा शैली का दृष्टिकोण: प्रस्तावित पर्यटन हस्तक्षेप “कहां” और “किस प्रकार का” है, इसकी पहचान करें और यह “पारिस्थितिक रूप से टिकाऊ” क्यों है, यह बताएं।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal of 'Turtle Trails' as a conservation-sensitive, themed tourism route model. Its NOT 'Turtle' itself but the metaphor used because the aim is for a specific  Turtle nesting sites in coastal belts as part of ecologically sustainable tourism experiences.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget speech proposes developing “Turtle Trails” along key nesting sites in coastal Odisha, Karnataka, and Kerala as part of ecologically sustainable tourism experiences. This is not merely a slogan; it is a micro-livelihood and conservation-aligned concept. By naming Turtle Trails alongside mountain trails and bird watching trails, the speech frames tourism as structured, themed routes designed for local employment while maintaining ecological sustainability. Turtle Trails imply guided experiences, visitor management, interpretation support, and local service ecosystems (homestays, transport, local products), anchored to conservation sensitivity. It is Bharat-centric because it converts India’s biodiversity asset (nesting sites) into a named, job-linked tourism category rather than generic eco-tourism. The phrasing suggests policy-recognisable units that can be planned, budgeted, and standardised, and replicated later for other conservation themes. Exam angle: identify where and what type of intervention is proposed, and why it is ecologically sustainable."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Turtle Trails eco-tourism ka structured model hai -nesting sites par conservation + livelihood. Ye sirf slogan nahi, planned trail system hai."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Trail planning → Outcome: Eco tourism → Impact: Jobs + conservation"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Turtle Trails ka matlab hai Odisha, Karnataka aur Kerala ke coastal nesting sites ke around ecologically sustainable tourism routes banana. Ye sirf tourism slogan nahi -conservation aur local livelihoods ko saath jodne ka model hai. Trails mein guided experiences, visitor management, interpretation support aur local services jaise homestay, transport, local products aate hain, lekin sab conservation sensitivity ke saath. Exam mein yaad rakhein: kahan propose hua, kis type ka intervention hai, aur eco-sustainable kyun hai."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/bird-watching-trails.html#B30-HCAMOE26-T010",
+      "url": "https://www.orangeeconomy.in/p/bird-watching-trails.html",
+      "name": "बर्ड-वाचिंग ट्रेल्स",
+      "alternateName": [
+        "Bird-Watching Trails",
+        "Bird watching trails",
+        "Pulikat Lake Bird-Watching Trails",
+        "Ecologically Sustainable Birding Trails"
+      ],
+      "termCode": "B30-HCAMOE26-T010",
+      "identifier": "B30-HCAMOE26-T010",
+
+      "description": "भाषण में आंध्र प्रदेश और तमिलनाडु में पुलिकट झील के किनारे “बर्ड वाचिंग ट्रेल्स” विकसित करने का प्रस्ताव है, जो फिर से ecologically sustainable tourism के तहत होगा। टर्टल ट्रेल्स की तरह, यह शब्द बताता है कि टूरिज्म को सिर्फ़ स्मारकों और होटलों तक सीमित न रखकर, अनुभव-आधारित थीम वाले ट्रेल्स के रूप में कॉन्सेप्टुअलाइज़ किया जा रहा है। बर्ड-वाचिंग ट्रेल्स का मतलब है trained guide, mapped routes, देखने का infrastructure, biodiversity के अनुकूल visitor rules, और स्थानीय स्तर पर micro-services। बजट इसे पहाड़ों के ट्रेल्स और कछुओं के ट्रेल्स वाली list में रखता है -जो एक broader tourism policy pivot दिखाता है: ‘टूरिज्म’ को पारंपरिक urban/heritage circuits से आगे बढ़ाकर nature-based, region-specific experiences तक ले जाना। Bharat-centric हिस्सा इसका localisation है: पुलिकट झील का नाम लेना, और अनुभव को एक विशिष्ट ecological geography से जोड़ना। यह distributed livelihoods को भी support करता है क्योंकि trail-based tourism आमतौर पर guides, छोटे operators, transport, local food और community stays के लिए jobs पैदा करता है। परीक्षा के नज़रिए से, इसे इस तरह test किया जा सकता है: “कौन से नए eco-tourism products प्रस्तावित किए गए?” या “bird-watching trails के लिए किन locations को target किया गया?”  - factual + application blend।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal of bird-watching trails at Pulikat lake as an eco-tourism product. This is not a finalized operational plan, route map, or site-level implementation guideline.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech proposes developing “Bird watching trails” along Pulikat lake in Andhra Pradesh and Tamil Nadu under ecologically sustainable tourism. Like Turtle Trails, this indicates tourism is being conceptualised as experience-based themed trails rather than only monuments and hotels. Bird-watching trails imply trained guides, mapped routes, viewing infrastructure, biodiversity-friendly visitor rules, and locally anchored micro-services. Placed alongside mountain and turtle trails, it signals a tourism policy pivot beyond urban/heritage circuits to nature-based, region-specific experiences. The localisation -naming Pulikat lake -anchors it to specific ecological geography. It supports distributed livelihoods via jobs for guides, small operators, transport, local food and community stays. Exam angle: which new eco-tourism products were proposed and which locations were targeted."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Pulikat Lake jaise areas mein bird-watching trails banenge -tourism ko experience-based banane ke liye. Guides, mapped routes aur biodiversity-friendly rules ke saath."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Trail ecosystem → Outcome: Nature tourism → Impact: Distributed livelihoods"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Bird-Watching Trails ka matlab hai Pulikat Lake ke around Andhra Pradesh aur Tamil Nadu mein eco-sustainable tourism routes banana. Ye monuments aur hotels wali tourism nahi -experience-based themed trails hain. Isme trained guides, mapped routes, viewing infrastructure, biodiversity-friendly visitor rules aur local micro-services aate hain. Outcome: nature tourism grow karega aur guides, local transport, food aur community stays ke through distributed livelihoods create hongi -lekin ecology protection ke checks ke saath."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/amrit-sarovars-fisheries-integration.html#B30-HCAMOE26-T011",
+      "url": "https://www.orangeeconomy.in/p/amrit-sarovars-fisheries-integration.html",
+      "name": "अमृत सरोवर (मत्स्य पालन एकीकरण)",
+      "alternateName": [
+        "Amrit Sarovars (Fisheries Integration)",
+        "Integrated Development of Amrit Sarovars for Fisheries",
+        "Reservoirs & Amrit Sarovars Fisheries Value Chain",
+        "Amrit Sarovars Livelihood Hubs"
+      ],
+      "termCode": "B30-HCAMOE26-T011",
+      "identifier": "B30-HCAMOE26-T011",
+
+      "description": "भाषण में साफ़ तौर पर मत्स्य पालन पहलों के तहत “500 जलाशयों और अमृत सरोवरों के integrated development” का ज़िक्र किया गया है, और फिर तुरंत इसे तटीय इलाकों में मत्स्य पालन value chain को मज़बूत करने और startups और women-led groups को Fish Farmers Producer Organisations (FFPOs) के साथ market linkage से जोड़ने से जोड़ा गया है। यह महत्वपूर्ण है: अमृत सरोवरों पर सिर्फ़ जल निकायों के रूप में चर्चा नहीं की गई है; उन्हें आजीविका उत्पादन प्रणालियों (मत्स्य पालन), value chain और market linkages से जोड़ा गया है। “Integrated development” एक multi-component दृष्टिकोण का संकेत देता है: जल संसाधन सुधार + aquaculture क्षमता + supporting ecosystem linkages। Bharat-centric विशिष्टता “अमृत” जैसे culturally recognisable राष्ट्रीय शब्द को लेकर उसे purely conservation के बजाय एक specific economic value chain (fisheries) के भीतर रखने से आती है। Operationally, इसमें stocking, cold chain, processing, local distribution और institutional linkages (FFPOs) शामिल हो सकते हैं। परीक्षा तैयारी के लिए, ऐसे प्रश्न अपेक्षित हैं: “Budget मत्स्य पालन के माध्यम से किसानों की आय बढ़ाने का प्रस्ताव कैसे करता है?”  - उत्तर में reservoirs और Amrit Sarovars का integrated development + value chain strengthening + market linkages शामिल हैं।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing of Amrit Sarovars as fisheries-linked livelihood hubs with value-chain and FFPO-based market linkages. This is not an official operational handbook or scheme guideline.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech explicitly mentions “integrated development of 500 reservoirs and Amrit Sarovars” under fisheries initiatives, and immediately connects it to strengthening fisheries value chains in coastal areas and enabling market linkages involving startups and women-led groups with Fish Farmers Producer Organisations. This is significant because Amrit Sarovars are framed not only as water bodies but as livelihood production systems linked to value chains and market access. “Integrated development” signals a multi-component approach: water resource improvement + aquaculture potential + supporting ecosystem linkages. The Bharat-centric uniqueness comes from using a culturally recognisable term (“Amrit”) inside a specific economic value chain (fisheries), not purely conservation. Operationally, it implies stocking, cold chain, processing, local distribution, and institutional linkages (FFPOs). Exam readiness: expect “How does the budget propose to increase farmer incomes through fisheries?” -answer includes integrated development plus value-chain strengthening and market linkages."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Amrit Sarovars ab sirf paani nahi -fisheries livelihood hubs banenge, FFPOs aur market linkages ke saath. Integrated development ka matlab multi-part upgrade hai."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Integrated development → Outcome: Value chain → Impact: Farmer income"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Amrit Sarovars (Fisheries Integration) ka matlab hai 500 reservoirs aur Amrit Sarovars ka integrated development karke unhe fisheries livelihood system se jodna. Speech isse sirf water body project nahi batati -ye fisheries value chain, coastal areas mein strengthening, aur startups/women-led groups ko FFPOs ke through market linkages dene ka model hai. Integrated development ka signal hai: water improvement + aquaculture capacity + cold chain/processing/distribution jaise ecosystem linkages. Outcome: farmer income aur market access, aur consequence: market accountability."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/high-value-agriculture.html#B30-HCAMOE26-T012",
+      "url": "https://www.orangeeconomy.in/p/high-value-agriculture.html#B30-HCAMOE26-T012",
+      "name": "हाई वैल्यू एग्रीकल्चर",
+      "alternateName": [
+        "High Value Agriculture",
+        "Region-coded crop push",
+        "High-value crops portfolio",
+        "Income-focused specialised crop ecosystems"
+      ],
+      "termCode": "B30-HCAMOE26-T012",
+      "identifier": "B30-HCAMOE26-T012",
+
+      "description": "भाषण में प्रोडक्टिविटी, किसानों की इनकम और रोज़गार बढ़ाने के मकसद से किए जा रहे diversification के लिए “हाई वैल्यू एग्रीकल्चर” शब्द का इस्तेमाल किया गया है। इसमें तटीय इलाकों में नारियल, चंदन, कोको और काजू जैसी high value फसलों और North East में अगर के पेड़ों, साथ ही पहाड़ी इलाकों में बादाम, अखरोट और पाइन नट्स जैसे मेवों का ज़िक्र किया गया है। यह इसलिए ज़रूरी है क्योंकि भाषण में “region-coded” agricultural strategy अपनाई गई है: फसलों से जुड़े उपायों को भूगोल और comparative advantage के हिसाब से मिलाया गया है। यह कोई generic subsidy statement नहीं; यह geography mapping के साथ high-value crops का targeted portfolio है। यह बागों को फिर से ज़िंदा करके और high-density खेती का विस्तार करके युवाओं की भागीदारी और value addition से भी जुड़ा है। Bharat-centric terms में, यहाँ “High Value Agriculture” का मतलब bulk staples framing से हटकर income-focused specialised crop ecosystems की ओर shift है, जिसमें branding और export competitiveness (especially cashew/cocoa) शामिल है। Exam के लिए, यह phrase इसलिए important है क्योंकि यह जोड़ता है: (1) named crops, (2) targeted regions, और (3) intended economic outcomes (income + jobs + value addition)।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech phrase 'High Value Agriculture' as a region-coded, geography-mapped high-value crop diversification push. This is not a crop advisory, procurement notice, or state-wise cultivation guideline.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech uses “High Value Agriculture” to describe a diversification push aimed at increasing productivity, farmer incomes, and employment. It specifies high value crops such as coconut, sandalwood, cocoa and cashew in coastal areas, agar trees in the North East, plus nuts like almonds, walnuts, and pine nuts in hilly regions. This matters because the speech is doing a “region-coded” strategy: matching crop interventions to geography and comparative advantage. It’s not a generic subsidy statement; it’s a targeted portfolio with geography mapping. It also links to youth engagement and value addition via orchard rejuvenation and high-density cultivation. Bharat-centric meaning: shift from bulk staples framing to income-focused specialised crop ecosystems, including branding and export competitiveness (especially cashew/cocoa). Exam lens: (1) crops named, (2) regions targeted, (3) outcomes intended (income + jobs + value addition)."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Budget region-specific high-value crops push karta hai -coastal, hilly aur North East areas ke hisaab se. Goal: income, jobs aur value addition."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Crop targeting → Outcome: Higher value → Impact: Income + jobs"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "High Value Agriculture ka matlab hai Budget ka region-coded crop push -har geography ke hisaab se high-value crops choose karna. Coastal areas mein coconut, sandalwood, cocoa, cashew; North East mein agar trees; aur hilly regions mein almonds, walnuts, pine nuts. Ye generic subsidy nahi -targeted portfolio hai jo productivity badhaye, farmer income aur jobs create kare, aur value addition ko push kare -orchards rejuvenation aur high-density cultivation ke through. Cashew aur cocoa jaise crops mein branding aur export competitiveness bhi focus ho sakta hai. Consequence: regional performance par accountability."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/indian-cashew-cocoa.html#B30-HCAMOE26-T013",
+      "url": "https://www.orangeeconomy.in/p/indian-cashew-cocoa.html",
+      "name": "भारतीय काजू और भारतीय कोको  - प्रीमियम ग्लोबल ब्रांड",
+      "alternateName": [
+        "Indian (भारत) Cashew as a Premium Global Brand",
+        "Indian (भारत) Cocoa as a Premium Global Brand",
+        "Dedicated programme for cashew & cocoa",
+        "India (भारत)-as-brand strategy (Agriculture)"
+      ],
+      "termCode": "B30-HCAMOE26-T013",
+      "identifier": "B30-HCAMOE26-T013",
+
+      "description": "भाषण में “भारतीय काजू और कोको के लिए एक खास कार्यक्रम” का प्रस्ताव है, जिसके कई मकसद हैं: कच्चे माल के उत्पादन और प्रोसेसिंग में आत्मनिर्भरता, export competitiveness बढ़ाना, और 2030 तक भारतीय काजू और भारतीय कोको को premium global brand में बदलना। यह agriculture sector में एक साफ “India (भारत)-as-brand” strategy है। यह बताता है कि Budget सिर्फ production को फंड नहीं कर रहा; इसका मकसद भारत को value chain में ऊपर ले जाना, branding, quality और export positioning में आगे बढ़ाना है। 2030 का नाम लेकर, यह medium-term target तय करता है। इसका मतलब यह भी है कि procurement, processing capacity, quality standards, packaging, traceability और export ecosystem readiness जैसे क्षेत्रों में interventions होंगे। यह Bharat-centric है क्योंकि यह “Indian (भारत) Cashew / Indian (भारत) Cocoa” को branded identity की तरह उपयोग करता है -जैसे देश कुछ agri-products को globally brand करते हैं। Learners के लिए, यह term ऐसे test हो सकता है: “किन crops को premium global branding के लिए target किया गया?” और “खास programme के objectives क्या हैं?” -direct factual recall + value-chain outcome reasoning।",
+"disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal to brand Indian (भारत) cashew and cocoa as premium global brands by 2030 through value-chain and export ecosystem upgrades. This is not an export notification, GI registration notice, or procurement guideline.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech proposes a dedicated programme for Indian (भारत) cashew and cocoa with multiple objectives: self-reliance in raw production and processing, enhanced export competitiveness, and transforming Indian (भारत) Cashew and Indian (भारत) Cocoa into premium global brands by 2030. This is an explicit India-as-brand strategy inside agriculture, signalling a move up the value chain into branding, quality and export positioning -not only production funding. Naming 2030 frames a medium-term target and implies interventions across procurement, processing capacity, quality standards, packaging, traceability and export ecosystem readiness. For exams: identify the crops targeted and state the programme objectives, then connect them to value-chain outcomes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Cashew aur cocoa ko “Indian (भारत)” premium global brand banana clear goal hai -production se branding tak. 2030 tak premium positioning target hai."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Value chain build → Outcome: Brand identity → Impact: Export premium"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Indian (भारत) Cashew aur Indian (भारत) Cocoa ko Budget speech ne premium global brand banane ka target diya hai -2030 tak. Is dedicated programme ka intent hai raw production aur processing mein self-reliance, export competitiveness badhana, aur value chain ko upgrade karke branding, quality aur export positioning strong karna. Iska matlab interventions procurement, processing capacity, quality standards, packaging, traceability aur export ecosystem readiness tak ja sakte hain. Output: premium brand identity; impact: export premium; consequence: quality standards par strict accountability."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/indian-sandalwood-ecosystem.html#B30-HCAMOE26-T014",
+      "url": "https://www.orangeeconomy.in/p/indian-sandalwood-ecosystem.html#",
+      "name": "भारतीय (भारत) चंदन इकोसिस्टम पुनरुद्धार",
+      "alternateName": [
+        "Indian (भारत) Sandalwood Ecosystem Revival",
+        "Restore the glory of sandalwood ecosystem",
+        "Focused cultivation + post-harvest processing (Sandalwood)",
+        "Heritage economy (Sandalwood)"
+      ],
+      "termCode": "B30-HCAMOE26-T014",
+      "identifier": "B30-HCAMOE26-T014",
+
+      "description": "भाषण में कहा गया है कि चंदन भारत की सामाजिक और सांस्कृतिक विरासत से गहराई से जुड़ा हुआ है और सरकार “भारतीय चंदन इकोसिस्टम की महिमा को बहाल करने” के लिए राज्य सरकारों के साथ मिलकर focused cultivation और कटाई के बाद की post-harvest processing को बढ़ावा देगी। यह एक मज़बूत ecosystem framing है: सिर्फ़ पेड़ लगाना नहीं, बल्कि एक पूरी chain विकसित करना -cultivation practices, processing capability और coordinated State partnership। “Ecosystem” शब्द interlinked actors का संकेत देता है: किसान, forest/agroforestry systems, processors, quality regulators, market linkages और संभावित value addition industries (oil, fragrance, crafts)। Cultural heritage mention Bharat-centric depth जोड़ता है: चंदन को सिर्फ commodity नहीं, बल्कि economic potential वाली civilisational asset माना गया है। “महिमा को बहाल करना” corrective policy intent का संकेत है -जो decline या constraints का सामना कर रही चीज़ को revive करना चाहती है। Exam lens: scenario questions जैसे “Budget culture और economy को कैसे integrate करता है?” -answer में sandalwood revival और destination digital knowledge grid जैसे examples cite किए जा सकते हैं। Operational idea: State partnership + focused cultivation + post-harvest processing = ecosystem restoration।",
+"disambiguatingDescription": "Independent educational interpretation of the Budget speech phrase about restoring the glory of the Indian (भारत) sandalwood ecosystem through state partnerships, focused cultivation, and post-harvest processing. This is not a forestry permit, harvesting rulebook, or commercial procurement advisory.",
+
+     "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech states sandalwood is closely linked to India (भारत)’s social and cultural heritage and that the Government will partner with State Governments to promote focused cultivation and post-harvest processing to restore the glory of the Indian (भारत) Sandalwood ecosystem. This is an ecosystem framing: not only planting trees, but building a complete chain -cultivation practices, processing capability and coordinated state partnership. ‘Ecosystem’ signals interlinked actors: farmers, forest/agroforestry systems, processors, quality regulators, market linkages and value-add industries (oils, fragrances, crafts). The heritage framing treats sandalwood as a civilisational asset with economic potential. ‘Restore the glory’ implies corrective revival intent. Exam angle: scenario questions on integrating culture and economy; operational idea: state partnership + focused cultivation + post-harvest processing = ecosystem restoration."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Sandalwood ko cultural + economic ecosystem maana gaya hai -State partnerships, focused cultivation aur post-harvest processing ke saath."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Ecosystem revival → Outcome: Sustainable supply → Impact: Heritage economy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Indian (भारत) Sandalwood Ecosystem Revival ka matlab hai chandan ko sirf tree planting ke level par nahi, pura ecosystem ke रूप mein revive karna. Budget speech ke अनुसार, Government State Governments ke saath milkar focused cultivation aur post-harvest processing promote karegi -taaki Indian sandalwood ecosystem ki ‘glory’ restore ho. Ecosystem ka matlab hai farmers, agroforestry systems, processors, quality regulation, market linkages aur oils/fragrances/crafts jaise value-add industries ka connected chain. Impact: heritage economy aur sustainable supply; consequence: resource stewardship aur quality accountability."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/bharat-vistaar.html#B30-HCAMOE26-T015",
+      "url": "https://www.orangeeconomy.in/p/bharat-vistaar.html",
+      "name": "भारत-विस्तार (Bharat-VISTAAR)",
+      "alternateName": [
+        "Bharat-VISTAAR",
+        "Virtually Integrated System to Access Agricultural Resources",
+        "Multilingual AI advisory tool for agriculture",
+        "AgriStack + ICAR integration (AI decision support)"
+      ],
+      "termCode": "B30-HCAMOE26-T015",
+      "identifier": "B30-HCAMOE26-T015",
+
+      "description": "बजट में भारत-विस्तार लॉन्च करने का प्रस्ताव है और इसे तुरंत एक बहुभाषी AI टूल के रूप में परिभाषित किया गया है। इसका मकसद AgriStack पोर्टल और कृषि पद्धतियों पर ICAR पैकेज को AI सिस्टम के साथ इंटीग्रेट करना है, ताकि खेती की प्रोडक्टिविटी बढ़ाई जा सके, किसानों को बेहतर फैसले लेने में मदद मिल सके, और customised सलाह के जरिए जोखिम कम किया जा सके। यह भारत-केंद्रित डिजिटल ढांचा है क्योंकि यह तीन भारतीय प्राथमिकताओं को एक ही सिस्टम में जोड़ता है: (1) बहुभाषी एक्सेस (भाषा को शामिल करना), (2) मौजूदा सरकारी/सेक्टर के संसाधनों का इंटीग्रेशन (AgriStack + ICAR), और (3) सलाह और जोखिम कम करने के लिए applied AI। जोर “AI को innovation के तौर पर” नहीं है; यह “AI को extension service के तौर पर” है, लेकिन personalised और scalable। “Virtually Integrated” का मतलब है बिखरे हुए संसाधनों को किसानों के लिए एक इस्तेमाल करने लायक interface में जोड़ना। असल में, भारत-विस्तार को decision support के तौर पर बनाया गया है: यह किसानों को practices चुनने, conditions पर प्रतिक्रिया देने और uncertainty कम करने में मदद करता है। Exam lens: “खेती के लिए किस नए AI टूल का प्रस्ताव है और यह किन चीज़ों को integrate करता है?” -direct recall + integration logic वाला सवाल।",
+"disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal describing Bharat-VISTAAR as a multilingual AI advisory/decision-support tool integrating AgriStack and ICAR agricultural practice resources. This is not a technical specification, product manual, or operational SOP of the tool.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The budget proposes launching Bharat-VISTAAR and defines it as a multilingual AI tool. Its purpose is to integrate AgriStack portals and the ICAR package on agricultural practices with AI systems to enhance productivity, enable better farmer decisions, and reduce risk via customised advisory support. This is Bharat-centric because it combines multilingual access, integration of existing government/sector resources (AgriStack + ICAR), and applied AI for advisory and risk reduction -framing AI as an extension service that is personalised and scalable. ‘Virtually Integrated’ implies connecting dispersed resources into one usable interface. Exam style: “Which new AI tool is proposed for agriculture and what does it integrate?” -direct recall with integration logic."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Bharat-VISTAAR ek multilingual AI advisory tool hai jo AgriStack aur ICAR practices ko jodta hai -taaki farmers better decision lein aur risk kam ho."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: AI integration → Outcome: Better decisions → Impact: Risk reduction"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Bharat-VISTAAR ek proposed multilingual AI tool hai jo AgriStack portals aur ICAR ke agricultural practice resources ko AI systems ke saath integrate karega. Goal hai farm productivity badhana, farmers ko better decisions mein help karna, aur customised advisory se risk reduce karna. Yahan AI ko innovation ke buzzword ki tarah nahi, extension service ki tarah treat kiya gaya hai -personalised aur scalable. ‘Virtually Integrated’ ka matlab dispersed resources ko ek usable interface mein jodna. Impact: risk reduction; consequence: advisory accuracy aur data-quality accountability."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/agri-stack.html#B30-HCAMOE26-T016",
+      "url": "https://www.orangeeconomy.in/p/agri-stack.html",
+      "name": "एग्रीस्टैक पोर्टल्स (AgriStack Portals)",
+      "alternateName": [
+        "AgriStack portals",
+        "AgriStack (as AI advisory input layer)",
+        "Agriculture DPI portals/resources",
+        "Structured agri data layer for decision support"
+      ],
+      "termCode": "B30-HCAMOE26-T016",
+      "identifier": "B30-HCAMOE26-T016",
+      "description": "बजट भाषण में एग्रीस्टैक पोर्टल्स को भारत-विस्तार में इंटीग्रेट किए जाने वाले मुख्य सिस्टम में से एक बताया गया है। हालांकि भाषण में एग्रीस्टैक की लंबी परिभाषा नहीं दी गई है, लेकिन यह साफ तौर पर इसे मौजूदा पोर्टल्स/रिसोर्स के एक सेट के रूप में मानता है जो AI-आधारित एडवाइजरी सिस्टम को डेटा दे सकते हैं। बजट के इरादे में, एग्रीस्टैक कृषि के लिए डिजिटल इंफ्रास्ट्रक्चर का हिस्सा है -कुछ ऐसा जो फैसले लेने के लिए स्ट्रक्चर्ड जानकारी दे सकता है। महत्वपूर्ण परीक्षा और पॉलिसी व्याख्या: बजट “अलग-अलग पोर्टल्स और डेटासेट” से इंटीग्रेटेड एडवाइजरी नतीजों की ओर बढ़ने का संकेत दे रहा है। दूसरे शब्दों में, एग्रीस्टैक को destination platform के रूप में नहीं; बल्कि multilingual AI advisory tool के लिए input layer के रूप में पेश किया गया है। इससे mental model बदलता है: एग्रीस्टैक का value तब realise होता है जब इसे practice guidance और farmers के लिए customised recommendations से जोड़ा जाता है। भारत-केंद्रित framing में, “एग्रीस्टैक पोर्टल्स” agriculture DPI logic को expand होते दिखाते हैं, लेकिन भाषण इसे data-collection language के बजाय farmer productivity और risk reduction पर ground करता है। Learners के लिए: ऐसे सवाल expected हैं जो AgriStack को Bharat-VISTAAR और ICAR package integration से जोड़ते हैं।",
+
+      "disambiguatingDescription": "Independent educational interpretation of how the Budget speech references AgriStack portals -treated as existing portals/resources feeding a multilingual AI advisory (Bharat-VISTAAR) as an input layer. This is not the official AgriStack technical architecture, policy note, or implementation manual.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The budget speech references AgriStack portals as one of the core systems to be integrated into Bharat-VISTAAR. While it does not define AgriStack at length, it clearly treats it as an existing set of portals/resources that can feed structured information into AI-based advisory systems. The key policy/exam interpretation is a shift from separate portals and datasets to integrated advisory outcomes. AgriStack is not positioned as a destination platform; it is positioned as an input/data layer for a multilingual AI advisory tool. The value of AgriStack is realised when it connects to practice guidance and customised farmer recommendations, grounded in productivity and risk reduction rather than data-collection language."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "AgriStack data layer hai jo Bharat-VISTAAR ko fuel karegi -alag-alag portals ko ek system mein lana, taaki AI advisory workable ho."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Data structuring → Outcome: Usable insights → Impact: Productivity"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "AgriStack portals Budget speech mein Bharat-VISTAAR ke core inputs ke रूप mein aate hain. Speech AgriStack ko long definition nahi deti, lekin use existing portals/resources ka set maanती है jo AI-based advisory ko structured information दे सके. Important shift yeh hai: separate portals aur datasets se integrated advisory outcomes ki taraf move. AgriStack yahan destination platform nahi, multilingual AI advisory tool ka input/data layer hai. Impact: productivity; consequence: data integrity aur trust."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/icar-indian-council-agricultural.html#B30-HCAMOE26-T017",
+      "url": "https://www.orangeeconomy.in/p/icar-indian-council-agricultural.html",
+      "name": "ICAR Package on Agricultural Practices",
+      "alternateName": [
+        "ICAR practice package",
+        "Curated agricultural practice knowledge (ICAR)",
+        "Scientific advisories and standard practice guides",
+        "ICAR knowledge layer for Bharat-VISTAAR"
+      ],
+      "termCode": "B30-HCAMOE26-T017",
+      "identifier": "B30-HCAMOE26-T017",
+
+      "description": "बजट में एग्रीकल्चर प्रैक्टिस के लिए ICAR पैकेज को भारत-विस्तार (एग्रीस्टैक पोर्टल के साथ) के दूसरे मुख्य इनपुट के तौर पर रखा गया है। यहां ICAR पैकेज का मतलब क्यूरेटेड प्रैक्टिस नॉलेज है -सुझाए गए तरीके, साइंटिफिक सलाह और स्टैंडर्ड प्रैक्टिस गाइड। बजट का इनोवेशन नया ज्ञान बनाना नहीं है, बल्कि मौजूदा संस्थागत ज्ञान को AI के ज़रिए कई भाषाओं में किसानों तक पहुंचाना है। यह इसलिए ज़रूरी है क्योंकि आम एक्सटेंशन सिस्टम को बड़े पैमाने पर और आखिरी छोर तक पहुंचने में दिक्कत होती है; ICAR प्रैक्टिस गाइडेंस को AI सिस्टम में इंटीग्रेट करके, बजट का मकसद “कस्टमाइज़्ड सलाह सपोर्ट” देना और किसानों का जोखिम कम करना है। पॉलिसी का लॉजिक है: भरोसेमंद कंटेंट सोर्स (ICAR) + स्ट्रक्चर्ड पोर्टल (एग्रीस्टैक) + AI रैपर (भारत-विस्तार) → बड़े पैमाने पर पर्सनलाइज़्ड सलाह। परीक्षा के नज़रिए से, यह एक क्लासिक “इंटीग्रेशन-आधारित” सवाल है: “भारत-विस्तार किन दो सिस्टम को इंटीग्रेट करेगा?” जवाब: प्रोडक्टिविटी और फैसले लेने की क्षमता को बेहतर बनाने के लिए एग्रीस्टैक पोर्टल + ICAR पैकेज। भारत-केंद्रित मूल्य: यह भारत के कृषि अनुसंधान ज्ञान को एक स्टैटिक संस्थागत संपत्ति के बजाय डिजिटल रूप से डिलीवर किए जाने वाले पैकेज के रूप में औपचारिक बनाता है।",
+
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing: ICAR’s curated agricultural practice knowledge is treated as an input layer to Bharat-VISTAAR (with AgriStack portals) for multilingual, scalable advisory. This is not an official ICAR publication, complete practice manual, or technical integration specification.",
+
+      "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The budget places the ICAR package on agricultural practices as the second key input to Bharat-VISTAAR (along with AgriStack portals). It implies curated practice knowledge -recommended methods, scientific advisories, and standard practice guides. The innovation is not creating new knowledge, but delivering existing institutional knowledge to farmers via multilingual AI. This targets the scale and last-mile gap of traditional extension systems by enabling customised advisory support and risk reduction. Policy logic: reliable content source (ICAR) + structured portals (AgriStack) + AI wrapper (Bharat-VISTAAR) → scalable personalised advice. Exam framing: “What two systems will Bharat-VISTAAR integrate?” Answer: AgriStack portals + ICAR package, to improve productivity and decision-making."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "ICAR ka scientific knowledge AI ke through farmers tak pahunchaya jayega -static research se live advisory tak."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Knowledge delivery → Outcome: Custom advice → Impact: Yield stability"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "ICAR package on agricultural practices Budget speech mein Bharat-VISTAAR ka second key input hai -AgriStack portals ke saath. ICAR package ka matlab hai curated practice knowledge: recommended methods, scientific advisories, aur standard practice guides. Innovation new knowledge banana nahi, existing ICAR knowledge ko AI ke through multilingual way mein farmers tak deliver karna hai. Logic: ICAR (trusted content) + AgriStack (structured portals) + Bharat-VISTAAR (AI wrapper) → scalable personalised advisory. Impact: yield stability; consequence: scientific accountability."
+        }
+      ]
+    },
+ {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/she-marts.html#B30-HCAMOE26-T018",
+      "url": "https://www.orangeeconomy.in/p/she-marts.html",
+      "name": "SHE-Marts (Self-Help Entrepreneur Marts)",
+      "alternateName": [
+        "Self-Help Entrepreneur (SHE) Marts",
+        "Community-owned SHG retail outlets",
+        "SHE-Marts",
+        "Self Help Group Entrepreneur Marts"
+      ],
+      "termCode": "B30-HCAMOE26-T018",
+      "identifier": "B30-HCAMOE26-T018",
+
+      "description": "बजट भाषण में \"सेल्फ-हेल्प एंटरप्रेन्योर (SHE) मार्ट्स\" का प्रस्ताव दिया गया है, जो क्लस्टर-लेवल फेडरेशन के तहत कम्युनिटी के मालिकाना हक वाले रिटेल आउटलेट होंगे, जिन्हें बेहतर और नए फाइनेंसिंग तरीकों से सपोर्ट मिलेगा। यह SHE-मार्ट्स को \"लखपति दीदी कार्यक्रम की सफलता को आगे बढ़ाते हुए\" अगले कदम के रूप में देखता है, ताकि महिलाओं को \"क्रेडिट-आधारित आजीविका\" से \"उद्यमों की मालिक\" बनने में मदद मिल सके। इसलिए SHE-मार्ट्स सिर्फ़ बाज़ार नहीं हैं; वे महिलाओं के नेतृत्व वाले ग्रामीण उद्यमों के लिए एक औपचारिकीकरण और आगे बढ़ने का तरीका हैं। \"कम्युनिटी के मालिकाना हक वाला\" वाक्यांश महत्वपूर्ण है: यह सामूहिक संरचना का संकेत देता है, संभवतः SHG फेडरेशन के माध्यम से, जो मोलभाव की शक्ति, साझा इंफ्रास्ट्रक्चर और स्थिर बाज़ार तक पहुँच को सक्षम बनाता है। \"रिटेल आउटलेट\" का मतलब विज़िबिलिटी, ग्राहकों तक पहुँच और क्वालिटी में निरंतरता भी है, जिसकी कमी अक्सर अनौपचारिक उत्पादकों में होती है। बजट इसे एक इकोसिस्टम उपकरण के रूप में पेश करता है, जिसे फाइनेंसिंग इनोवेशन का समर्थन प्राप्त है -जिसका मतलब है कि यह हस्तक्षेप जितना रिटेल उपस्थिति के बारे में है, उतना ही पूंजी डिजाइन के बारे में भी है। भारत-केंद्रित विशिष्टता: यह ग्रामीण उत्पादन को ब्रांडेड, सुलभ स्थानीय बाजारों में बदलकर, एक भौतिक, समुदाय के स्वामित्व वाली वाणिज्य परत बनाने के लिए SHG वास्तुकला का उपयोग करता है। परीक्षा की तैयारी के लिए, इसे महिला सशक्तिकरण + उद्यम विकास + क्लस्टर-स्तरीय फेडरेशन के तहत परखा जा सकता है।",
+"disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. SHE-Marts are explained as community-owned retail outlets under cluster-level federations, backed by financing innovation, to help women transition from credit-led livelihoods to enterprise ownership. This is not an official scheme guideline, notification text, or operational SOP.",
+"subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget speech proposes Self-Help Entrepreneur (SHE) Marts as community-owned retail outlets within cluster-level federations, supported through enhanced and innovative financing instruments. It frames SHE-Marts as the next step building on the success of the Lakhpati Didi Programme, helping women move from credit-led livelihoods to owners of enterprises. So SHE-Marts are not only marketplaces; they are a formalisation and graduation mechanism for women-led rural enterprise. Community-owned signals collective SHG federation structure enabling bargaining power, shared infrastructure, and stable market access. Retail outlets imply visibility, customer access, and quality consistency. The intervention is as much about capital design as it is about retail presence."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "SHE-Marts community-owned retail spaces hain jahan SHG women apna product directly bech sakti hain."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "SHG federation → local mart → stable sales"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Retail access → Outcome: Enterprise ownership → Impact: Women empowerment"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "Market performance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "SHE-Marts ka matlab hai Self-Help Entrepreneur Marts -community-owned retail outlets jo cluster-level SHG federations ke under chalenge. Budget speech ke hisaab se ye Lakhpati Didi Programme ki success ke next step hain, jisse women credit-led livelihood se aage badhkar enterprise owners ban sakein. Yahan retail outlet ka matlab hai visibility, customer access aur quality consistency; aur financing innovation ka matlab hai capital design support. Outcome: enterprise ownership; impact: women empowerment; consequence: market performance."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/lakhpati-didi.html#B30-HCAMOE26-T019",
+      "url": "https://www.orangeeconomy.in/p/lakhpati-didi.html",
+      "name": "लखपति दीदी (Lakhpati Didi)",
+      "alternateName": [
+       "Millionaire Didi",
+       "(लखपति दीदी) Lakhpati Didi success → enterprise ownership",
+       "Lakhpati Didi Programme → Enterprise Owner Transition",
+        "Credit-led livelihood to enterprise owner shift",
+        "Women enterprise graduation pipeline"
+      ],
+      "termCode": "B30-HCAMOE26-T019",
+      "identifier": "B30-HCAMOE26-T019",
+      "description": "बजट भाषण में साफ़ तौर पर \"लखपति दीदी कार्यक्रम की सफलता\" का ज़िक्र किया गया है और फिर अगले पॉलिसी कदम के बारे में बताया गया है: महिलाओं को \"क्रेडिट-आधारित रोज़गार\" से \"उद्यमों की मालिक\" बनने में मदद करना। यह लखपति दीदी को एक आखिरी मंज़िल के तौर पर नहीं, बल्कि एक बड़े सशक्तिकरण प्रोसेस में एक पड़ाव/ग्रेजुएशन माइलस्टोन के तौर पर दिखाता है। अब फोकस एंटरप्राइज़ ओनरशिप पर शिफ्ट हो रहा है -जिसमें मार्केट तक पहुँच, प्रोडक्ट की निरंतरता, ब्रांडिंग, वर्किंग कैपिटल, कंप्लायंस और स्केलिंग जैसी जटिलताएँ शामिल हैं। इस बदलाव के लिए प्रस्तावित तरीका SHE-Marts है -कम्युनिटी-ओन्ड रिटेल आउटलेट्स जहाँ महिलाएँ सामान बेच सकती हैं। इसलिए इस भाषण में: लखपति दीदी = प्लेटफॉर्म, और \"एंटरप्राइज़ मालिक बनने का बदलाव\" = नया लक्ष्य।",
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. This term explains the pipeline logic: Lakhpati Didi success is treated as a graduation milestone, and the next goalpost is enterprise ownership, with SHE-Marts as the named infrastructure mechanism. This is not an official scheme guideline, notification text, or operational SOP.",
+"subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The budget speech references the success of the Lakhpati Didi (Millionaire Didi) Programme and states the next step: helping women move from credit-led livelihoods to owners of enterprises. This frames Lakhpati Didi (Millionaire Didi) not as an endpoint, but as a graduation milestone. The shift to enterprise ownership implies higher complexity -market access, product consistency, branding, working capital, compliance, and scaling. The mechanism proposed for this transition is SHE-Marts, enabling women to sell through community-owned retail outlets. So the pipeline is: Lakhpati Didi success → enterprise ownership support → SHE-Marts as infrastructure."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Lakhpati Didi ab end-goal nahi, mid-milestone hai -next step enterprise ownership."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "Credit livelihood → own brand → SHE-Mart"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Graduation support → Outcome: Ownership → Impact: Economic independence"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "Business sustainability"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Budget speech ke context mein Lakhpati Didi (Millionaire Didi) ko end-goal nahi, ek graduation milestone maana gaya hai. Next policy step hai women ko credit-led livelihoods se aage badhkar enterprise owners banana. Is shift mein market access, branding, working capital aur compliance jaise challenges aate hain. Isi transition ke liye Budget SHE-Marts propose karta hai -community-owned retail outlets jahan women apne products sell kar sakti hain. Outcome: ownership; impact: economic independence; consequence: business sustainability."
+        }
+      ]
+    },
+ {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/divyangjan-kaushal-yojana.html#B30-HCAMOE26-T020",
+      "url": "https://www.orangeeconomy.in/p/divyangjan-kaushal-yojana.html",
+      "name": "दिव्यांगजन कौशल योजना",
+      "alternateName": [
+        "Divyangjan Kaushal Yojana",
+        "Divyangjan Skilling Scheme (Budget term)",
+        "Task-oriented, process-driven jobs for Divyangjans"
+      ],
+      "termCode": "B30-HCAMOE26-T020",
+      "identifier": "B30-HCAMOE26-T020",
+      "description": "बजट में दिव्यांगजन कौशल योजना का प्रस्ताव है और इसके पीछे का तर्क बताया गया है: कुछ सेक्टर -IT, AVGC, हॉस्पिटैलिटी, फूड एंड बेवरेजेस -दिव्यांगजनों के लिए टास्क-ओरिएंटेड, प्रोसेस-ड्रिवन रोल देते हैं। बजट “हर दिव्यांग ग्रुप के लिए इंडस्ट्री से जुड़ी और कस्टमाइज़्ड ट्रेनिंग के ज़रिए सम्मानजनक रोज़गार के अवसर” देने का वादा करता है। यह दिव्यांगों के रोज़गार को सिर्फ़ प्रतीकात्मक शामिल करने के बजाय जॉब-रोल डिज़ाइन और स्किल पाथवे अलाइनमेंट के रूप में देखता है। “टास्क-ओरिएंटेड और प्रोसेस-ड्रिवन” का मतलब है रोल्स को साफ़ प्रोसेस, टूल्स और अनुमानित वर्कफ़्लो के साथ स्ट्रक्चर किया जा सकता है -जिससे सही ट्रेनिंग और सुविधाओं के साथ शामिल करना आसान होता है। ट्रेनिंग हर दिव्यांग ग्रुप के हिसाब से कस्टमाइज़ होगी -अलग सिलेबस, सहायक उपकरण और एम्प्लॉयर अलाइनमेंट के साथ।",
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. This page explains Divyangjan skilling as job-role design + skill pathway alignment (task-oriented, process-driven roles) and customised training per divyang group. This is not an official scheme guideline, notification text, or operational SOP.",
+
+"subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The budget proposes Divyangjan Kaushal Yojana and defines its logic: sectors like IT, AVGC, hospitality, and food & beverages offer task-oriented, process-driven roles suitable for Divyangjans. It commits to dignified livelihood opportunities through industry-relevant and customised training specific to each divyang group. This treats disability employment as job-role design and skill pathway alignment, not symbolic inclusion. “Task-oriented and process-driven” signals roles with clear processes, tools, and predictable workflows, making inclusion more feasible with suitable training and accommodations. Training customisation implies differentiated curricula, assistive tools, and employer alignment."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Divyangjan ke liye task-oriented jobs pe focused skilling -IT, AVGC, hospitality jaise sectors."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "Process-based role → customised training"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Skill mapping → Outcome: Dignified jobs → Impact: Inclusion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "Employer responsibility"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Budget speech mein Divyangjan Kaushal Yojana propose ki gayi hai. Logic yeh hai ki IT, AVGC, hospitality aur food & beverages jaise sectors mein task-oriented, process-driven roles hote hain -jahan clear workflows aur tools ke saath training design ki ja sakti hai. Budget ka promise hai: har divyang group ke liye industry-relevant aur customised training dekar dignified livelihood opportunities banana. Matlab inclusion ko symbolism nahi, job-role design + skill pathway alignment ki tarah treat kiya gaya hai. Outcome: dignified jobs; impact: inclusion; consequence: employers ki responsibility badhegi."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/divyang-sahara-yojana.html#B30-HCAMOE26-T021",
+      "url": "https://www.orangeeconomy.in/p/divyang-sahara-yojana.html",
+      "name": "दिव्यांग सहारा योजना",
+      "alternateName": [
+        "Divyang Sahara Yojana",
+        "Assistive Infrastructure Support (Budget term)",
+        "Assistive Technology Marts (see-try-buy access)"
+      ],
+      "termCode": "B30-HCAMOE26-T021",
+      "identifier": "B30-HCAMOE26-T021",
+      "description": "बजट में दिव्यांग सहारा योजना का प्रस्ताव है और इसे एक प्रैक्टिकल ज़रूरत से जोड़ा गया है: योग्य दिव्यांगजनों को समय पर हाई-क्वालिटी सहायक उपकरण मिलें। भाषण में सपोर्ट एक्शन बताए गए हैं: (1) प्रोडक्शन बढ़ाने के लिए ALIMCO को मज़बूत करना, R&D और AI इंटीग्रेशन में निवेश करना; (2) PM दिव्याशा केंद्रों को मज़बूत करना; और (3) आधुनिक रिटेल-स्टाइल सेंटर के तौर पर असिस्टिव टेक्नोलॉजी मार्ट्स स्थापित करना, जहाँ दिव्यांगजन और सीनियर सिटीजन सहायक प्रोडक्ट्स देख, आज़मा और खरीद सकें। यहाँ “सहारा” कैश सपोर्ट नहीं है; यह सहायक इंफ्रास्ट्रक्चर सपोर्ट है -जो सप्लाई, इनोवेशन और डिस्ट्रीब्यूशन तक पहुँच सुनिश्चित करता है। भाषण का तरीका इकोसिस्टम-बेस्ड है: मैन्युफैक्चरिंग स्केल-अप + R&D + रिटेल एक्सेस + सर्विस पॉइंट्स।",
+      "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. This page explains Divyang Sahara as an assistive-device ecosystem approach (ALIMCO scale-up + R&D/AI, PM Divyasha Kendras, retail-style assistive tech marts). This is not an official scheme guideline, notification text, or operational SOP.",
+
+"subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget proposes Divyang Sahara Yojana and anchors it in timely access to high-quality assistive devices for eligible Divyangjans. It lists support actions: strengthening ALIMCO to scale production and invest in R&D and AI integration; strengthening PM Divyasha Kendras; and setting up Assistive Technology Marts as modern retail-style centres where Divyangjans and senior citizens can see, try, and purchase assistive products. “Sahara” here is not cash support; it is assistive infrastructure support -ensuring supply, innovation, and distribution access. The approach is ecosystem-based: manufacturing scale-up + R&D + retail access + service points. For exams, it can be tested as the ‘three pillars’: production/R&D, Kendras, and retail marts."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Divyang Sahara cash nahi -assistive ecosystem hai: ALIMCO upgrade, Kendras aur retail access."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "Device R&D → retail mart → user choice"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Capability support → Outcome: Independence → Impact: Quality of life"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "Delivery efficiency"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Divyang Sahara Yojana ka matlab cash support nahi hai. Budget speech ke hisaab se yeh assistive devices ka full ecosystem banane ka plan hai, taaki eligible Divyangjans ko time par high-quality tools milen. Teen pillars dikhte hain: ALIMCO ko strengthen karke production scale-up, R&D aur AI integration; PM Divyasha Kendras ko strong banana; aur Assistive Technology Marts banana -retail-style centres jahan Divyangjan aur senior citizens products ko dekh, try karke buy kar saken. Task: capability support; outcome: independence; impact: quality of life; consequence: delivery efficiency."
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/assistive-technology-marts.html#B30-HCAMOE26-T022",
+      "url": "https://www.orangeeconomy.in/p/assistive-technology-marts.html",
+      "name": "असिस्टिव टेक्नोलॉजी मार्ट्स",
+      "alternateName": [
+        "Assistive Technology Marts",
+        "Modern Retail-Style Assistive Centres",
+        "See-Try-Buy Assistive Devices"
+      ],
+      "termCode": "B30-HCAMOE26-T022",
+      "identifier": "B30-HCAMOE26-T022",
+      "description": "बजट भाषण में असिस्टिव टेक्नोलॉजी मार्ट्स को \"आधुनिक रिटेल-स्टाइल सेंटर\" के रूप में स्थापित करने का प्रस्ताव है, जहाँ दिव्यांगजन और सीनियर सिटीजन असिस्टिव प्रोडक्ट्स को \"देख, आज़मा और खरीद\" सकते हैं। यह सामान्य मॉडल से एक बड़ा बदलाव है, जहाँ असिस्टिव डिवाइस सीमित संस्थागत चैनलों, कागजी कार्रवाई वाली योजनाओं या सप्लाई की कमी के ज़रिए मिलते हैं। रिटेल-स्टाइल फॉर्मेट का इस्तेमाल करके, बजट असिस्टिव टेक्नोलॉजी को पसंद-आधारित, इस्तेमाल में आसान खरीदारी अनुभव के रूप में पेश करता है  - जिससे गलत डिवाइस मिलने का जोखिम कम होता है, सम्मान बढ़ता है (शॉपिंग का अनुभव), और इनोवेशन के लिए बाज़ार का विस्तार हो सकता है। यह शब्द दिव्यांग सहारा इकोसिस्टम में भी फिट बैठता है: अगर ALIMCO AI इंटीग्रेशन के साथ प्रोडक्शन और R&D को बढ़ाता है, तो बाज़ार को ऐसे डिस्ट्रीब्यूशन पॉइंट्स की ज़रूरत होगी जहाँ डिवाइस उपलब्ध हों और उनकी तुलना की जा सके। \"देखना और आज़माना\" डेमो इंफ्रास्ट्रक्चर, प्रशिक्षित स्टाफ और यूज़र एजुकेशन का सुझाव देता है। भारत-केंद्रित अर्थ: यह समावेशी नीति को भारत की रिटेल और सर्विस डिलीवरी की वास्तविकताओं के साथ इंटीग्रेट करता है, जिससे एक्सेस अधिक मानवीय और व्यावहारिक बनता है। परीक्षा का दृष्टिकोण: इसे \"बजट असिस्टिव डिवाइस तक पहुँच को बेहतर बनाने की योजना कैसे बनाता है?\" और \"किसे फायदा होता है?\" (दिव्यांगजन + सीनियर सिटीजन) के रूप में तैयार किया जा सकता है।",
+      "disambiguatingDescription": "Independent educational interpretation of 'Assistive Technology Marts' based on the Union Budget speech 2026. This is not an official government scheme notification, tender, procurement notice, or legal definition.",
+   "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The Budget speech proposes setting up Assistive Technology Marts as “modern retail-style centres” where Divyangjans and senior citizens can “see, try and purchase” assistive products. This is a major shift from the usual model where assistive devices are accessed through limited institutional channels, paperwork-heavy schemes, or supply constraints. By using a retail-style format, the budget frames assistive technology as a choice-driven, usability-verified purchase experience  - reducing mismatch risk (wrong device), increasing dignity (shopping experience), and potentially expanding the market for innovation. The term also fits into the Divyang Sahara ecosystem: if ALIMCO scales production and R&D with AI integration, the market needs distribution points where devices are available and comparable. “See and try” suggests demo infrastructure, trained staff, and user education. Bharat-centric meaning: it integrates inclusion policy with Bharat’s retail and service delivery realities, making access more human and practical. Exam angle: it can be framed as “How does the budget plan to improve assistive device access?” and “Who benefits?” (Divyangjans + senior citizens)."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Retail-style marts jahan Divyangjan aur senior citizens devices dekh-samajh-try karke kharid sakte hain  - right-fit milta hai, dignity badhti hai, aur wrong device ka risk kam hota hai."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "Senior citizen tries a device before buying."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Retail access → Outcome: Right fit → Impact: Dignity"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "Service quality"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Assistive Technology Marts kya hote hain? Budget speech ke hisaab se yeh modern retail-style centres hain jahan Divyangjan aur senior citizens assistive devices “see, try and purchase” kar sakte hain. Matlab: pehle try karke right-fit choose karo  - wrong device ka risk kam, dignity zyada, aur access zyada practical."
+        }
+      ]
+    },
+ {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/care-ecosystem-geriatric-allied-care.html#B30-HCAMOE26-T023",
+      "url": "https://www.orangeeconomy.in/p/care-ecosystem-geriatric-allied-care.html",
+      "name": "केयर इकोसिस्टम (जेरियाट्रिक + एलाइड केयर)",
+      "alternateName": [
+        "Care Ecosystem (Geriatric + Allied Care)",
+        "Geriatric & Allied Care Workforce Ecosystem",
+        "Multiskilled Caregiver Ecosystem"
+      ],
+      "termCode": "B30-HCAMOE26-T023",
+      "identifier": "B30-HCAMOE26-T023",
+      "description": "भाषण में जेरियाट्रिक और उससे जुड़ी केयर सर्विसेज़ को कवर करने वाला एक मज़बूत केयर इकोसिस्टम बनाने का प्रस्ताव है, और यह इसे NSQF-अलाइन प्रोग्राम्स के ज़रिए वर्कफोर्स बनाने से सीधे जोड़ता है। इसमें कहा गया है कि मल्टीस्किल्ड केयरगिवर्स को कोर केयर के साथ वेलनेस, योग और मेडिकल और असिस्टिव डिवाइस चलाने जैसे स्किल्स को मिलाकर ट्रेनिंग दी जाएगी, और एक टारगेट बताया गया है: आने वाले साल में 1.5 लाख केयरगिवर्स। यह महत्वपूर्ण है क्योंकि यह केयर को अनौपचारिक पारिवारिक श्रम के बजाय, स्ट्रक्चर्ड स्किलिंग तरीकों के साथ एक आर्थिक क्षेत्र के रूप में पहचानता है। यह इंटीग्रेटेड सोच भी दिखाता है: बढ़ती आबादी की ज़रूरतें, हेल्थ सिस्टम पर बोझ, रोज़गार सृजन, और स्किल सर्टिफिकेशन एक साथ जुड़े हुए हैं। \"इकोसिस्टम\" कई घटकों को इंगित करता है - ट्रेनिंग प्रोग्राम, संस्थान (AHP अपग्रेड), सर्विस डिलीवरी, असिस्टिव डिवाइस इंटरैक्शन, और जॉब प्लेसमेंट चैनल। बजट केयर को व्यापक \"विकसित भारत के लिए प्रोफेशनल्स का निर्माण\" से भी जोड़ता है, इसे राष्ट्रीय क्षमता-निर्माण के दायरे में रखता है। भारत-केंद्रित विशिष्टता: यह परिचित प्रथाओं (योग/वेलनेस) का उपयोग करता है और उन्हें औपचारिक केयर ट्रेनिंग और डिवाइस-ऑपरेशन स्किल्स के साथ मिलाता है, जिससे एक विशिष्ट भारतीय मिश्रित केयरगिवर प्रोफाइल बनती है। परीक्षा की प्रासंगिकता के लिए, स्किलिंग, हेल्थकेयर वर्कफोर्स, और जनसांख्यिकी से जुड़े रोज़गार के तहत परीक्षण किए जाने की संभावना है।",
+      "disambiguatingDescription": "Independent educational interpretation of 'Care Ecosystem (Geriatric + Allied Care)' based on the Union Budget speech 2026. This is not an official government scheme notification, course brochure, recruitment notice, or legal definition.",
+"subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech proposes building a strong Care Ecosystem covering geriatric and allied care services, and it explicitly links it to workforce creation through NSQF-aligned programmes. It says multiskilled caregivers will be trained combining core care with allied skills like wellness, yoga, and operation of medical and assistive devices, and specifies a target: 1.5 lakh caregivers in the coming year. This is significant because it recognises care as an economic sector with structured skilling pathways, rather than informal family labor. It also shows integrated thinking: ageing population needs, health system load, employment creation, and skill certification are tied together. “Ecosystem” indicates multiple components  - training programs, institutions (AHP upgrades), service delivery, assistive device interaction, and job placement channels. The budget also connects care to the broader “Creation of Professionals for Viksit Bharat,” placing it inside national capability-building. Bharat-centric uniqueness: it uses familiar practices (yoga/wellness) and merges them with formal care training and device-operation skills, creating a uniquely Indian blended caregiver profile. For exam relevance, likely tested under skilling, healthcare workforce, and demographic-linked employment."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Care ko Budget ne formal workforce sector maana  - geriatric + allied skills (wellness/yoga + device operation) ke saath NSQF skilling, aur target 1.5 lakh caregivers."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "Caregiver trained in core care + assistive device operation → certified job placement."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: NSQF skilling → Outcome: Care professionals → Impact: Employment + health"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "Service accountability"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Care Ecosystem (Geriatric + Allied Care) ka matlab kya hai? Budget speech ke hisaab se government ek strong care ecosystem banana chahti hai  - jisme NSQF-aligned training se 1.5 lakh multiskilled caregivers tayyar hon. Ye caregivers core care ke saath wellness/yoga aur medical/assistive devices operate karne jaise skills bhi seekhenge. Matlab care ko informal family duty nahi, ek certified workforce sector ki tarah treat kiya ja raha hai  - jisse jobs bhi badhen aur healthcare load handle ho."
+        }
+      ]
+    },
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/nimhans-2.html#B30-HCAMOE26-T024",
+      "url": "https://www.orangeeconomy.in/p/nimhans-2.html",
+      "name": "NIMHANS-2 (निमहंस-2)",
+      "alternateName": [
+        "राष्ट्रीय मानसिक स्वास्थ्य शीर्ष संस्थान",
+        "मानसिक स्वास्थ्य देखभाल के लिए दूसरा एपेक्स संस्थान",
+        "Second Apex Institute for Mental Healthcare",
+        "National Apex Mental Healthcare Institution (North India Access Rebalance)",
+        "NIMHANS-2 (Budget Proposal)"
+      ],
+      "termCode": "B30-HCAMOE26-T024",
+      "identifier": "B30-HCAMOE26-T024",
+      "description": "भाषण में कहा गया है कि उत्तर भारत में मानसिक स्वास्थ्य देखभाल के लिए कोई राष्ट्रीय संस्थान नहीं हैं और रांची और तेजपुर में राष्ट्रीय मानसिक स्वास्थ्य संस्थानों को क्षेत्रीय शीर्ष संस्थानों के रूप में अपग्रेड करने के साथ-साथ NIMHANS-2 स्थापित करने का प्रस्ताव है। यह फ्रेमिंग महत्वपूर्ण है: NIMHANS-2 को \"एक और अस्पताल\" के रूप में वर्णित नहीं किया गया है, बल्कि एक राष्ट्रीय स्तर के शीर्ष मानसिक स्वास्थ्य देखभाल संस्थान के रूप में वर्णित किया गया है जिसका उद्देश्य क्षेत्रीय पहुंच को फिर से संतुलित करना है। यह शब्द मानसिक स्वास्थ्य बुनियादी ढांचे को केवल राज्य-स्तरीय स्वास्थ्य देखभाल के बजाय अन्य राष्ट्रीय क्षमता संस्थानों (IIT-जैसी सोच) की तरह मानने के नीतिगत निर्णय का संकेत देता है। बजट इसे मानसिक स्वास्थ्य और ट्रॉमा देखभाल के प्रति प्रतिबद्धता की पुष्टि करने से जोड़ता है, और फिर आपातकालीन और ट्रॉमा देखभाल केंद्र स्थापित करके जिला अस्पतालों को मजबूत करने की बात करता है। तो NIMHANS-2 एक पिरामिड के शीर्ष पर बन जाता है: शीर्ष संस्थान + क्षेत्रीय शीर्ष अपग्रेड + जिला-स्तरीय ट्रॉमा बुनियादी ढांचा। भारत-केंद्रित अर्थ: यह क्षेत्रीय असंतुलन का जवाब देता है और मानसिक स्वास्थ्य को एक राष्ट्रीय विकास बाधा के रूप में स्वीकार करता है, न कि एक निजी मुद्दा। परीक्षा-शैली का दृष्टिकोण: \"किस नए मानसिक स्वास्थ्य देखभाल संस्थान का प्रस्ताव है और क्यों?\" -उत्तर: उत्तर भारत में राष्ट्रीय संस्थानों की कमी के कारण NIMHANS-2, साथ ही मौजूदा संस्थानों का अपग्रेड।",
+      "disambiguatingDescription": "Independent educational interpretation of 'NIMHANS-2' based on the attached Union Budget speech 2026. This is not an official government notification, cabinet decision document, tender, recruitment notice, or legal definition.",
+"subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech states that there are no national institutes for mental healthcare in North India (भारत) and proposes setting up a NIMHANS-2, along with upgrading National Mental Health Institutes in Ranchi and Tezpur as Regional Apex Institutions. This framing is important: NIMHANS-2 is not described as “another hospital,” but as a national-level apex mental healthcare institution meant to rebalance regional access. The term signals a policy decision to treat mental health infrastructure like other national capacity institutions (IIT-like logic) rather than as only state-level healthcare. The budget ties this to reaffirming commitment to mental health and trauma care, and then follows with strengthening District Hospitals by establishing Emergency and Trauma Care Centres. So NIMHANS-2 becomes the top of a pyramid: apex institute + regional apex upgrades + district-level trauma infrastructure. Bharat-centric meaning: it responds to regional imbalance and acknowledges mental health as a national development constraint, not a private issue. Exam-style angle: “What new mental healthcare institution is proposed and why?” Answer: NIMHANS-2 due to lack of national institutes in North India (भारत), plus upgrades of existing institutes."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "North India (भारत) ke liye second apex mental health institute  - regional imbalance ko address karne ke liye: NIMHANS-2 + Ranchi/Tezpur ko Regional Apex upgrade."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "Apex institute → regional training/mentoring → district-level emergency/trauma strengthening."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Infra creation → Outcome: Access equity → Impact: Mental health capacity"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "National responsibility"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "NIMHANS-2 kya hai? Budget speech ke hisaab se North India mein national mental healthcare institute ka gap hai. Isliye NIMHANS-2 propose kiya gaya hai  - ek national-level apex mental health institution. Saath hi Ranchi aur Tezpur ke National Mental Health Institutes ko Regional Apex Institutions ke roop mein upgrade kiya jayega. Idea ye hai: top apex institute + regional apex upgrades + district hospitals mein emergency/trauma centres  - taaki access equity aur national mental health capacity build ho."
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/purvodaya.html#B30-HCAMOE26-T025",
+      "url": "https://www.orangeeconomy.in/p/purvodaya.html",
+      "name": "पूर्वोदय (Purvodaya)",
+      "alternateName": [
+        "Purvodaya",
+        "Purvodaya States Framework",
+        "East India Integrated Growth Package"
+      ],
+      "termCode": "B30-HCAMOE26-T025",
+      "identifier": "B30-HCAMOE26-T025",
+      "description": "भाषण में \"पूर्वोदय\" को एक खास फोकस के तौर पर इस्तेमाल किया गया है और तुरंत ठोस प्रस्तावों की लिस्ट दी गई है: दुर्गापुर में एक नोड के साथ एक इंटीग्रेटेड ईस्ट कोस्ट इंडस्ट्रियल कॉरिडोर का डेवलपमेंट, 5 पुरवोदय राज्यों में 5 टूरिज्म डेस्टिनेशन बनाना, और 4,000 ई-बसों का इंतज़ाम करना। यह दिखाता है कि पुरवोदय कोई एब्स्ट्रैक्ट \"पहले पूरब\" का नारा नहीं है; यह एक रीजनल डेवलपमेंट पैकेज लेबल है जो इंडस्ट्रियल कॉरिडोर इंफ्रास्ट्रक्चर, टूरिज्म डेस्टिनेशन बिल्डिंग, और ग्रीन मोबिलिटी को जोड़ता है। यह शब्द तीसरे कर्तव्य के तहत टारगेटेड कोशिशों के हिस्से के रूप में भी दिखता है, जिसमें डेवलपमेंट और रोज़गार को तेज़ करने के लिए पुरवोदय राज्यों और नॉर्थ-ईस्ट पर फोकस करने की बात साफ तौर पर कही गई है। इसलिए पुरवोदय को पूर्वी भारत के लिए एक इकोनॉमिक एक्सीलरेशन स्ट्रेटेजी के तौर पर पेश किया गया है, जिसमें लॉजिस्टिक्स/इंडस्ट्री, टूरिज्म और पब्लिक ट्रांसपोर्ट में इंटीग्रेटेड इंटरवेंशन शामिल हैं। भारत-केंद्रित खासियत: यह एक रीजन-कोडेड ग्रोथ डॉक्ट्रिन को एक सांस्कृतिक रूप से गूंजने वाला नाम (उदय = उदय) देता है, जिसे मापने योग्य डिलिवरेबल्स के साथ पैकेज किया गया है। एग्जाम की तैयारी के लिए, पुरवोदय को एक टारगेटेड रीजनल प्रोग्राम के तौर पर टेस्ट किया जा सकता है: इसके कंपोनेंट्स (इंडस्ट्रियल कॉरिडोर, टूरिज्म डेस्टिनेशन, ई-बसें) और इच्छित परिणाम (डेवलपमेंट + रोज़गार) की पहचान करें।",
+      "disambiguatingDescription": "Independent educational interpretation of 'Purvodaya (Purvodaya States Framework)' based on the Union Budget speech 2026. This is not an official scheme notification, cabinet approval note, DPR, tender, or legal definition.",
+  "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech uses “Purvodaya” as a named focus and immediately lists concrete proposals: development of an integrated East Coast Industrial Corridor with a node at Durgapur, creation of 5 tourism destinations in the 5 Purvodaya States, and provision of 4,000 e-buses. This shows Purvodaya is not an abstract “east-first” slogan; it is a regional development package label combining industrial corridor infrastructure, tourism destination building, and green mobility. The term also appears as part of targeted efforts under the third kartavya, explicitly calling out focus on the Purvodaya States and the North-East to accelerate development and employment. So Purvodaya is framed as an economic acceleration strategy for eastern India (भारत) with integrated interventions across logistics/industry, tourism, and public transport. Bharat-centric uniqueness: it gives a culturally resonant name (Uday = rise) to a region-coded growth doctrine, packaged with measurable deliverables. In exam reading, Purvodaya is likely to be tested as a targeted regional program: identify components (industrial corridor, tourism destinations, e-buses) and intended outcome (development + employment)."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Purvodaya East India (भारत) ke liye integrated growth package hai  - industrial corridor, tourism, aur 4,000 e-buses."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "East Coast corridor → jobs + mobility (logistics + tourism + green transport together)."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Regional focus → Outcome: Balanced growth → Impact: Employment"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "State performance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Purvodaya kya hai? Budget speech mein Purvodaya ko ek named focus ke roop mein use kiya gaya hai, aur turant measurable deliverables diye gaye hain: Durgapur node ke saath integrated East Coast Industrial Corridor, 5 Purvodaya states mein 5 tourism destinations, aur 4,000 e-buses ka provision. Matlab Purvodaya koi abstract ‘east-first’ slogan nahi, balki East India (भारत) ke liye integrated growth package hai  - industry/logistics, tourism aur green public transport ko jodkar development aur employment accelerate karna."
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/temple-towns.html#B30-HCAMOE26-T026",
+      "url": "https://www.orangeeconomy.in/p/temple-towns.html",
+      "name": "मंदिर-नगर (Temple-Towns)",
+      "alternateName": [
+        "मंदिर-शहर (Temple-Towns)",
+        "Temple-Towns Development as Growth Centres",
+        "Temple-Towns within City Economic Regions (CER)",
+        "Mandir-Towns as Growth Nodes"
+      ],
+      "termCode": "B30-HCAMOE26-T026",
+      "identifier": "B30-HCAMOE26-T026",
+      "description": "भाषण में सिटी इकोनॉमिक रीजन पर चर्चा करते समय \"यहां तक कि मंदिर-नगर\" को भी शामिल किया गया है, और टियर II और टियर III शहरों पर ध्यान केंद्रित किया गया है जिन्हें आधुनिक इंफ्रास्ट्रक्चर और बेसिक सुविधाओं की ज़रूरत है। यह एक सूक्ष्म लेकिन महत्वपूर्ण भारत-केंद्रित बदलाव है: मंदिर शहरों पर पारंपरिक रूप से तीर्थयात्रा या सांस्कृतिक केंद्रों के रूप में चर्चा की जाती है, लेकिन बजट उन्हें आर्थिक योजना के नज़रिए से देखता है - ऐसी जगहों के रूप में जिन्हें \"आधुनिक इंफ्रास्ट्रक्चर और बेसिक सुविधाओं की भी ज़रूरत है,\" जिसका मतलब है कि उन्हें व्यापक शहर-क्षेत्र विकास तर्क में विकास केंद्रों के रूप में पहचाना जा रहा है। इसका मतलब है कि मंदिर शहर मुख्यधारा की आर्थिक योजना से \"बाहर\" नहीं हैं; उन्हें उन्हीं संरचनात्मक निवेश प्राथमिकताओं में शामिल किया गया है। इसलिए, इस बजट संदर्भ में \"मंदिर शहर\" शब्द एक आर्थिक वर्गीकरण ट्रिगर है: ज़्यादा भीड़ और सांस्कृतिक महत्व वाली जगहें सेवाओं, हॉस्पिटैलिटी, कनेक्टिविटी, नौकरियों और स्थानीय उद्यम के लिए नियोजित केंद्र बन सकती हैं - अगर इंफ्रास्ट्रक्चर और सुविधाओं को अपग्रेड किया जाए। भारत-केंद्रित तत्व: यह विश्वास/सभ्यता भूगोल को विकास वास्तुकला में एकीकृत करता है, बिना इसे आर्थिक विकास से अलग माने। परीक्षा की प्रासंगिकता के लिए, यह एक तथ्यात्मक अंश के रूप में आ सकता है: \"CER फोकस में कौन से गैर-पारंपरिक शहरी नोड्स शामिल हैं?\" - उत्तर: मंदिर शहर।",
+      "disambiguatingDescription": "Independent educational interpretation of 'Temple-Towns as Growth Centres within CER framing' based on the Union Budget speech 2026. This is not a city master plan, DPR, scheme notification, tender, or legal definition.",
+ "subjectOf": [
+        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "English Explanation",
+          "value": "The speech explicitly includes “even temple-towns” while discussing City Economic Regions and the focus on Tier II and Tier III cities needing modern infrastructure and basic amenities. This is a subtle but important Bharat-centric shift: temple-towns are traditionally discussed as pilgrimage or cultural centers, but the budget places them inside an economic planning lens -as places that also need modern infrastructure and basic amenities, implying they are being recognised as growth centres in the broader city-region development logic. It means temple-towns are not outside mainstream economic planning; they are included in the same structural investment priorities. The term “temple-towns” in this budget context is therefore an economic classification trigger: places with high footfall and cultural significance can become planned nodes for services, hospitality, connectivity, jobs, and local enterprise -if infrastructure and amenities are upgraded. Bharat-centric element: it integrates faith/civilisational geography into development architecture without treating it as separate from economic growth. For exam relevance, it can appear as a factual extract: “Which non-traditional urban nodes are included in the CER focus?” Answer: temple-towns."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Hinglish Explanation",
+          "value": "Temple-towns ko CER logic mein laaya gaya  - faith ke saath economic planning, infra + amenities upgrade karke services/jobs create karna."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Example",
+          "value": "Pilgrim town + infra upgrade → hospitality + services jobs + local enterprise."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Signal",
+          "value": "Task: Urban inclusion → Outcome: Service economy → Impact: Local enterprise"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Consequence",
+          "value": "Planning accountability"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "HCAM™ Voice-First (30 sec)",
+          "value": "Temple-towns ka budget context kya hai? City Economic Regions ki baat karte hue speech mein ‘even temple-towns’ ko bhi include kiya gaya hai, especially Tier II aur Tier III cities ke focus ke saath. Message ye hai: mandir shehar sirf pilgrimage centres nahi, economic planning ke growth centres bhi hain -jinhe modern infrastructure aur basic amenities chahiye. High footfall wale towns ko agar infra upgrade mile, to services, hospitality, connectivity, jobs aur local enterprise planned manner mein grow kar sakte hain. Exam point: CER focus ke non-traditional urban nodes mein temple-towns bhi include hain."
+        }
+      ]
+    }
+
+
+
+
+
+  ]
+}
