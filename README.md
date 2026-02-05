@@ -89,7 +89,7 @@ Thematic or contextual knowledge packs (Budget, sectors, livelihoods, etc.)
 ### 📋 HCAM™ Data Model (Live Examples)
 
 **Schema.org/DefinedTerm + HCAM™ cognitive layers. Same structure across ALL domains.**
-Each asset is a Schema.org DefinedTerm that keeps a core **HCAM™ structure** (description, English Explanation, HCAM™ Hinglish Explanation, Example) and then extends it with **HCAM™ cognitive layers in additionalProperty**.
+Each asset is a Schema.org DefinedTerm that keeps a core **HCAM™ structure** description (hi-IN), English Explanation (en-IN), HCAM™ Hinglish Explanation (hi-Latn), Example(en-IN & hi-IN) and then extends it with **HCAM™ cognitive layers in additionalProperty**.
 
 | Domain            | Term                        | termCode              | HCAM™ Signal                                | Voice-First intent (preview)                           |
 |-------------------|-----------------------------|-----------------------|---------------------------------------------|--------------------------------------------------------|
