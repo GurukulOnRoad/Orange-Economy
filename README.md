@@ -100,6 +100,8 @@ Each asset is a Schema.org DefinedTerm that keeps a core **HCAM™ structure** d
 **Live files:** `[registry/voice-index.json` indexes ALL assets by `Domain & Context](https://raw.githubusercontent.com/GurukulOnRoad/Orange-Economy/main/registry/voice-index.json/packs/union-budget-2026-27/part-a-core-budget-concepts-2026.json
 )`
 
+**🧠 HCAM™ (Hinglish Cognitive Anchoring Model™): Hindi Soch | English System | Hinglish by Design ➡️ (Hindi ↔ English ↔ Hinglish)**
+
 ## 🔵 Canonical authority
 The canonical interpretive authority for this repository is: 👉 https://voice.b30bharat.com/
 
