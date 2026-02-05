@@ -89,12 +89,13 @@ Thematic or contextual knowledge packs (Budget, sectors, livelihoods, etc.)
 ### 📋 HCAM™ Data Model (Live Examples)
 
 **Schema.org/DefinedTerm + HCAM™ cognitive layers. Same structure across ALL domains.**
+Each asset is a Schema.org DefinedTerm that keeps a core **HCAM™ structure** (description, English Explanation, HCAM™ Hinglish Explanation, Example) and then extends it with **HCAM™ cognitive layers in additionalProperty**.
 
-| Domain | Term | termCode | HCAM™ Signal | Voice-First Preview |
-|--------|------|----------|-------------|-------------------|
-| **National Vision** | **विकसित भारत** | B30-HCAMOE26-T001 | `Task→Outcome→Impact` | "Viksit Bharat ka matlab sirf slogan nahi..." |
-| **Cultural Economy** | **मंदिर-नगर** | B30-HCAMOE26-T026 | `Urban inclusion→Service economy→Enterprise` | "Temple-towns ka budget context kya hai..." |
-| **Technical Finance** | **डायरेक्ट टैक्स** | B30-BUDGET26-T7 | `Levy→Revenue→Equity` | "Direct tax wo hota hai jo aap khud dete ho..." |
+| Domain            | Term                        | termCode              | HCAM™ Signal                                | Voice-First intent (preview)                           |
+|-------------------|-----------------------------|-----------------------|---------------------------------------------|--------------------------------------------------------|
+| National Vision   | विकसित भारत                | B30-HCAMOE26-T001     | Task → Outcome → Impact                     | Explains “Viksit Bharat” as measurable destination with 30-sec Hinglish script     |
+| Cultural Economy  | मंदिर-नगर (Temple-Towns)   | B30-HCAMOE26-T026     | Urban inclusion → Service economy → Enterprise | Frames temple-towns as CER growth centres with 30-sec Hinglish script             |
+| Technical Finance | डायरेक्ट टैक्स             | B30-BUDGET26-T7       | Levy → Progressive revenue → Equity         | Clarifies direct tax with 30-sec Hinglish script |
 
 **Live files:** `[registry/voice-index.json` indexes ALL assets by `Domain & Context](https://raw.githubusercontent.com/GurukulOnRoad/Orange-Economy/main/registry/voice-index.json/packs/union-budget-2026-27/part-a-core-budget-concepts-2026.json
 )`
