@@ -17,7 +17,7 @@ function fail(file, msg) {
   process.exitCode = 1;
 }
 
-const packsRoot = path.resolve("registry/voice-index.json/packs");
+const packsRoot = path.resolve("registry/voice-index.json/packs/union-budget-2026-27");
 const jsonFiles = walk(packsRoot);
 
 const globalTermCodes = new Map(); // termCode -> file
