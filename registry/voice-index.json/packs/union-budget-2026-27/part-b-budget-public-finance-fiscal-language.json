@@ -1,0 +1,1292 @@
+
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://www.orangeeconomy.in/#voice-first-glossary",
+  "url": "https://voice.b30bharat.com/",
+  "name": "PART  B  - बजट के आंकड़ों, मुख्य बजट, सार्वजनिक वित्त और राजकोषीय भाषा को समझना / Understanding Budget Numbers, Core Budget, Public Finance & Fiscal Language",
+  "description": "DefinedTermSet केंद्रीय बजट 2026–27 को समझना क्यों ज़रूरी है  - A voice-first, HCAM™ Hindi–English–Hinglish DefinedTermSet that decodes Union Budget 2026–27 numbers and public finance language -BE/RE/Actuals, receipts, expenditure, deficits and funds -built for Bharat learners, everyday clarity, and exam-ready recall.",
+   "publisher": {
+        "@type": "WebSite",
+        "name": "OrangeEconomy.in",
+        "url": "https://www.orangeeconomy.in/"
+    },
+  "creator": {
+        "@type": "Organization",
+        "name": "GurukulAI Thought Lab",
+        "url": "https://ai.gurukulonroad.com/"
+    },
+   "owner": {
+        "@type": "Organization",
+        "name": "GurukulOnRoad",
+        "url": "https://www.gurukulonroad.com/"
+    },
+
+"isPartOf": [
+  {
+    "@type": "Book",
+    "@id": "https://www.orangeeconomy.in/#book-budget-guide",
+    "url": "https://play.google.com/store/books/details?id=QAq8EQAAQBAJ",
+    "name": "B-30 Bharat Union Budget Guide & Dictionary 2026–27 (केंद्रीय बजट गाइड एवं शब्दकोश)",
+    "description": "B-30 Bharat Union Budget Guide & Dictionary 2026–27  (केंद्रीय बजट गाइड एवं शब्दकोश) Hindi ↔ English ↔ Hinglish. HCAM™ यूनियन बजट के मुख्य शब्दों, कॉन्सेप्ट और पॉलिसी संकेतों के लिए इंटरप्रिटिव गाइड -भारत की लोकल इकॉनमी की स्ट्रीट-स्मार्ट समझ के लिए, परीक्षाओं, प्रोफेशन और रोज़ाना की बातचीत के लिए बजट में क्लैरिटी। A Street-smart Budget understanding -clear enough for everyday conversations, rigorous enough for exams and professionals. A structured, language-first and ethics-first guide to the Union Budget 2026-27, designed for Bharat (भारत) across local trade, services, rural livelihoods, and knowledge professions."
+  },
+{
+      "@type": "CreativeWork",
+      "additionalType": "Project",
+      "@id": "https://www.b30bharat.com/#brand-b30bharat",
+      "url": "https://www.b30bharat.com/",
+      "name": "B30BHARAT",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "description": "B30BHARAT is a Bharat-first AI literacy, learning identity and business enablement initiative conceptualized and operated by GurukulOnRoad, focused on rebuilding human understanding before technology adoption. Built for clarity, dignity, and conscious technology adoption beyond Top-30 India. B30BHARAT exists to decode English-heavy, jargon-driven technology, business and finance language through structured dictionaries, cognitive frameworks, and language-first learning systems, using The Hinglish Cognitive Anchoring Model (HCAM&#8482;). Its core mission is to restore clarity where labels, tools, and hype have replaced real conceptual understanding. Through a gradual, Language-First, Not Translation-First principle, (Hindi &#183; English &#183; Hinglish) journey, B30BHARAT enables 14 different audience segment of B30BHARAT 1 - Local Trade &amp; Retail, 2 - Skill-Based Service Providers, 3 - Licensed Professionals (MFDs, insurance advisors, CAs, Doctors), 4 - Independent Knowledge Workers, 5 - Freelancers and Platform Earners, 6 - Small and Micro Agencies, 7 - Informal and Family Enterprises, 8 - Rural and Semi-Rural Livelihoods, 9 - Faith, Culture and Community Services (eg; Temples, cultural groups), 10 - Students and Students Turned Earners / Side Hustlers, 11 - Public-Facing Individuals (Including Astrologers and Kathabachak), 12 - Small Institutions, 13 - Street Vendors and Mobile Livelihoods, and 14 - HCAM&#8482; Human + Machine Collaborators via three pre defined journey PATH A - MAP-FIRST (Minimal Tech), PATH B - PRESENCE-FIRST, and PATH C - IDENTITY-FIRST (Portfolio & Trust)."
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://play.google.com/store/books/series?id=gJiSHAAAABAThM#series",
+      "url": "https://play.google.com/store/books/series?id=gJiSHAAAABAThM",
+      "name": "HCAM-KG™: BFSI & AI Literacy Hinglish Knowledge Graph™ (Powered by HCAM™) | Hindi ↔ English ↔ Hinglish | B30BHARAT",
+      "description": "HCAM-KG™: BFSI & AI Literacy Hinglish Knowledge Graph™ Powered by HCAM™ (Hinglish Cognitive Anchoring Model™ - Knowledge Graph | A B-30 Bharat AI Education Initiative)",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "creativeWorkStatus": "Live"
+    },
+{
+      "@type": "SoftwareSourceCode",
+      "@id": "https://www.orangeeconomy.in#voice-kg-project",
+      "url": "https://github.com/GurukulOnRoad/Orange-Economy",
+      "name": "Orange Economy: The Voice of Bharat - HCAM™ Voice-First Structured Index",
+      "alternateName": [
+      "Orange Economy Voice of Bharat",
+      "B-30 Bharat Voice Index",
+      "HCAM™ Voice-First Index for Bharat"
+       ],
+      "description": " An open knowledge repo decoding Bharat’s Orange Economy: creative industries, cultural capital, and livelihood systems -built with HCAM™ (Hinglish Cognitive Anchoring Model™) (Hindi–English–Hinglish) and structured-first documentation. | A B-30 Bharat Project under Bharat AI Education Initiative)",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "creativeWorkStatus": "Live"
+    },
+   
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.orangeeconomy.in#project",
+      "url": "https://learn.gurukulonroad.com/s/pages/bfsi-ai-hinglish-knowledge-graph-hcam",
+      "name": "BFSI & AI Literacy Hinglish Knowledge Graph™ (Powered by HCAM™ - Hinglish Cognitive Anchoring Model™)| B30BHARAT",
+      "description": "यह Knowledge Graph भारत के learners, BFSI professionals और exam aspirants के लिए बनाया गया है, ताकि Banking, Financial Services, Insurance (BFSI) और AI Literacy concepts को Hindi + English + Hinglish में समझना आसान हो सके। यह पूरा framework HCAM™ -Hinglish Cognitive Anchoring Model™ पर आधारित है -यानी Language-First, Not Translation-First, जहाँ समझ, याद और real-life application तीनों को equal importance दी जाती है।",
+      "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+      "creativeWorkStatus": "Live"
+    }
+],
+"subjectOf": [
+  {
+    "@type": "WebPage",
+    "@id": "https://www.orangeeconomy.in/#ref-union-budget-2026-27",
+    "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
+    "name": "Union Budget 2026–27 (Government of India)",
+    "disambiguatingDescription": "Reference pointer only. The official document is hosted on a Government of India website; this node is an internal reference identifier used for linking and attribution."
+  }
+],
+"hasPart": [
+  {
+  "@type": "Periodical",
+  "@id": "https://ai.gurukulonroad.com/p/hcam-bharats-bfsi-ai-wire.html#periodical",
+  "url": "https://ai.gurukulonroad.com/p/hcam-bharats-bfsi-ai-wire.html",
+  "name": "HCAM™ Bharat’s BFSI × AI Wire",
+  "description": "HCAM™ Bharat’s BFSI × AI Wire: A weekly Human+Machine newsletter designed for Bharat’s BFSI professionals, AI literacy learners, fashion and creative industry participants, corporate teams, creators, freelancers, digital marketing (SEO/AEO/GEO) professionals, tech builders, startups, and emotionally PsyOp-aware audiences. HCAM™ Bharat’s BFSI × AI Wire - Season 1 (Volume 01) brings together BFSI education, AI usage literacy, creative and fashion careers, corporate productivity systems, startup execution, policy decoding, technical infrastructure, and emotional clarity into one integrated knowledge flow. Season 1 (Volume 01) collects all published editions of HCAM™ Bharat’s BFSI × AI Wire, with each edition serving as a focused, actionable map across real-world domains - from exam-oriented BFSI concepts to advisory and risk judgment, from AI confusion to Hindi-first Human+Machine workflows, from creative burnout to structured visibility systems, from corporate overload to clarity-driven productivity, from startup chaos to operational discipline, from policy headlines to DPI and IndiaAI explained simply, and from hype around agents and architectures to grounded technical clarity. This season is not an archive -it is a progression map. Readers do not need to consume everything at once. Start with the edition aligned to your current challenge -BFSI compliance, AI adoption, creative fatigue, corporate stress, startup execution, policy noise, or emotional overload. One edition, one idea, one real-world application at a time is enough to change how you think, work, create, and decide.",
+  "inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+  "publisher": "https://ai.gurukulonroad.com/"
+}
+],
+
+
+ "hasDefinedTerm": [
+{
+      "@type": "DefinedTerm",
+      "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T1",
+      "url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+      "name": "बजट अनुमान",
+      "alternateName": [
+        "Budget Estimates",
+        "Budget Estimates (BE)",
+        "BE (Budget)"
+       ],
+      "termCode": "B30-BUDGET26-T1",
+      "description": "बजट अनुमान सरकार के आने वाले फाइनेंशियल ईयर के लिए आय और खर्च के आगे के अनुमान होते हैं, जिन्हें यूनियन बजट के हिस्से के तौर पर संसद में पेश किया जाता है और जो फिस्कल प्लानिंग और ऑथराइजेशन का आधार बनते हैं।",
+"additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Budget Estimates are the government’s forward-looking projections of receipts and expenditure for the upcoming financial year, presented to Parliament as part of the Union Budget and forming the basis for fiscal planning and authorisation."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "BE matlab government ka plan for agla saal -kitna paisa aayega aur kitna kharch hoga. Ye estimates Budget ke din present hote hain aur Parliament se approval lete hain. Actual spending shuru hone se pehle BE ek roadmap hota hai, guarantee nahi. Agar economy ya tax collection badle, BE revise ho sakta hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Projection → Outcome: Budget planning → Impact: Fiscal direction. Consequence: Govt accountable to estimates"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Budget Estimates ya BE ka matlab hota hai government ka agla saal ka plan. Ismein government estimate karti hai ki kitna paisa aayega aur kitna kharch hoga. Ye Budget ke din Parliament ke saamne rakha jata hai. BE final nahi hota, bas planning hoti hai. Agar economy badle, to ismein changes ho sakte hain. Example: Agar government bole ki agle saal ₹30 lakh crore tax aayega, to wo BE hai."
+    }
+  ]
+    },
+
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T2",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "संशोधित अनुमान",
+  "alternateName": [
+    "Revised Estimates",
+    "Revised Estimates (RE)",
+    "RE (Budget)"
+  ],
+  "termCode": "B30-BUDGET26-T2",
+  "description": "रिवाइज्ड एस्टीमेट (संशोधित अनुमान) रेवेन्यू और खर्च के असल ट्रेंड के आधार पर बजट एस्टीमेट के मिड-ईयर अपडेट होते हैं। ये संभावित नतीजों को दिखाते हैं, लेकिन इनके लिए संसद की नई मंज़ूरी की ज़रूरत नहीं होती।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Revised Estimates are mid-year updates to Budget Estimates based on actual trends in revenue and expenditure. They reflect likely outcomes for the financial year but do not require fresh parliamentary approval."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "RE matlab mid-year reality check. Jab saal ke beech pata chalta hai ki collection ya spending BE se different hai, tab government Revised Estimates batati hai. Ye sirf estimate update hai, naya kharch allow nahi karta."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Adjustment → Outcome: Realistic numbers → Impact: Better forecasting. Consequence: Transparency expectation"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Revised Estimates ya RE ka matlab hota hai beech saal ka budget update. Jab government dekhti hai ki asli income ya kharcha Budget Estimates se alag ja raha hai, tab RE bataya jata hai. RE naya paisa kharch karne ki permission nahi deta, bas expected reality dikhata hai. Example: Agar GST collection kam hua, to RE mein income kam dikhaayi jaati hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T3",
+  "url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "एक्चुअल / वास्तविक आंकड़े",
+  "alternateName": [
+    "Actuals",
+    "Actual Accounts",
+    "Actuals (Government Accounts)"
+  ],
+  "termCode": "B30-BUDGET26-T3",
+  "description": "एक्चुअल (Actuals) पूरे हुए फाइनेंशियल साल के लिए सरकारी आमदनी और खर्च के फाइनल, ऑडिट किए गए आंकड़े होते हैं, जैसा कि सरकारी ऑफिशियल अकाउंट्स में रिकॉर्ड किया गया है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Actuals are the final audited figures of government receipts and expenditure for a completed financial year, as recorded in official government accounts."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Actuals matlab jo sach mein hua. Saal khatam hone ke baad CAG audit ke baad final numbers aate hain. Exams mein BE vs RE vs Actuals ka comparison bahut common hota hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Audit → Outcome: Final data → Impact: Credibility. Consequence: Accountability fixed"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Actuals ya Accounts ka matlab hota hai jo sach mein hua. Saal khatam hone ke baad audit ke baad final figures aate hain. BE plan tha, RE beech saal ka update tha, aur Actuals final result hota hai. Example: Agar saal ke end mein pata chala ki tax sirf ₹28 lakh crore aaya, to wahi Actuals hote hain."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T4",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "रेवेन्यू रिसिप्ट्स",
+  "alternateName": [
+    "Revenue Receipts",
+    "Revenue Receipts (Government Budget)",
+    "Revenue Income"
+  ],
+  "termCode": "B30-BUDGET26-T4",
+  "description": "रेवेन्यू रिसिप्ट्स सरकारी इनकम होती हैं जिनसे कोई देनदारी नहीं बनती और न ही सरकारी एसेट्स कम होते हैं। इनका उपयोग रोज़ाना के सरकारी खर्चों को पूरा करने के लिए किया जाता है। इनमें टैक्स और नॉन-टैक्स रेवेन्यू दोनों शामिल होते हैं।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Revenue receipts are government incomes that do not create liabilities or reduce assets and are used to meet routine expenditure. They include both tax revenue and non-tax revenue."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Revenue receipts wo paisa hai jo government roz ke kharch ke liye use karti hai. Isse na loan banta hai, na asset bechna padta hai. Ye normal income hoti hai jisse salary, subsidy aur daily expenses cover hote hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Collection → Outcome: Routine funding → Impact: Fiscal stability. Consequence: Spending discipline"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Revenue receipts wo paisa hota hai jo government ko milta hai bina loan liye aur bina asset beche. Is paisa se roz ke kharch jaise salary, subsidy aur pension chalti hai. Example: Income tax aur GST se aaya paisa revenue receipt hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T5",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "केंद्र के लिए नेट टैक्स रेवेन्यू",
+  "alternateName": [
+    "Tax Revenue (Net to Centre)",
+    "Net Tax Revenue to Centre",
+    "Tax Revenue Net of States’ Share"
+  ],
+  "termCode": "B30-BUDGET26-T5",
+  "description": "केंद्र सरकार के लिए नेट टैक्स रेवेन्यू वह हिस्सा होता है जो कुल टैक्स कलेक्शन में से फाइनेंस कमीशन की सिफारिशों के अनुसार राज्यों का हिस्सा देने के बाद केंद्र सरकार के पास बचता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Tax revenue net to the Centre is the Union Government’s share of gross tax collections after devolving the states’ share as per Finance Commission recommendations."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Centre tax collect karta hai, par sab uska nahi hota. States ka hissa dene ke baad jo paisa bachta hai, wahi net to Centre hota hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Tax sharing → Outcome: Central balance → Impact: Centre finances. Consequence: Devolution compliance"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Tax revenue net to Centre ka matlab hota hai Centre ke paas bacha hua tax paisa. Jab Centre tax collect karta hai, to uska ek hissa Finance Commission ke rule ke hisaab se states ko diya jata hai. States ka share dene ke baad jo paisa Centre ke paas rehta hai, wahi net to Centre hota hai. Example: ₹100 GST collect hua, ₹40 states ko gaya, ₹60 Centre ka net hua."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T6",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "नॉन-टैक्स रेवेन्यू",
+  "alternateName": [
+    "Non-Tax Revenue",
+    "Non-Tax Receipts",
+    "Government Non-Tax Income"
+  ],
+  "termCode": "B30-BUDGET26-T6",
+  "description": "नॉन-टैक्स रेवेन्यू में टैक्स के अलावा अन्य स्रोतों से होने वाली सरकारी इनकम शामिल होती है, जैसे डिविडेंड, ब्याज से प्राप्त रकम, फीस, जुर्माना और स्पेक्ट्रम चार्ज।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Non-tax revenue includes government income from sources other than taxes, such as dividends, interest receipts, fees, fines, and spectrum charges."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ye wo income hai jo tax lagaye bina aati hai, jaise PSU dividends, RBI surplus, licence fees, aur fines."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Asset earning → Outcome: Extra income → Impact: Fiscal cushion. Consequence: PSU performance scrutiny"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Non-tax revenue wo income hoti hai jo tax ke bina aati hai. Jaise PSU ka dividend, RBI ka profit, fees aur fines. Example: RBI jab government ko dividend deta hai, wo non-tax revenue hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T7",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "डायरेक्ट टैक्स",
+  "alternateName": [
+    "Direct Taxes",
+    "Direct Tax",
+    "Income and Corporate Taxes"
+  ],
+  "termCode": "B30-BUDGET26-T7",
+  "description": "डायरेक्ट टैक्स वे टैक्स होते हैं जो सीधे व्यक्तियों और कंपनियों पर लगाए जाते हैं और जिन्हें किसी अन्य व्यक्ति पर ट्रांसफर नहीं किया जा सकता। इनमें इनकम टैक्स और कॉर्पोरेट टैक्स शामिल होते हैं।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Direct taxes are levied directly on individuals and entities and cannot be shifted to others. Common examples include income tax and corporate tax."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Jo tax aap khud bharte ho, wahi direct tax hota hai. Isse kisi aur par transfer nahi kiya ja sakta."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Levy → Outcome: Progressive revenue → Impact: Equity. Consequence: Compliance responsibility"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Direct tax wo hota hai jo aap khud government ko dete ho aur kisi aur par transfer nahi kar sakte. Example: Salary par lagne wala income tax direct tax hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T8",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "अप्रत्यक्ष टैक्स",
+  "alternateName": [
+    "Indirect Taxes",
+    "Indirect Tax",
+    "Consumption Taxes"
+  ],
+  "termCode": "B30-BUDGET26-T8",
+  "description": "अप्रत्यक्ष टैक्स वे टैक्स होते हैं जो सामान और सेवाओं पर लगाए जाते हैं और बिचौलियों के माध्यम से कंज्यूमर्स से वसूले जाते हैं। इनका टैक्स बोझ दूसरों पर शिफ्ट किया जा सकता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Indirect taxes are imposed on goods and services and are collected from consumers through intermediaries. The tax burden can be shifted from the seller to the consumer."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ye tax cheez ke price ke andar chhupa hota hai. Consumer shop ya service provider ko pay karta hai, aur wahi paisa government tak jata hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Consumption tax → Outcome: Broad base → Impact: Inflation effect. Consequence: Price sensitivity"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Indirect tax wo hota hai jo cheez ke price mein jud jaata hai. Aap shop par pay karte ho, par tax government ko jata hai. Example: Restaurant bill mein lagne wala GST indirect tax hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T9",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कस्टम ड्यूटी",
+  "alternateName": [
+    "Customs Duty",
+    "Import Export Duty",
+    "Customs Tax"
+  ],
+  "termCode": "B30-BUDGET26-T9",
+  "description": "कस्टम ड्यूटी भारत में इंपोर्ट या एक्सपोर्ट किए जाने वाले सामानों पर लगाया जाने वाला टैक्स है, जिसे आम तौर पर कीमतों के ज़रिए कंज्यूमर्स तक पहुंचाया जाता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Customs duty is a tax imposed on goods imported into or exported from India, generally passed on to consumers through prices."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Import-export par lagne wala tax hi customs duty hota hai. Zyada customs duty ka matlab imported cheez mehngi ho jaati hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Border taxation → Outcome: Revenue + protection → Impact: Trade balance. Consequence: Consumer prices"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Customs duty import ya export par lagne wala tax hota hai. Agar customs duty zyada ho, to imported cheez mehngi ho jaati hai. Example: Imported mobile ya electronics par customs duty lagti hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T10",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कैपिटल रिसिप्ट्स",
+  "alternateName": [
+    "Capital Receipts",
+    "Capital Receipts (Government Budget)",
+    "Non-Revenue Receipts"
+  ],
+  "termCode": "B30-BUDGET26-T10",
+  "description": "कैपिटल रिसिप्ट्स वे रिसिप्ट्स होती हैं जो सरकारी लायबिलिटीज़ बनाती हैं या फाइनेंशियल एसेट्स को कम करती हैं। इनमें उधार, लोन की रिकवरी और डिसइन्वेस्टमेंट से मिली रकम शामिल होती है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Capital receipts are receipts that create liabilities or reduce financial assets. These include borrowings, loan recoveries, and disinvestment proceeds."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ye paisa aisa hota hai jo future mein repay karna padta hai ya jisse government ke assets kam ho jaate hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Fund raising → Outcome: Resource availability → Impact: Debt levels. Consequence: Repayment burden"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Capital receipts wo paisa hota hai jo future mein wapas karna padta hai ya jisse asset kam hota hai. Example: Government ka loan lena capital receipt hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T11",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "लोन की रिकवरी",
+  "alternateName": [
+    "Recovery of Loans",
+    "Loan Repayments to Centre",
+    "Recovery of Government Loans"
+  ],
+  "termCode": "B30-BUDGET26-T11",
+  "description": "लोन की रिकवरी का अर्थ है केंद्र सरकार को राज्यों, केंद्र शासित प्रदेशों, सार्वजनिक क्षेत्र उपक्रमों (PSUs) या अन्य संस्थाओं से मिले वे रीपेमेंट, जिन्हें पहले लोन दिया गया था।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Recovery of loans refers to repayments received by the Centre from states, Union Territories, PSUs, or other entities to which loans were previously extended."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Government ne jo loan pehle diya tha, jab wo paisa wapas milta hai, use recovery of loans kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Recovery → Outcome: Asset restoration → Impact: Fiscal health. Consequence: Borrower discipline"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Recovery of loans ka matlab hota hai government ko diya hua loan wapas milna. Jab Centre ne state government, PSU ya kisi aur entity ko loan diya ho aur wo paisa repay ho jaye, to use recovery of loans kehte hain. Example: State government ne Centre ka loan wapas chuka diya."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T12",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "अन्य प्राप्तियाँ",
+  "alternateName": [
+    "Other Receipts",
+    "Other Capital Receipts",
+    "Disinvestment and Asset Monetisation Receipts"
+  ],
+  "termCode": "B30-BUDGET26-T12",
+  "description": "अन्य प्राप्तियों में मुख्य रूप से सरकार द्वारा किए गए विनिवेश और एसेट मोनेटाइजेशन से होने वाली आय शामिल होती है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Other receipts mainly consist of proceeds from disinvestment and asset monetisation undertaken by the government."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Asset bechkar ya monetise karke jo paisa aata hai, use other receipts kehte hain. Ye tax ya loan se alag hota hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Asset sale → Outcome: Non-debt funds → Impact: Deficit control. Consequence: Ownership dilution"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Other receipts ka matlab hota hai asset bechkar paisa lana, jaise disinvestment ya asset monetisation. Example: PSU ke shares bechkar government ko jo paisa milta hai, wo other receipts hote hain."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T13",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "उधार और अन्य देनदारियाँ",
+  "alternateName": [
+    "Borrowings and Other Liabilities",
+    "Government Borrowings",
+    "Public Debt and Liabilities"
+  ],
+  "termCode": "B30-BUDGET26-T13",
+  "description": "उधार और अन्य देनदारियां वे फंड होते हैं जो प्राप्तियों और खर्च के बीच के अंतर को पूरा करने के लिए मार्केट लोन और अन्य वित्तीय इंस्ट्रूमेंट्स के माध्यम से जुटाए जाते हैं।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Borrowings and other liabilities are funds raised through market loans and financial instruments to finance the gap between government receipts and expenditure."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Jab government ki income kam pad jaati hai aur kharcha zyada hota hai, tab wo market se loan leti hai. Isi process ko borrowings kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Borrowing → Outcome: Spending continuity → Impact: Debt ratio. Consequence: Interest burden"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Borrowings aur other liabilities ka matlab hota hai government ka market se loan lena. Jab receipts aur expenditure ke beech gap hota hai, tab government bonds ya dusre instruments issue karke paisa uthati hai. Example: Government bonds issue karna borrowings ka example hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T14",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कुल खर्च",
+  "alternateName": [
+    "Total Expenditure",
+    "Total Government Expenditure",
+    "Aggregate Expenditure"
+  ],
+  "termCode": "B30-BUDGET26-T14",
+  "description": "कुल खर्च केंद्र सरकार द्वारा किए गए रेवेन्यू खर्च और कैपिटल खर्च का कुल योग होता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Total expenditure is the aggregate of revenue expenditure and capital expenditure incurred by the Central Government."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Government ka total kharcha matlab revenue spending aur capital spending dono ka mila-jula amount."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Spending → Outcome: Service delivery → Impact: Growth. Consequence: Fiscal pressure"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Total expenditure ka matlab hota hai government ka poora kharcha—roz ke kharch bhi aur asset banane wala kharch bhi. Example: Salary ka kharch aur highway project par kharch dono milkar total expenditure banta hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T15",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "रेवेन्यू खर्च",
+  "alternateName": [
+    "Revenue Expenditure",
+    "Revenue Spending",
+    "Current Expenditure"
+  ],
+  "termCode": "B30-BUDGET26-T15",
+  "description": "रेवेन्यू खर्च ऐसे खर्च को कहा जाता है जिससे कोई एसेट नहीं बनता, जैसे सैलरी, सब्सिडी, पेंशन और इंटरेस्ट पेमेंट।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Revenue expenditure refers to government spending that does not result in the creation of assets. Typical examples include salaries, subsidies, pensions, and interest payments."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ye roz ka kharcha hota hai jisse koi asset nahi banta, jaise salary, subsidy, pension ya interest payment."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Routine spending → Outcome: Operations run → Impact: Consumption support. Consequence: Limited future returns"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Revenue expenditure wo kharcha hota hai jisse koi asset nahi banta. Jaise pension, subsidy ya loan ka interest payment. Example: Government ka loan interest dena revenue expenditure hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T16",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कैपिटल एक्सपेंडिचर",
+  "alternateName": [
+    "Capital Expenditure",
+    "Capital Spending",
+    "Capex"
+  ],
+  "termCode": "B30-BUDGET26-T16",
+  "description": "कैपिटल एक्सपेंडिचर वह खर्च है जिससे एसेट्स बनते हैं या लायबिलिटीज़ कम होती हैं। इसमें इंफ्रास्ट्रक्चर प्रोजेक्ट, लोन और इक्विटी इन्वेस्टमेंट शामिल होते हैं।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Capital expenditure is spending that creates assets or reduces liabilities, including infrastructure projects, loans, and equity investments."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ye future ke liye asset banane wala kharcha hota hai. Isse capacity create hoti hai ya long-term benefit milta hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Asset creation → Outcome: Capacity build → Impact: Growth multiplier. Consequence: Long-term payoff"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Capital expenditure wo kharcha hota hai jisse future ke liye asset banta hai ya government ki liabilities kam hoti hain. Example: Bridge, highway ya railway line banana capital expenditure hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T17",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कैपिटल एसेट निर्माण हेतु ग्रांट",
+  "alternateName": [
+    "Grants-in-Aid for Creation of Capital Assets",
+    "Capital Asset Creation Grants",
+    "Grants for Capital Assets"
+  ],
+  "termCode": "B30-BUDGET26-T17",
+  "description": "ये ऐसी ग्रांट होती हैं जो एसेट बनाने के लिए दी जाती हैं, लेकिन अकाउंटिंग नियमों के अनुसार इन्हें रेवेन्यू खर्च के रूप में क्लासिफाई किया जाता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "These are grants provided for the creation of capital assets, but under government accounting rules, they are classified as revenue expenditure."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ismein asset banta hai, lekin accounting ke rules ke hisaab se ise revenue expenditure maana jaata hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Grant support → Outcome: Asset creation → Impact: Infrastructure. Consequence: Accounting clarity needed"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Grants-in-Aid for Creation of Capital Assets wo grants hoti hain jo asset banane ke liye di jaati hain, lekin accounting mein revenue expenditure ke roop mein dikhaayi jaati hain. Isi liye capital expenditure aur aisi grants milkar effective capital expenditure banta hai. Example: State ko hospital banane ke liye diya gaya grant."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T18",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "इफेक्टिव कैपिटल एक्सपेंडिचर",
+  "alternateName": [
+    "Effective Capital Expenditure",
+    "Effective Capex",
+    "Asset-Creating Expenditure (Effective)"
+  ],
+  "termCode": "B30-BUDGET26-T18",
+  "description": "इफेक्टिव कैपिटल एक्सपेंडिचर, कैपिटल एक्सपेंडिचर और कैपिटल एसेट बनाने के लिए मिलने वाली ग्रांट के बराबर होता है, जिससे एसेट बनाने वाले खर्च का पूरा नज़रिया मिलता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Effective capital expenditure equals capital expenditure plus grants for creation of capital assets, providing a comprehensive view of asset-creating spending."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Asli asset kharcha matlab capex + wo grants jo asset banane ke liye di jaati hain. Dono milkar effective capex banta hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Consolidation → Outcome: True capex view → Impact: Investment signal. Consequence: Policy evaluation"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Jab roz ke kharch ke liye bhi government ko loan lena pade, use revenue deficit kehte hain. Example: Salary loan se dena."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T19",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "राजस्व घाटा",
+  "alternateName": [
+    "Revenue Deficit",
+    "Revenue Account Deficit"
+  ],
+  "termCode": "B30-BUDGET26-T19",
+  "description": "राजस्व घाटा वह स्थिति है जब राजस्व प्राप्तियों की तुलना में राजस्व खर्च अधिक हो जाता है, जो रोज़मर्रा के खर्चों के लिए उधार लेने का संकेत देता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Revenue deficit is the excess of revenue expenditure over revenue receipts, indicating borrowing for routine expenditure."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Roz ke kharch ke liye jab government ko loan lena padta hai, to use revenue deficit kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Borrow for routine → Outcome: Deficit → Impact: Fiscal stress. Consequence: Sustainability risk"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Fiscal deficit batata hai government ko saal mein kitna loan lena padega. Example: Income kam, kharcha zyada."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T20",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "इफेक्टिव रेवेन्यू डेफिसिट",
+  "alternateName": [
+    "Effective Revenue Deficit",
+    "ERD (Effective Revenue Deficit)"
+  ],
+  "termCode": "B30-BUDGET26-T20",
+  "description": "इफेक्टिव रेवेन्यू डेफिसिट, रेवेन्यू डेफिसिट से कैपिटल एसेट बनाने के लिए मिलने वाले ग्रांट को घटाने के बाद बचा हुआ घाटा होता है, जो नॉन-एसेट-बैक्ड रेवेन्यू बोरिंग को दर्शाता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Effective revenue deficit excludes grants for creation of capital assets from the revenue deficit, thereby indicating revenue borrowing that is not backed by asset creation."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Jo revenue deficit asset create nahi karta, wahi effective revenue deficit hota hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Deficit adjustment → Outcome: True burden → Impact: Debt quality. Consequence: Policy correction"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Primary deficit ka matlab hota hai fiscal deficit mein se purane loan ka interest hata dena. Jo bachta hai wahi primary deficit hota hai. Example: Jab naya kharcha loan se chal raha ho."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T21",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "राजकोषीय नीति",
+  "alternateName": [
+    "Fiscal Policy",
+    "Budgetary policy"
+  ],
+  "termCode": "B30-BUDGET26-T21",
+  "description": "राजकोषीय नीति में आर्थिक स्थितियों को प्रभावित करने के लिए टैक्सेशन, खर्च और उधार लेने के बारे में सरकार के फैसले शामिल होते हैं।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Fiscal policy involves government decisions on taxation, spending, and borrowing to influence economic conditions."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Tax + kharcha + loan = fiscal policy."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Budget design → Outcome: Economic control → Impact: Growth & inflation. Consequence: Political accountability"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Fiscal policy ka matlab hota hai tax, kharcha aur loan—teenon ko manage karna. Jab economy slow hoti hai, government spending badha kar demand support karti hai. Isi tarah ke decisions fiscal policy kehlate hain."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T22",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "मौद्रिक नीति",
+  "alternateName": [
+    "Monetary Policy",
+    "RBI Monetary Policy",
+    "Central Bank Monetary Policy"
+  ],
+  "termCode": "B30-BUDGET26-T22",
+  "description": "मौद्रिक नीति का अर्थ है भारतीय रिज़र्व बैंक (RBI) द्वारा मनी सप्लाई और इंटरेस्ट रेट को रेगुलेट करने के लिए किए गए एक्शन।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Monetary policy refers to actions taken by the Reserve Bank of India to regulate money supply and interest rates in the economy."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "RBI interest rate ko badha-ghata kar economy mein paisa aur credit control karta hai. Isi process ko monetary policy kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Rate control → Outcome: Liquidity management → Impact: Inflation control. Consequence: Growth trade-off"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Monetary policy RBI chalata hai. RBI interest rate badha ya ghata kar economy ko control karta hai. Example: Repo rate hike se loan mehnga ho jaata hai aur inflation control hota hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T23",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "महंगाई",
+  "alternateName": [
+    "Inflation",
+    "Price Inflation",
+    "General Price Rise"
+  ],
+  "termCode": "B30-BUDGET26-T23",
+  "description": "महंगाई किसी इकॉनमी में सामान और सेवाओं की सामान्य कीमत के स्तर में लगातार होने वाली बढ़ोतरी को कहा जाता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Inflation is a sustained rise in the general price level of goods and services in an economy."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Jab prices lagataar badhte rehte hain aur paisa pehle se kam cheez kharid paata hai, use inflation kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Price movement → Outcome: Purchasing power fall → Impact: Cost of living. Consequence: Policy response"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Inflation ka matlab hota hai jab prices lagataar badhte rehte hain aur paisa kam cheez kharid paata hai. Example: Sabzi, doodh ya petrol ka mehnga hona inflation ka sign hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T24",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "फाइनेंस बिल",
+  "alternateName": [
+    "Finance Bill",
+    "Union Finance Bill",
+    "Budget Finance Bill"
+  ],
+  "termCode": "B30-BUDGET26-T24",
+  "description": "फाइनेंस बिल बजट में घोषित किए गए टैक्स प्रस्तावों को कानूनी रूप देता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "The Finance Bill gives legal effect to tax proposals announced in the Union Budget."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Budget mein tax announce hota hai, aur Finance Bill usse law banata hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Legalisation → Outcome: Tax enforcement → Impact: Revenue certainty. Consequence: Parliamentary approval"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Finance Bill ka kaam hota hai Budget mein announce hue tax proposals ko law banana. Jab Parliament Finance Bill pass karti hai, tab tax legally apply ho jaata hai. Example: Naya tax slab Finance Bill ke through legal banta hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T25",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "वोट ऑन अकाउंट",
+  "alternateName": [
+    "Vote on Account",
+    "Interim Vote on Account",
+    "Temporary Budget Approval"
+  ],
+  "termCode": "B30-BUDGET26-T25",
+  "description": "वोट ऑन अकाउंट बजट पास होने तक केंद्र सरकार को अस्थायी रूप से खर्च करने की अनुमति देता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Vote on Account allows the government to incur temporary expenditure until the full Budget is passed by Parliament."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Agar full Budget time par pass nahi hota, to government ko thode time ke liye paisa kharch karne ki permission milti hai—isi ko Vote on Account kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Interim funding → Outcome: Govt continuity → Impact: Cash flow. Consequence: Time-bound approval"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Vote on Account ka matlab hota hai jab full Budget pass nahi hota, tab government ko temporary paisa kharch karne ki permission milti hai. Ye usually election year mein use hota hai, taaki sarkari kaam ruk na jaaye."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T26",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "एक्सेस ग्रांट",
+  "alternateName": [
+    "Excess Grant",
+    "Excess Expenditure Grant",
+    "Parliamentary Excess Grant"
+  ],
+  "termCode": "B30-BUDGET26-T26",
+  "description": "एक्सेस ग्रांट वह संसदीय मंज़ूरी होती है जो तय की गई स्वीकृत सीमा से अधिक किए गए खर्च के लिए बाद में मांगी जाती है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "An excess grant is parliamentary approval sought after expenditure has exceeded the authorised limits."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Agar government ne approved limit se zyada kharcha kar diya ho, to baad mein Parliament se approval lena padta hai—isi ko excess grant kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Overspend correction → Outcome: Legal cover → Impact: Audit clearance. Consequence: Accountability check"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Excess grant tab liya jata hai jab government ne pehle se approved limit se zyada kharch kar diya ho. Baad mein Parliament se approval lekar us kharch ko legal banaya jata hai. Example: Disaster relief mein zyada kharcha ho jana."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T27",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "री-एप्रोप्रिएशन",
+  "alternateName": [
+    "Re-appropriation",
+    "Reappropriation of Funds",
+    "Intra-Grant Re-appropriation"
+  ],
+  "termCode": "B30-BUDGET26-T27",
+  "description": "री-एप्रोप्रिएशन का अर्थ है एक ही ग्रांट के भीतर एक खर्च मद से बची हुई राशि को किसी दूसरे खर्च मद में ट्रांसफर करना।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Re-appropriation is the transfer of savings from one expenditure head to another within the same grant."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ek jagah bacha hua paisa usi grant ke andar doosri jagah shift kar dena re-appropriation kehlata hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Fund shifting → Outcome: Optimal use → Impact: Efficiency. Consequence: Administrative approval"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Re-appropriation ka matlab hota hai ek expenditure head mein bacha paisa usi grant ke kisi doosre head mein shift karna. Example: Travel budget se bachi hui amount ko equipment kharidne mein use karna."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T28",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कंसोलिडेटेड फंड ऑफ इंडिया (भारत)",
+  "alternateName": [
+    "Consolidated Fund of India",
+    "CFI (Consolidated Fund of India)",
+    "Government Consolidated Fund"
+  ],
+  "termCode": "B30-BUDGET26-T28",
+  "description": "कंसोलिडेटेड फंड ऑफ इंडिया सभी सरकारी रेवेन्यू और उधार के लिए मुख्य अकाउंट होता है। इस फंड से किसी भी तरह का खर्च केवल संसद की मंज़ूरी के बाद ही किया जा सकता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "The Consolidated Fund of India is the primary account for all government revenues and borrowings. Any expenditure from this fund requires parliamentary approval."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Ye government ka main wallet hota hai. Saara tax aur loan yahin aata hai, aur Parliament ke approval ke bina paisa kharch nahi ho sakta."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Central pooling → Outcome: Controlled spending → Impact: Fiscal discipline. Consequence: Parliamentary control"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Consolidated Fund of India government ka main account hota hai jahan saare tax aur loans jama hote hain. Is fund se paisa tabhi kharch ho sakta hai jab Parliament approval de. Example: Government employees ki salary yahin se di jaati hai."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T29",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कंटिंजेंसी फंड ऑफ इंडिया (भारत)",
+  "alternateName": [
+    "Contingency Fund of India",
+    "Emergency Contingency Fund",
+    "CFI – Contingency Fund"
+  ],
+  "termCode": "B30-BUDGET26-T29",
+  "description": "कंटिंजेंसी फंड ऑफ इंडिया का उपयोग आपातकालीन और अप्रत्याशित खर्चों के लिए किया जाता है, जिनके लिए तुरंत संसद की मंज़ूरी लेना संभव नहीं होता। बाद में इस खर्च के लिए संसदीय अनुमोदन लिया जाता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "The Contingency Fund of India is used for urgent and unforeseen expenditure, pending subsequent parliamentary approval."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Emergency ke time par jab turant paisa chahiye hota hai, tab Contingency Fund use hota hai. Baad mein Parliament se approval liya jaata hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Emergency spend → Outcome: Speed → Impact: Crisis response. Consequence: Later approval"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Contingency Fund of India emergency ke liye rakha gaya fund hota hai. Jab koi unexpected situation jaise flood ya disaster aata hai, tab yahin se turant paisa kharch kiya jaata hai. Baad mein Parliament se approval liya jaata hai. Example: Flood relief."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T30",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "पब्लिक अकाउंट ऑफ इंडिया (भारत)",
+  "alternateName": [
+    "Public Account of India",
+    "Public Account",
+    "Government Custodial Account"
+  ],
+  "termCode": "B30-BUDGET26-T30",
+  "description": "पब्लिक अकाउंट ऑफ इंडिया में ऐसे फंड रखे जाते हैं जहाँ सरकार बैंकर या कस्टोडियन के रूप में काम करती है। यह पैसा सरकार का नहीं होता है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "The Public Account of India holds funds where the government acts as a banker or custodian. The money in this account does not belong to the government."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Is account mein rakha paisa government ka nahi hota. Government sirf custodian hoti hai aur paisa safely hold karti hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Safekeeping → Outcome: Trust → Impact: Financial stability. Consequence: Fiduciary duty"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Public Account of India mein government sirf custodian hoti hai. Ismein rakha paisa government ka nahi hota. Example: Provident Fund deposits Public Account ka hissa hote hain."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T31",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "आउटकम बजट / आउटपुट–आउटकम मॉनिटरिंग",
+  "alternateName": [
+    "Outcome Budget",
+    "Output–Outcome Monitoring",
+    "Outcome-Based Budgeting"
+  ],
+  "termCode": "B30-BUDGET26-T31",
+  "description": "आउटकम बजट और आउटपुट–आउटकम मॉनिटरिंग ऐसे दस्तावेज़ होते हैं जो यह आकलन करते हैं कि बजट आवंटन से इच्छित आउटपुट और परिणाम वास्तव में हासिल हुए या नहीं।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Outcome Budget and Output–Outcome Monitoring documents assess whether budgetary allocations have achieved the intended outputs and outcomes."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Government ne paisa diya, lekin us paisa se actual result kya nikla—ye cheez Outcome Budget check karta hai."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Evaluation → Outcome: Performance insight → Impact: Better allocation. Consequence: Ministerial accountability"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Outcome Budget ka matlab hota hai paisa diya gaya, par usse result kya mila. Ye check karta hai ki spending se real impact hua ya nahi. Example: School ke liye fund mila, par learning outcome improve hua ya nahi."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T32",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "गिलोटिन",
+  "alternateName": [
+    "Guillotine",
+    "Parliamentary Guillotine",
+    "Guillotine Procedure"
+  ],
+  "termCode": "B30-BUDGET26-T32",
+  "description": "गिलोटिन एक पार्लियामेंट्री प्रोसेस है जिसमें निर्धारित चर्चा समय समाप्त होने के बाद बची हुई ग्रांट्स की मांगों पर एक साथ मतदान (वोटिंग) की जाती है।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Guillotine is a parliamentary process in which the remaining Demands for Grants are put to vote together after the allotted discussion time expires."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Jab Budget session mein discussion ka time khatam ho jaata hai, to jo demands pending hoti hain un sab par ek saath vote hota hai—isi process ko Guillotine kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Time management → Outcome: Passage certainty → Impact: Legislative efficiency. Consequence: Reduced scrutiny"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Parliament mein Guillotine ka matlab hota hai ki jab discussion ka time khatam ho jaata hai, to jo bhi pending Demands for Grants hoti hain un sab par ek saath vote kara diya jaata hai. Example: Budget session ke end mein."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T33",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "कट मोशन",
+  "alternateName": [
+    "Cut Motions",
+    "Parliamentary Cut Motions",
+    "Demand for Grants Cut Motion"
+  ],
+  "termCode": "B30-BUDGET26-T33",
+  "description": "कट मोशन ऐसे संसदीय उपकरण होते हैं जिनके माध्यम से ग्रांट की मांगों में कमी का प्रस्ताव रखा जाता है, ताकि अर्थव्यवस्था, नीति की आलोचना, या किसी शिकायत को व्यक्त किया जा सके।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Cut motions are parliamentary tools used to propose reductions in Demands for Grants to express economy concerns, policy criticism, or grievances."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Jab MPs government ke kharch ya policy se agree nahi karte, to wo cut motion laakar apna point raise karte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Opposition signal → Outcome: Debate → Impact: Accountability. Consequence: Govt defence"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Cut motion ka matlab hota hai MPs ka government spending par objection raise karna. Jab wo kharch se agree nahi karte, to cut motion laate hain. Example: Symbolic ₹1 cut."
+    }
+  ]
+},
+{
+  "@type": "DefinedTerm",
+  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T34",
+"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "name": "डिसइन्वेस्टमेंट",
+  "alternateName": [
+    "Disinvestment",
+    "PSU Disinvestment",
+    "Government Equity Sale"
+  ],
+  "termCode": "B30-BUDGET26-T34",
+  "description": "डिसइन्वेस्टमेंट का मतलब है संसाधन जुटाने के लिए पब्लिक सेक्टर के उद्यमों में सरकारी इक्विटी को बेचना।",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "English Explanation",
+      "value": "Disinvestment is the sale of government equity in public sector enterprises to raise resources."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Hinglish Explanation",
+      "value": "Government jab PSU mein apna hissa bechkar paisa raise karti hai, use disinvestment kehte hain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Signal",
+      "value": "Task: Asset monetisation → Outcome: Non-debt funds → Impact: Market efficiency. Consequence: Ownership dilution"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "HCAM™ Voice-First (30 sec)",
+      "value": "Disinvestment ka matlab hota hai government ka PSU ke shares bechkar paisa lana. Isse loan liye bina resources milte hain. Example: Jab government PSU ka IPO laati hai."
+    }
+  ]
+}
+
+
+
+
+  ]
+}
