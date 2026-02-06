@@ -50,3 +50,46 @@ jobs:
           }
           if (!ok) process.exit(1);
           NODE
+
+      - name: Schema validation (Ajv)
+        run: |
+          node - <<'NODE'
+          const fs = require("fs");
+          const Ajv = require("ajv");
+          const addFormats = require("ajv-formats");
+
+          const schemaPath = "registry/voice-index.json/schemas/defined-termset.schema.json";
+          if (!fs.existsSync(schemaPath)) {
+            console.error("❌ Missing schema file:", schemaPath);
+            process.exit(1);
+          }
+          const schema = JSON.parse(fs.readFileSync(schemaPath, "utf8"));
+
+          const ajv = new Ajv({ allErrors: true, strict: false });
+          addFormats(ajv);
+          const validate = ajv.compile(schema);
+
+          const files = [
+            "registry/voice-index.json/packs/union-budget-2026-27/part-a-core-budget-concepts-2026.json",
+            "registry/voice-index.json/packs/union-budget-2026-27/part-b-budget-public-finance-fiscal-language.json"
+          ];
+
+          let ok = true;
+          for (const f of files) {
+            const data = JSON.parse(fs.readFileSync(f, "utf8"));
+            const valid = validate(data);
+            if (!valid) {
+              ok = false;
+              console.error("\n❌ Schema failed:", f);
+              for (const err of validate.errors || []) {
+                console.error(`  - ${err.instancePath || "/"} ${err.message}`);
+              }
+            } else {
+              console.log("✅ Schema OK:", f);
+            }
+          }
+          if (!ok) process.exit(1);
+          NODE
+
+      - name: Business rules validation
+        run: node scripts/validate-voice-index.mjs
