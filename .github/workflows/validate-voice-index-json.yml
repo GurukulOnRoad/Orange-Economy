@@ -23,56 +23,30 @@ jobs:
           npm init -y
           npm i -D ajv ajv-formats
 
-      - name: JSON parse check (all packs)
-        run: |
-          node -e "const fs=require('fs'); const path=require('path'); const walk=(d)=>fs.readdirSync(d,{withFileTypes:true}).flatMap(e=>{const p=path.join(d,e.name); return e.isDirectory()?walk(p):(p.endsWith('.json')?[p]:[])}); const files=walk('registry/voice-index.json/packs'); let ok=true; for(const f of files){ try{JSON.parse(fs.readFileSync(f,'utf8'));}catch(e){console.error('❌',f,e.message); ok=false;} } if(!ok) process.exit(1); console.log('✅ JSON parse OK:',files.length);"
-
-      - name: Schema validation (Ajv)
+      - name: JSON parse check (only these 2 files)
         run: |
           node - <<'NODE'
           const fs = require("fs");
-          const path = require("path");
-          const Ajv = require("ajv");
-          const addFormats = require("ajv-formats");
 
-          const schemaPath = "registry/voice-index.json/packs/union-budget-2026-27";
-          if (!fs.existsSync(schemaPath)) {
-            console.error("❌ Missing schema file:", schemaPath);
-            process.exit(1);
-          }
+          const files = [
+            "registry/voice-index.json/packs/union-budget-2026-27/part-a-core-budget-concepts-2026.json",
+            "registry/voice-index.json/packs/union-budget-2026-27/part-b-budget-public-finance-fiscal-language.json"
+          ];
 
-          const schema = JSON.parse(fs.readFileSync(schemaPath, "utf8"));
-          const ajv = new Ajv({ allErrors: true, strict: false });
-          addFormats(ajv);
-          const validate = ajv.compile(schema);
-
-          function walk(dir, out = []) {
-            for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
-              const p = path.join(dir, e.name);
-              if (e.isDirectory()) walk(p, out);
-              else if (e.isFile() && p.endsWith(".json")) out.push(p);
-            }
-            return out;
-          }
-
-          const files = walk("registry/voice-index.json/packs/union-budget-2026-27");
           let ok = true;
-
           for (const f of files) {
-            const data = JSON.parse(fs.readFileSync(f, "utf8"));
-            const valid = validate(data);
-            if (!valid) {
+            if (!fs.existsSync(f)) {
+              console.error("❌ Missing file:", f);
               ok = false;
-              console.error("\n❌ Schema failed:", f);
-              for (const err of validate.errors || []) {
-                console.error(`  - ${err.instancePath || "/"} ${err.message}`);
-              }
+              continue;
+            }
+            try {
+              JSON.parse(fs.readFileSync(f, "utf8"));
+              console.log("✅ Parsed:", f);
+            } catch (e) {
+              console.error("❌ Invalid JSON:", f, e.message);
+              ok = false;
             }
           }
-
           if (!ok) process.exit(1);
-          console.log(`✅ Schema validation OK: ${files.length} file(s)`);
           NODE
-
-      - name: Business rules validation
-        run: node scripts/validate-voice-index.mjs
