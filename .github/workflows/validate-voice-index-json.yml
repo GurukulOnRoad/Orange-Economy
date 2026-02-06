@@ -1,99 +1,78 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://www.orangeeconomy.in/schemas/defined-termset.schema.json",
-  "type": "object",
-  "required": ["@context", "@type", "@id", "url", "name", "description", "publisher", "creator", "owner", "hasDefinedTerm"],
-  "properties": {
-    "@context": { "const": "https://schema.org" },
-    "@type": { "const": "DefinedTermSet" },
-    "@id": { "type": "string", "minLength": 8 },
-    "url": { "type": "string", "minLength": 8 },
-    "name": { "type": "string", "minLength": 3 },
-    "description": { "type": "string", "minLength": 20 },
+name: Validate Voice Index JSON
 
-    "publisher": {
-      "type": "object",
-      "required": ["@type", "name", "url"],
-      "properties": {
-        "@type": { "type": "string" },
-        "name": { "type": "string" },
-        "url": { "type": "string" }
-      },
-      "additionalProperties": true
-    },
+on:
+  pull_request:
+  push:
+    branches: ["main"]
 
-    "creator": {
-      "type": "object",
-      "required": ["@type", "name", "url"],
-      "properties": {
-        "@type": { "type": "string" },
-        "name": { "type": "string" },
-        "url": { "type": "string" }
-      },
-      "additionalProperties": true
-    },
+jobs:
+  validate:
+    runs-on: ubuntu-latest
 
-    "owner": {
-      "type": "object",
-      "required": ["@type", "name", "url"],
-      "properties": {
-        "@type": { "type": "string" },
-        "name": { "type": "string" },
-        "url": { "type": "string" }
-      },
-      "additionalProperties": true
-    },
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    "isPartOf": { "type": "array" },
-    "subjectOf": { "type": "array" },
-    "hasPart": { "type": "array" },
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-    "hasDefinedTerm": {
-      "type": "array",
-      "minItems": 1,
-      "items": { "$ref": "#/$defs/definedTerm" }
-    }
-  },
-  "additionalProperties": true,
+      - name: Install validator deps
+        run: |
+          npm init -y
+          npm i -D ajv ajv-formats
 
-  "$defs": {
-    "definedTerm": {
-      "type": "object",
-      "required": ["@type", "@id", "name", "termCode", "identifier", "description"],
-      "properties": {
-        "@type": { "const": "DefinedTerm" },
-        "@id": { "type": "string", "minLength": 8 },
-        "url": { "type": "string" },
-        "name": { "type": "string", "minLength": 1 },
-        "alternateName": {
-          "type": "array",
-          "items": { "type": "string" }
-        },
-        "termCode": {
-          "type": "string",
-          "pattern": "^[A-Z0-9\\-]+$"
-        },
-        "identifier": { "type": "string", "minLength": 3 },
-        "description": { "type": "string", "minLength": 20 },
-        "disambiguatingDescription": { "type": "string" },
+      - name: JSON parse check (all packs)
+        run: |
+          node -e "const fs=require('fs'); const path=require('path'); const walk=(d)=>fs.readdirSync(d,{withFileTypes:true}).flatMap(e=>{const p=path.join(d,e.name); return e.isDirectory()?walk(p):(p.endsWith('.json')?[p]:[])}); const files=walk('registry/voice-index.json/packs'); let ok=true; for(const f of files){ try{JSON.parse(fs.readFileSync(f,'utf8'));}catch(e){console.error('❌',f,e.message); ok=false;} } if(!ok) process.exit(1); console.log('✅ JSON parse OK:',files.length);"
 
-        "additionalProperty": {
-          "type": "array",
-          "items": { "$ref": "#/$defs/propertyValue" }
-        }
-      },
-      "additionalProperties": true
-    },
+      - name: Schema validation (Ajv)
+        run: |
+          node - <<'NODE'
+          const fs = require("fs");
+          const path = require("path");
+          const Ajv = require("ajv");
+          const addFormats = require("ajv-formats");
 
-    "propertyValue": {
-      "type": "object",
-      "required": ["@type", "name", "value"],
-      "properties": {
-        "@type": { "const": "PropertyValue" },
-        "name": { "type": "string", "minLength": 2 },
-        "value": { "type": "string", "minLength": 2 }
-      },
-      "additionalProperties": true
-    }
-  }
-}
+          const schemaPath = "registry/voice-index.json/schemas/defined-termset.schema.json";
+          if (!fs.existsSync(schemaPath)) {
+            console.error("❌ Missing schema file:", schemaPath);
+            process.exit(1);
+          }
+
+          const schema = JSON.parse(fs.readFileSync(schemaPath, "utf8"));
+          const ajv = new Ajv({ allErrors: true, strict: false });
+          addFormats(ajv);
+          const validate = ajv.compile(schema);
+
+          function walk(dir, out = []) {
+            for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+              const p = path.join(dir, e.name);
+              if (e.isDirectory()) walk(p, out);
+              else if (e.isFile() && p.endsWith(".json")) out.push(p);
+            }
+            return out;
+          }
+
+          const files = walk("registry/voice-index.json/packs");
+          let ok = true;
+
+          for (const f of files) {
+            const data = JSON.parse(fs.readFileSync(f, "utf8"));
+            const valid = validate(data);
+            if (!valid) {
+              ok = false;
+              console.error("\n❌ Schema failed:", f);
+              for (const err of validate.errors || []) {
+                console.error(`  - ${err.instancePath || "/"} ${err.message}`);
+              }
+            }
+          }
+
+          if (!ok) process.exit(1);
+          console.log(`✅ Schema validation OK: ${files.length} file(s)`);
+          NODE
+
+      - name: Business rules validation
+        run: node scripts/validate-voice-index.mjs
