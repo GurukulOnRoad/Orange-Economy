@@ -2,14 +2,14 @@
 {
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
-  "@id": "https://www.orangeeconomy.in/#voice-first-glossary",
+  "@id": "https://orangeeconomy.b30bharat.com/#voice-first-glossary",
   "url": "https://voice.b30bharat.com/",
   "name": "PART  B  - बजट के आंकड़ों, मुख्य बजट, सार्वजनिक वित्त और राजकोषीय भाषा को समझना / Understanding Budget Numbers, Core Budget, Public Finance & Fiscal Language",
   "description": "DefinedTermSet केंद्रीय बजट 2026–27 को समझना क्यों ज़रूरी है  - A voice-first, HCAM™ Hindi–English–Hinglish DefinedTermSet that decodes Union Budget 2026–27 numbers and public finance language -BE/RE/Actuals, receipts, expenditure, deficits and funds -built for Bharat learners, everyday clarity, and exam-ready recall.",
    "publisher": {
         "@type": "WebSite",
         "name": "OrangeEconomy.in",
-        "url": "https://www.orangeeconomy.in/"
+        "url": "https://orangeeconomy.b30bharat.com/"
     },
   "creator": {
         "@type": "Organization",
@@ -25,7 +25,7 @@
 "isPartOf": [
   {
     "@type": "Book",
-    "@id": "https://www.orangeeconomy.in/#book-budget-guide",
+    "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide",
     "url": "https://play.google.com/store/books/details?id=QAq8EQAAQBAJ",
     "name": "B-30 Bharat Union Budget Guide & Dictionary 2026–27 (केंद्रीय बजट गाइड एवं शब्दकोश)",
     "description": "B-30 Bharat Union Budget Guide & Dictionary 2026–27  (केंद्रीय बजट गाइड एवं शब्दकोश) Hindi ↔ English ↔ Hinglish. HCAM™ यूनियन बजट के मुख्य शब्दों, कॉन्सेप्ट और पॉलिसी संकेतों के लिए इंटरप्रिटिव गाइड -भारत की लोकल इकॉनमी की स्ट्रीट-स्मार्ट समझ के लिए, परीक्षाओं, प्रोफेशन और रोज़ाना की बातचीत के लिए बजट में क्लैरिटी। A Street-smart Budget understanding -clear enough for everyday conversations, rigorous enough for exams and professionals. A structured, language-first and ethics-first guide to the Union Budget 2026-27, designed for Bharat (भारत) across local trade, services, rural livelihoods, and knowledge professions."
@@ -50,7 +50,7 @@
     },
 {
       "@type": "SoftwareSourceCode",
-      "@id": "https://www.orangeeconomy.in#voice-kg-project",
+      "@id": "https://orangeeconomy.b30bharat.com#voice-kg-project",
       "url": "https://github.com/GurukulOnRoad/Orange-Economy",
       "name": "Orange Economy: The Voice of Bharat - HCAM™ Voice-First Structured Index",
       "alternateName": [
@@ -65,7 +65,7 @@
    
     {
       "@type": "CreativeWork",
-      "@id": "https://www.orangeeconomy.in#project",
+      "@id": "https://orangeeconomy.b30bharat.com#project",
       "url": "https://learn.gurukulonroad.com/s/pages/bfsi-ai-hinglish-knowledge-graph-hcam",
       "name": "BFSI & AI Literacy Hinglish Knowledge Graph™ (Powered by HCAM™ - Hinglish Cognitive Anchoring Model™)| B30BHARAT",
       "description": "यह Knowledge Graph भारत के learners, BFSI professionals और exam aspirants के लिए बनाया गया है, ताकि Banking, Financial Services, Insurance (BFSI) और AI Literacy concepts को Hindi + English + Hinglish में समझना आसान हो सके। यह पूरा framework HCAM™ -Hinglish Cognitive Anchoring Model™ पर आधारित है -यानी Language-First, Not Translation-First, जहाँ समझ, याद और real-life application तीनों को equal importance दी जाती है।",
@@ -76,7 +76,7 @@
 "subjectOf": [
   {
     "@type": "WebPage",
-    "@id": "https://www.orangeeconomy.in/#ref-union-budget-2026-27",
+    "@id": "https://orangeeconomy.b30bharat.com/#ref-union-budget-2026-27",
     "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
     "name": "Union Budget 2026–27 (Government of India)",
     "disambiguatingDescription": "Reference pointer only. The official document is hosted on a Government of India website; this node is an internal reference identifier used for linking and attribution."
@@ -98,8 +98,8 @@
  "hasDefinedTerm": [
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T1",
-      "url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T1",
+      "url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
       "name": "बजट अनुमान",
       "alternateName": [
         "Budget Estimates",
@@ -134,8 +134,8 @@
 
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T2",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T2",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "संशोधित अनुमान",
   "alternateName": [
     "Revised Estimates",
@@ -169,8 +169,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T3",
-  "url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T3",
+  "url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "एक्चुअल / वास्तविक आंकड़े",
   "alternateName": [
     "Actuals",
@@ -204,8 +204,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T4",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T4",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "रेवेन्यू रिसिप्ट्स",
   "alternateName": [
     "Revenue Receipts",
@@ -239,8 +239,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T5",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T5",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "केंद्र के लिए नेट टैक्स रेवेन्यू",
   "alternateName": [
     "Tax Revenue (Net to Centre)",
@@ -274,8 +274,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T6",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T6",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "नॉन-टैक्स रेवेन्यू",
   "alternateName": [
     "Non-Tax Revenue",
@@ -309,8 +309,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T7",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T7",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "डायरेक्ट टैक्स",
   "alternateName": [
     "Direct Taxes",
@@ -344,8 +344,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T8",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T8",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "अप्रत्यक्ष टैक्स",
   "alternateName": [
     "Indirect Taxes",
@@ -379,8 +379,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T9",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T9",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कस्टम ड्यूटी",
   "alternateName": [
     "Customs Duty",
@@ -414,8 +414,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T10",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T10",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कैपिटल रिसिप्ट्स",
   "alternateName": [
     "Capital Receipts",
@@ -449,8 +449,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T11",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T11",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "लोन की रिकवरी",
   "alternateName": [
     "Recovery of Loans",
@@ -484,8 +484,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T12",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T12",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "अन्य प्राप्तियाँ",
   "alternateName": [
     "Other Receipts",
@@ -519,8 +519,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T13",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T13",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "उधार और अन्य देनदारियाँ",
   "alternateName": [
     "Borrowings and Other Liabilities",
@@ -554,8 +554,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T14",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T14",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कुल खर्च",
   "alternateName": [
     "Total Expenditure",
@@ -589,8 +589,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T15",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T15",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "रेवेन्यू खर्च",
   "alternateName": [
     "Revenue Expenditure",
@@ -624,8 +624,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T16",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T16",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कैपिटल एक्सपेंडिचर",
   "alternateName": [
     "Capital Expenditure",
@@ -659,8 +659,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T17",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T17",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कैपिटल एसेट निर्माण हेतु ग्रांट",
   "alternateName": [
     "Grants-in-Aid for Creation of Capital Assets",
@@ -694,8 +694,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T18",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T18",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "इफेक्टिव कैपिटल एक्सपेंडिचर",
   "alternateName": [
     "Effective Capital Expenditure",
@@ -729,8 +729,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T19",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T19",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "राजस्व घाटा",
   "alternateName": [
     "Revenue Deficit",
@@ -763,8 +763,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T20",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T20",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "इफेक्टिव रेवेन्यू डेफिसिट",
   "alternateName": [
     "Effective Revenue Deficit",
@@ -797,8 +797,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T21",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T21",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "राजकोषीय नीति",
   "alternateName": [
     "Fiscal Policy",
@@ -831,8 +831,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T22",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T22",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "मौद्रिक नीति",
   "alternateName": [
     "Monetary Policy",
@@ -866,8 +866,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T23",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T23",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "महंगाई",
   "alternateName": [
     "Inflation",
@@ -901,8 +901,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T24",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T24",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "फाइनेंस बिल",
   "alternateName": [
     "Finance Bill",
@@ -936,8 +936,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T25",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T25",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "वोट ऑन अकाउंट",
   "alternateName": [
     "Vote on Account",
@@ -971,8 +971,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T26",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T26",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "एक्सेस ग्रांट",
   "alternateName": [
     "Excess Grant",
@@ -1006,8 +1006,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T27",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T27",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "री-एप्रोप्रिएशन",
   "alternateName": [
     "Re-appropriation",
@@ -1041,8 +1041,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T28",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T28",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कंसोलिडेटेड फंड ऑफ इंडिया (भारत)",
   "alternateName": [
     "Consolidated Fund of India",
@@ -1076,8 +1076,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T29",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T29",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कंटिंजेंसी फंड ऑफ इंडिया (भारत)",
   "alternateName": [
     "Contingency Fund of India",
@@ -1111,8 +1111,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T30",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T30",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "पब्लिक अकाउंट ऑफ इंडिया (भारत)",
   "alternateName": [
     "Public Account of India",
@@ -1146,8 +1146,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T31",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T31",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "आउटकम बजट / आउटपुट–आउटकम मॉनिटरिंग",
   "alternateName": [
     "Outcome Budget",
@@ -1181,8 +1181,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T32",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T32",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "गिलोटिन",
   "alternateName": [
     "Guillotine",
@@ -1216,8 +1216,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T33",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T33",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "कट मोशन",
   "alternateName": [
     "Cut Motions",
@@ -1251,8 +1251,8 @@
 },
 {
   "@type": "DefinedTerm",
-  "@id": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T34",
-"url": "https://www.orangeeconomy.in/p/union-budget-2026-27-hindi-guide.html",
+  "@id": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html#B30-BUDGET26-T34",
+"url": "https://orangeeconomy.b30bharat.com/p/union-budget-2026-27-hindi-guide.html",
   "name": "डिसइन्वेस्टमेंट",
   "alternateName": [
     "Disinvestment",
