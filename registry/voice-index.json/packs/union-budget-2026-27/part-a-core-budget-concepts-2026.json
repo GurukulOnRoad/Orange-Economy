@@ -2,14 +2,14 @@
 {
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
-  "@id": "https://www.orangeeconomy.in/#voice-first-glossary",
+  "@id": "https://orangeeconomy.b30bharat.com/#voice-first-glossary",
   "url": "https://voice.b30bharat.com/",
   "name": "PART  A  -  Core Union Budget 2026-27 Key Concepts (Intent, Impact & Future Direction)",
   "description": "Part A of the Union Budget 2026–27 explanation focuses on the core conceptual language and directional intent of the Budget. It decodes how Bharat’s long-term vision is articulated through governance vocabulary, rural and community-anchored structures, agriculture-linked and Bharat-first digital systems, social inclusion and human capability building, and the role of culture, tourism, and the civilisational economy as economic drivers. This section explains intent, impact, and future direction rather than allocations or schemes.",
    "publisher": {
         "@type": "WebSite",
         "name": "OrangeEconomy.in",
-        "url": "https://www.orangeeconomy.in/"
+        "url": "https://orangeeconomy.b30bharat.com/"
     },
   "creator": {
         "@type": "Organization",
@@ -25,7 +25,7 @@
 "isPartOf": [
   {
     "@type": "Book",
-    "@id": "https://www.orangeeconomy.in/#book-budget-guide",
+    "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide",
     "url": "https://play.google.com/store/books/details?id=QAq8EQAAQBAJ",
     "name": "B-30 Bharat Union Budget Guide & Dictionary 2026–27 (केंद्रीय बजट गाइड एवं शब्दकोश)",
     "description": "B-30 Bharat Union Budget Guide & Dictionary 2026–27  (केंद्रीय बजट गाइड एवं शब्दकोश) Hindi ↔ English ↔ Hinglish. HCAM™ यूनियन बजट के मुख्य शब्दों, कॉन्सेप्ट और पॉलिसी संकेतों के लिए इंटरप्रिटिव गाइड -भारत की लोकल इकॉनमी की स्ट्रीट-स्मार्ट समझ के लिए, परीक्षाओं, प्रोफेशन और रोज़ाना की बातचीत के लिए बजट में क्लैरिटी। A Street-smart Budget understanding -clear enough for everyday conversations, rigorous enough for exams and professionals. A structured, language-first and ethics-first guide to the Union Budget 2026-27, designed for Bharat (भारत) across local trade, services, rural livelihoods, and knowledge professions."
@@ -50,7 +50,7 @@
     },
 {
       "@type": "SoftwareSourceCode",
-      "@id": "https://www.orangeeconomy.in#voice-kg-project",
+      "@id": "https://orangeeconomy.b30bharat.com#voice-kg-project",
       "url": "https://github.com/GurukulOnRoad/Orange-Economy",
       "name": "Orange Economy: The Voice of Bharat - HCAM™ Voice-First Structured Index",
       "alternateName": [
@@ -65,7 +65,7 @@
    
     {
       "@type": "CreativeWork",
-      "@id": "https://www.orangeeconomy.in#project",
+      "@id": "https://orangeeconomy.b30bharat.com#project",
       "url": "https://learn.gurukulonroad.com/s/pages/bfsi-ai-hinglish-knowledge-graph-hcam",
       "name": "BFSI & AI Literacy Hinglish Knowledge Graph™ (Powered by HCAM™ - Hinglish Cognitive Anchoring Model™)| B30BHARAT",
       "description": "यह Knowledge Graph भारत के learners, BFSI professionals और exam aspirants के लिए बनाया गया है, ताकि Banking, Financial Services, Insurance (BFSI) और AI Literacy concepts को Hindi + English + Hinglish में समझना आसान हो सके। यह पूरा framework HCAM™ -Hinglish Cognitive Anchoring Model™ पर आधारित है -यानी Language-First, Not Translation-First, जहाँ समझ, याद और real-life application तीनों को equal importance दी जाती है।",
@@ -76,7 +76,7 @@
 "subjectOf": [
   {
     "@type": "WebPage",
-    "@id": "https://www.orangeeconomy.in/#ref-union-budget-2026-27",
+    "@id": "https://orangeeconomy.b30bharat.com/#ref-union-budget-2026-27",
     "url": "https://www.indiabudget.gov.in/doc/budget_speech.pdf",
     "name": "Union Budget 2026–27 (Government of India)",
     "disambiguatingDescription": "Reference pointer only. The official document is hosted on a Government of India website; this node is an internal reference identifier used for linking and attribution."
@@ -98,8 +98,8 @@
  "hasDefinedTerm": [
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/viksit-bharat.html#B30-HCAMOE26-T001",
-      "url": "https://www.orangeeconomy.in/p/viksit-bharat.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/viksit-bharat.html#B30-HCAMOE26-T001",
+      "url": "https://orangeeconomy.b30bharat.com/p/viksit-bharat.html",
       "name": "विकसित भारत",
       "alternateName": [
         "Viksit Bharat",
@@ -137,7 +137,7 @@
 
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/three-kartavya-framework.html#B30-HCAMOE26-T002",
+      "@id": "https://orangeeconomy.b30bharat.com/p/three-kartavya-framework.html#B30-HCAMOE26-T002",
       "name": "तीन कर्तव्य रूपरेखा",
       "alternateName": [
         "Kartavya Framework (Three Kartavya)",
@@ -173,8 +173,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/reform-express.html#B30-HCAMOE26-T003",
-      "url": "https://www.orangeeconomy.in/p/reform-express.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/reform-express.html#B30-HCAMOE26-T003",
+      "url": "https://orangeeconomy.b30bharat.com/p/reform-express.html",
       "name": "सुधार एक्सप्रेस",
       "alternateName": [
         "Reform Express",
@@ -214,8 +214,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/city-economic-regions.html#B30-HCAMOE26-T004",
-      "url": "https://www.orangeeconomy.in/p/city-economic-regions.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/city-economic-regions.html#B30-HCAMOE26-T004",
+      "url": "https://orangeeconomy.b30bharat.com/p/city-economic-regions.html",
       "name": "शहर आर्थिक क्षेत्र",
       "alternateName": [
         "City Economic Regions",
@@ -230,7 +230,7 @@
       "disambiguatingDescription": "Independent educational interpretation of 'City Economic Regions (CERs)' as used in the Union Budget speech 2026. This is not an official scheme notification or a standalone municipal programme definition.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
         
       ],
 
@@ -259,8 +259,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/mahatma-gandhi-gram-swaraj-initiative.html#B30-HCAMOE26-T005",
-      "url": "https://www.orangeeconomy.in/p/mahatma-gandhi-gram-swaraj-initiative.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/mahatma-gandhi-gram-swaraj-initiative.html#B30-HCAMOE26-T005",
+      "url": "https://orangeeconomy.b30bharat.com/p/mahatma-gandhi-gram-swaraj-initiative.html",
       "name": "महात्मा गांधी ग्राम स्वराज पहल",
       "alternateName": [
         "Mahatma Gandhi Gram Swaraj Initiative",
@@ -275,7 +275,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Mahatma Gandhi Gram Swaraj initiative as described in the Union Budget speech 2026-27. This is not an official scheme guideline document or implementation notification.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -303,8 +303,8 @@
     },
   {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/corporate-mitras.html#B30-HCAMOE26-T006",
-      "url": "https://www.orangeeconomy.in/p/corporate-mitras.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/corporate-mitras.html#B30-HCAMOE26-T006",
+      "url": "https://orangeeconomy.b30bharat.com/p/corporate-mitras.html",
       "name": "कॉर्पोरेट मित्र",
       "alternateName": [
         "Corporate Mitras",
@@ -319,7 +319,7 @@
       "disambiguatingDescription": "Independent educational interpretation of 'Corporate Mitras' as mentioned in the Union Budget speech 2026. This is not a statutory regulator role, enforcement authority, or an official compliance policing function.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
         ],
 
       "additionalProperty": [
@@ -347,8 +347,8 @@
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/orange-economy.html#B30-HCAMOE26-T007",
-      "url": "https://www.orangeeconomy.in/p/orange-economy.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/orange-economy.html#B30-HCAMOE26-T007",
+      "url": "https://orangeeconomy.b30bharat.com/p/orange-economy.html",
       "name": "ऑरेंज इकोनॉमी",
       "alternateName": [
         "Orange Economy",
@@ -364,7 +364,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech usage of the label 'Orange Economy' for AVGC. This is not an official industry classification document or a standalone government scheme notification.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -392,8 +392,8 @@
     },
    {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/national-destination-digital-knowledge.html#B30-HCAMOE26-T008",
-      "url": "https://www.orangeeconomy.in/p/national-destination-digital-knowledge.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/national-destination-digital-knowledge.html#B30-HCAMOE26-T008",
+      "url": "https://orangeeconomy.b30bharat.com/p/national-destination-digital-knowledge.html",
       "name": "राष्ट्रीय गंतव्य डिजिटल ज्ञान ग्रिड",
       "alternateName": [
         "National Destination Digital Knowledge Grid",
@@ -409,7 +409,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal of a connected digital documentation ‘grid’ for destinations. This is not an official archive specification, technical standard, or a completed national database release.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -437,8 +437,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/turtle-trails.html#B30-HCAMOE26-T009",
-      "url": "https://www.orangeeconomy.in/p/turtle-trails.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/turtle-trails.html#B30-HCAMOE26-T009",
+      "url": "https://orangeeconomy.b30bharat.com/p/turtle-trails.html",
       "name": "कछुआ पथ",
       "alternateName": [
         "Turtle Trails",
@@ -453,7 +453,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal of 'Turtle Trails' as a conservation-sensitive, themed tourism route model. Its NOT 'Turtle' itself but the metaphor used because the aim is for a specific  Turtle nesting sites in coastal belts as part of ecologically sustainable tourism experiences.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -481,8 +481,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/bird-watching-trails.html#B30-HCAMOE26-T010",
-      "url": "https://www.orangeeconomy.in/p/bird-watching-trails.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/bird-watching-trails.html#B30-HCAMOE26-T010",
+      "url": "https://orangeeconomy.b30bharat.com/p/bird-watching-trails.html",
       "name": "बर्ड-वाचिंग ट्रेल्स",
       "alternateName": [
         "Bird-Watching Trails",
@@ -498,7 +498,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal of bird-watching trails at Pulikat lake as an eco-tourism product. This is not a finalized operational plan, route map, or site-level implementation guideline.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -526,8 +526,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/amrit-sarovars-fisheries-integration.html#B30-HCAMOE26-T011",
-      "url": "https://www.orangeeconomy.in/p/amrit-sarovars-fisheries-integration.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/amrit-sarovars-fisheries-integration.html#B30-HCAMOE26-T011",
+      "url": "https://orangeeconomy.b30bharat.com/p/amrit-sarovars-fisheries-integration.html",
       "name": "अमृत सरोवर (मत्स्य पालन एकीकरण)",
       "alternateName": [
         "Amrit Sarovars (Fisheries Integration)",
@@ -543,7 +543,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing of Amrit Sarovars as fisheries-linked livelihood hubs with value-chain and FFPO-based market linkages. This is not an official operational handbook or scheme guideline.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -571,8 +571,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/high-value-agriculture.html#B30-HCAMOE26-T012",
-      "url": "https://www.orangeeconomy.in/p/high-value-agriculture.html#B30-HCAMOE26-T012",
+      "@id": "https://orangeeconomy.b30bharat.com/p/high-value-agriculture.html#B30-HCAMOE26-T012",
+      "url": "https://orangeeconomy.b30bharat.com/p/high-value-agriculture.html#B30-HCAMOE26-T012",
       "name": "हाई वैल्यू एग्रीकल्चर",
       "alternateName": [
         "High Value Agriculture",
@@ -588,7 +588,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech phrase 'High Value Agriculture' as a region-coded, geography-mapped high-value crop diversification push. This is not a crop advisory, procurement notice, or state-wise cultivation guideline.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -616,8 +616,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/indian-cashew-cocoa.html#B30-HCAMOE26-T013",
-      "url": "https://www.orangeeconomy.in/p/indian-cashew-cocoa.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/indian-cashew-cocoa.html#B30-HCAMOE26-T013",
+      "url": "https://orangeeconomy.b30bharat.com/p/indian-cashew-cocoa.html",
       "name": "भारतीय काजू और भारतीय कोको  - प्रीमियम ग्लोबल ब्रांड",
       "alternateName": [
         "Indian (भारत) Cashew as a Premium Global Brand",
@@ -632,7 +632,7 @@
 "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal to brand Indian (भारत) cashew and cocoa as premium global brands by 2030 through value-chain and export ecosystem upgrades. This is not an export notification, GI registration notice, or procurement guideline.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -660,8 +660,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/indian-sandalwood-ecosystem.html#B30-HCAMOE26-T014",
-      "url": "https://www.orangeeconomy.in/p/indian-sandalwood-ecosystem.html#",
+      "@id": "https://orangeeconomy.b30bharat.com/p/indian-sandalwood-ecosystem.html#B30-HCAMOE26-T014",
+      "url": "https://orangeeconomy.b30bharat.com/p/indian-sandalwood-ecosystem.html#",
       "name": "भारतीय (भारत) चंदन इकोसिस्टम पुनरुद्धार",
       "alternateName": [
         "Indian (भारत) Sandalwood Ecosystem Revival",
@@ -676,7 +676,7 @@
 "disambiguatingDescription": "Independent educational interpretation of the Budget speech phrase about restoring the glory of the Indian (भारत) sandalwood ecosystem through state partnerships, focused cultivation, and post-harvest processing. This is not a forestry permit, harvesting rulebook, or commercial procurement advisory.",
 
      "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -704,8 +704,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/bharat-vistaar.html#B30-HCAMOE26-T015",
-      "url": "https://www.orangeeconomy.in/p/bharat-vistaar.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/bharat-vistaar.html#B30-HCAMOE26-T015",
+      "url": "https://orangeeconomy.b30bharat.com/p/bharat-vistaar.html",
       "name": "भारत-विस्तार (Bharat-VISTAAR)",
       "alternateName": [
         "Bharat-VISTAAR",
@@ -720,7 +720,7 @@
 "disambiguatingDescription": "Independent educational interpretation of the Budget speech proposal describing Bharat-VISTAAR as a multilingual AI advisory/decision-support tool integrating AgriStack and ICAR agricultural practice resources. This is not a technical specification, product manual, or operational SOP of the tool.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -748,8 +748,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/agri-stack.html#B30-HCAMOE26-T016",
-      "url": "https://www.orangeeconomy.in/p/agri-stack.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/agri-stack.html#B30-HCAMOE26-T016",
+      "url": "https://orangeeconomy.b30bharat.com/p/agri-stack.html",
       "name": "एग्रीस्टैक पोर्टल्स (AgriStack Portals)",
       "alternateName": [
         "AgriStack portals",
@@ -764,7 +764,7 @@
       "disambiguatingDescription": "Independent educational interpretation of how the Budget speech references AgriStack portals -treated as existing portals/resources feeding a multilingual AI advisory (Bharat-VISTAAR) as an input layer. This is not the official AgriStack technical architecture, policy note, or implementation manual.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -792,8 +792,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/icar-indian-council-agricultural.html#B30-HCAMOE26-T017",
-      "url": "https://www.orangeeconomy.in/p/icar-indian-council-agricultural.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/icar-indian-council-agricultural.html#B30-HCAMOE26-T017",
+      "url": "https://orangeeconomy.b30bharat.com/p/icar-indian-council-agricultural.html",
       "name": "ICAR Package on Agricultural Practices",
       "alternateName": [
         "ICAR practice package",
@@ -809,7 +809,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing: ICAR’s curated agricultural practice knowledge is treated as an input layer to Bharat-VISTAAR (with AgriStack portals) for multilingual, scalable advisory. This is not an official ICAR publication, complete practice manual, or technical integration specification.",
 
       "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -837,8 +837,8 @@
     },
  {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/she-marts.html#B30-HCAMOE26-T018",
-      "url": "https://www.orangeeconomy.in/p/she-marts.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/she-marts.html#B30-HCAMOE26-T018",
+      "url": "https://orangeeconomy.b30bharat.com/p/she-marts.html",
       "name": "SHE-Marts (Self-Help Entrepreneur Marts)",
       "alternateName": [
         "Self-Help Entrepreneur (SHE) Marts",
@@ -852,7 +852,7 @@
       "description": "बजट भाषण में \"सेल्फ-हेल्प एंटरप्रेन्योर (SHE) मार्ट्स\" का प्रस्ताव दिया गया है, जो क्लस्टर-लेवल फेडरेशन के तहत कम्युनिटी के मालिकाना हक वाले रिटेल आउटलेट होंगे, जिन्हें बेहतर और नए फाइनेंसिंग तरीकों से सपोर्ट मिलेगा। यह SHE-मार्ट्स को \"लखपति दीदी कार्यक्रम की सफलता को आगे बढ़ाते हुए\" अगले कदम के रूप में देखता है, ताकि महिलाओं को \"क्रेडिट-आधारित आजीविका\" से \"उद्यमों की मालिक\" बनने में मदद मिल सके। इसलिए SHE-मार्ट्स सिर्फ़ बाज़ार नहीं हैं; वे महिलाओं के नेतृत्व वाले ग्रामीण उद्यमों के लिए एक औपचारिकीकरण और आगे बढ़ने का तरीका हैं। \"कम्युनिटी के मालिकाना हक वाला\" वाक्यांश महत्वपूर्ण है: यह सामूहिक संरचना का संकेत देता है, संभवतः SHG फेडरेशन के माध्यम से, जो मोलभाव की शक्ति, साझा इंफ्रास्ट्रक्चर और स्थिर बाज़ार तक पहुँच को सक्षम बनाता है। \"रिटेल आउटलेट\" का मतलब विज़िबिलिटी, ग्राहकों तक पहुँच और क्वालिटी में निरंतरता भी है, जिसकी कमी अक्सर अनौपचारिक उत्पादकों में होती है। बजट इसे एक इकोसिस्टम उपकरण के रूप में पेश करता है, जिसे फाइनेंसिंग इनोवेशन का समर्थन प्राप्त है -जिसका मतलब है कि यह हस्तक्षेप जितना रिटेल उपस्थिति के बारे में है, उतना ही पूंजी डिजाइन के बारे में भी है। भारत-केंद्रित विशिष्टता: यह ग्रामीण उत्पादन को ब्रांडेड, सुलभ स्थानीय बाजारों में बदलकर, एक भौतिक, समुदाय के स्वामित्व वाली वाणिज्य परत बनाने के लिए SHG वास्तुकला का उपयोग करता है। परीक्षा की तैयारी के लिए, इसे महिला सशक्तिकरण + उद्यम विकास + क्लस्टर-स्तरीय फेडरेशन के तहत परखा जा सकता है।",
 "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. SHE-Marts are explained as community-owned retail outlets under cluster-level federations, backed by financing innovation, to help women transition from credit-led livelihoods to enterprise ownership. This is not an official scheme guideline, notification text, or operational SOP.",
 "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -890,8 +890,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/lakhpati-didi.html#B30-HCAMOE26-T019",
-      "url": "https://www.orangeeconomy.in/p/lakhpati-didi.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/lakhpati-didi.html#B30-HCAMOE26-T019",
+      "url": "https://orangeeconomy.b30bharat.com/p/lakhpati-didi.html",
       "name": "लखपति दीदी (Lakhpati Didi)",
       "alternateName": [
        "Millionaire Didi",
@@ -905,7 +905,7 @@
       "description": "बजट भाषण में साफ़ तौर पर \"लखपति दीदी कार्यक्रम की सफलता\" का ज़िक्र किया गया है और फिर अगले पॉलिसी कदम के बारे में बताया गया है: महिलाओं को \"क्रेडिट-आधारित रोज़गार\" से \"उद्यमों की मालिक\" बनने में मदद करना। यह लखपति दीदी को एक आखिरी मंज़िल के तौर पर नहीं, बल्कि एक बड़े सशक्तिकरण प्रोसेस में एक पड़ाव/ग्रेजुएशन माइलस्टोन के तौर पर दिखाता है। अब फोकस एंटरप्राइज़ ओनरशिप पर शिफ्ट हो रहा है -जिसमें मार्केट तक पहुँच, प्रोडक्ट की निरंतरता, ब्रांडिंग, वर्किंग कैपिटल, कंप्लायंस और स्केलिंग जैसी जटिलताएँ शामिल हैं। इस बदलाव के लिए प्रस्तावित तरीका SHE-Marts है -कम्युनिटी-ओन्ड रिटेल आउटलेट्स जहाँ महिलाएँ सामान बेच सकती हैं। इसलिए इस भाषण में: लखपति दीदी = प्लेटफॉर्म, और \"एंटरप्राइज़ मालिक बनने का बदलाव\" = नया लक्ष्य।",
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. This term explains the pipeline logic: Lakhpati Didi success is treated as a graduation milestone, and the next goalpost is enterprise ownership, with SHE-Marts as the named infrastructure mechanism. This is not an official scheme guideline, notification text, or operational SOP.",
 "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -943,8 +943,8 @@
     },
  {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/divyangjan-kaushal-yojana.html#B30-HCAMOE26-T020",
-      "url": "https://www.orangeeconomy.in/p/divyangjan-kaushal-yojana.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/divyangjan-kaushal-yojana.html#B30-HCAMOE26-T020",
+      "url": "https://orangeeconomy.b30bharat.com/p/divyangjan-kaushal-yojana.html",
       "name": "दिव्यांगजन कौशल योजना",
       "alternateName": [
         "Divyangjan Kaushal Yojana",
@@ -957,7 +957,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. This page explains Divyangjan skilling as job-role design + skill pathway alignment (task-oriented, process-driven roles) and customised training per divyang group. This is not an official scheme guideline, notification text, or operational SOP.",
 
 "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -995,8 +995,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/divyang-sahara-yojana.html#B30-HCAMOE26-T021",
-      "url": "https://www.orangeeconomy.in/p/divyang-sahara-yojana.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/divyang-sahara-yojana.html#B30-HCAMOE26-T021",
+      "url": "https://orangeeconomy.b30bharat.com/p/divyang-sahara-yojana.html",
       "name": "दिव्यांग सहारा योजना",
       "alternateName": [
         "Divyang Sahara Yojana",
@@ -1009,7 +1009,7 @@
       "disambiguatingDescription": "Independent educational interpretation of the Budget speech framing. This page explains Divyang Sahara as an assistive-device ecosystem approach (ALIMCO scale-up + R&D/AI, PM Divyasha Kendras, retail-style assistive tech marts). This is not an official scheme guideline, notification text, or operational SOP.",
 
 "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -1047,8 +1047,8 @@
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/assistive-technology-marts.html#B30-HCAMOE26-T022",
-      "url": "https://www.orangeeconomy.in/p/assistive-technology-marts.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/assistive-technology-marts.html#B30-HCAMOE26-T022",
+      "url": "https://orangeeconomy.b30bharat.com/p/assistive-technology-marts.html",
       "name": "असिस्टिव टेक्नोलॉजी मार्ट्स",
       "alternateName": [
         "Assistive Technology Marts",
@@ -1060,7 +1060,7 @@
       "description": "बजट भाषण में असिस्टिव टेक्नोलॉजी मार्ट्स को \"आधुनिक रिटेल-स्टाइल सेंटर\" के रूप में स्थापित करने का प्रस्ताव है, जहाँ दिव्यांगजन और सीनियर सिटीजन असिस्टिव प्रोडक्ट्स को \"देख, आज़मा और खरीद\" सकते हैं। यह सामान्य मॉडल से एक बड़ा बदलाव है, जहाँ असिस्टिव डिवाइस सीमित संस्थागत चैनलों, कागजी कार्रवाई वाली योजनाओं या सप्लाई की कमी के ज़रिए मिलते हैं। रिटेल-स्टाइल फॉर्मेट का इस्तेमाल करके, बजट असिस्टिव टेक्नोलॉजी को पसंद-आधारित, इस्तेमाल में आसान खरीदारी अनुभव के रूप में पेश करता है  - जिससे गलत डिवाइस मिलने का जोखिम कम होता है, सम्मान बढ़ता है (शॉपिंग का अनुभव), और इनोवेशन के लिए बाज़ार का विस्तार हो सकता है। यह शब्द दिव्यांग सहारा इकोसिस्टम में भी फिट बैठता है: अगर ALIMCO AI इंटीग्रेशन के साथ प्रोडक्शन और R&D को बढ़ाता है, तो बाज़ार को ऐसे डिस्ट्रीब्यूशन पॉइंट्स की ज़रूरत होगी जहाँ डिवाइस उपलब्ध हों और उनकी तुलना की जा सके। \"देखना और आज़माना\" डेमो इंफ्रास्ट्रक्चर, प्रशिक्षित स्टाफ और यूज़र एजुकेशन का सुझाव देता है। भारत-केंद्रित अर्थ: यह समावेशी नीति को भारत की रिटेल और सर्विस डिलीवरी की वास्तविकताओं के साथ इंटीग्रेट करता है, जिससे एक्सेस अधिक मानवीय और व्यावहारिक बनता है। परीक्षा का दृष्टिकोण: इसे \"बजट असिस्टिव डिवाइस तक पहुँच को बेहतर बनाने की योजना कैसे बनाता है?\" और \"किसे फायदा होता है?\" (दिव्यांगजन + सीनियर सिटीजन) के रूप में तैयार किया जा सकता है।",
       "disambiguatingDescription": "Independent educational interpretation of 'Assistive Technology Marts' based on the Union Budget speech 2026. This is not an official government scheme notification, tender, procurement notice, or legal definition.",
    "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
 
       "additionalProperty": [
@@ -1098,8 +1098,8 @@
     },
  {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/care-ecosystem-geriatric-allied-care.html#B30-HCAMOE26-T023",
-      "url": "https://www.orangeeconomy.in/p/care-ecosystem-geriatric-allied-care.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/care-ecosystem-geriatric-allied-care.html#B30-HCAMOE26-T023",
+      "url": "https://orangeeconomy.b30bharat.com/p/care-ecosystem-geriatric-allied-care.html",
       "name": "केयर इकोसिस्टम (जेरियाट्रिक + एलाइड केयर)",
       "alternateName": [
         "Care Ecosystem (Geriatric + Allied Care)",
@@ -1111,7 +1111,7 @@
       "description": "भाषण में जेरियाट्रिक और उससे जुड़ी केयर सर्विसेज़ को कवर करने वाला एक मज़बूत केयर इकोसिस्टम बनाने का प्रस्ताव है, और यह इसे NSQF-अलाइन प्रोग्राम्स के ज़रिए वर्कफोर्स बनाने से सीधे जोड़ता है। इसमें कहा गया है कि मल्टीस्किल्ड केयरगिवर्स को कोर केयर के साथ वेलनेस, योग और मेडिकल और असिस्टिव डिवाइस चलाने जैसे स्किल्स को मिलाकर ट्रेनिंग दी जाएगी, और एक टारगेट बताया गया है: आने वाले साल में 1.5 लाख केयरगिवर्स। यह महत्वपूर्ण है क्योंकि यह केयर को अनौपचारिक पारिवारिक श्रम के बजाय, स्ट्रक्चर्ड स्किलिंग तरीकों के साथ एक आर्थिक क्षेत्र के रूप में पहचानता है। यह इंटीग्रेटेड सोच भी दिखाता है: बढ़ती आबादी की ज़रूरतें, हेल्थ सिस्टम पर बोझ, रोज़गार सृजन, और स्किल सर्टिफिकेशन एक साथ जुड़े हुए हैं। \"इकोसिस्टम\" कई घटकों को इंगित करता है - ट्रेनिंग प्रोग्राम, संस्थान (AHP अपग्रेड), सर्विस डिलीवरी, असिस्टिव डिवाइस इंटरैक्शन, और जॉब प्लेसमेंट चैनल। बजट केयर को व्यापक \"विकसित भारत के लिए प्रोफेशनल्स का निर्माण\" से भी जोड़ता है, इसे राष्ट्रीय क्षमता-निर्माण के दायरे में रखता है। भारत-केंद्रित विशिष्टता: यह परिचित प्रथाओं (योग/वेलनेस) का उपयोग करता है और उन्हें औपचारिक केयर ट्रेनिंग और डिवाइस-ऑपरेशन स्किल्स के साथ मिलाता है, जिससे एक विशिष्ट भारतीय मिश्रित केयरगिवर प्रोफाइल बनती है। परीक्षा की प्रासंगिकता के लिए, स्किलिंग, हेल्थकेयर वर्कफोर्स, और जनसांख्यिकी से जुड़े रोज़गार के तहत परीक्षण किए जाने की संभावना है।",
       "disambiguatingDescription": "Independent educational interpretation of 'Care Ecosystem (Geriatric + Allied Care)' based on the Union Budget speech 2026. This is not an official government scheme notification, course brochure, recruitment notice, or legal definition.",
 "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
       "additionalProperty": [
         {
@@ -1148,8 +1148,8 @@
     },
 {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/nimhans-2.html#B30-HCAMOE26-T024",
-      "url": "https://www.orangeeconomy.in/p/nimhans-2.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/nimhans-2.html#B30-HCAMOE26-T024",
+      "url": "https://orangeeconomy.b30bharat.com/p/nimhans-2.html",
       "name": "NIMHANS-2 (निमहंस-2)",
       "alternateName": [
         "राष्ट्रीय मानसिक स्वास्थ्य शीर्ष संस्थान",
@@ -1163,7 +1163,7 @@
       "description": "भाषण में कहा गया है कि उत्तर भारत में मानसिक स्वास्थ्य देखभाल के लिए कोई राष्ट्रीय संस्थान नहीं हैं और रांची और तेजपुर में राष्ट्रीय मानसिक स्वास्थ्य संस्थानों को क्षेत्रीय शीर्ष संस्थानों के रूप में अपग्रेड करने के साथ-साथ NIMHANS-2 स्थापित करने का प्रस्ताव है। यह फ्रेमिंग महत्वपूर्ण है: NIMHANS-2 को \"एक और अस्पताल\" के रूप में वर्णित नहीं किया गया है, बल्कि एक राष्ट्रीय स्तर के शीर्ष मानसिक स्वास्थ्य देखभाल संस्थान के रूप में वर्णित किया गया है जिसका उद्देश्य क्षेत्रीय पहुंच को फिर से संतुलित करना है। यह शब्द मानसिक स्वास्थ्य बुनियादी ढांचे को केवल राज्य-स्तरीय स्वास्थ्य देखभाल के बजाय अन्य राष्ट्रीय क्षमता संस्थानों (IIT-जैसी सोच) की तरह मानने के नीतिगत निर्णय का संकेत देता है। बजट इसे मानसिक स्वास्थ्य और ट्रॉमा देखभाल के प्रति प्रतिबद्धता की पुष्टि करने से जोड़ता है, और फिर आपातकालीन और ट्रॉमा देखभाल केंद्र स्थापित करके जिला अस्पतालों को मजबूत करने की बात करता है। तो NIMHANS-2 एक पिरामिड के शीर्ष पर बन जाता है: शीर्ष संस्थान + क्षेत्रीय शीर्ष अपग्रेड + जिला-स्तरीय ट्रॉमा बुनियादी ढांचा। भारत-केंद्रित अर्थ: यह क्षेत्रीय असंतुलन का जवाब देता है और मानसिक स्वास्थ्य को एक राष्ट्रीय विकास बाधा के रूप में स्वीकार करता है, न कि एक निजी मुद्दा। परीक्षा-शैली का दृष्टिकोण: \"किस नए मानसिक स्वास्थ्य देखभाल संस्थान का प्रस्ताव है और क्यों?\" -उत्तर: उत्तर भारत में राष्ट्रीय संस्थानों की कमी के कारण NIMHANS-2, साथ ही मौजूदा संस्थानों का अपग्रेड।",
       "disambiguatingDescription": "Independent educational interpretation of 'NIMHANS-2' based on the attached Union Budget speech 2026. This is not an official government notification, cabinet decision document, tender, recruitment notice, or legal definition.",
 "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
       "additionalProperty": [
         {
@@ -1200,8 +1200,8 @@
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/purvodaya.html#B30-HCAMOE26-T025",
-      "url": "https://www.orangeeconomy.in/p/purvodaya.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/purvodaya.html#B30-HCAMOE26-T025",
+      "url": "https://orangeeconomy.b30bharat.com/p/purvodaya.html",
       "name": "पूर्वोदय (Purvodaya)",
       "alternateName": [
         "Purvodaya",
@@ -1213,7 +1213,7 @@
       "description": "भाषण में \"पूर्वोदय\" को एक खास फोकस के तौर पर इस्तेमाल किया गया है और तुरंत ठोस प्रस्तावों की लिस्ट दी गई है: दुर्गापुर में एक नोड के साथ एक इंटीग्रेटेड ईस्ट कोस्ट इंडस्ट्रियल कॉरिडोर का डेवलपमेंट, 5 पुरवोदय राज्यों में 5 टूरिज्म डेस्टिनेशन बनाना, और 4,000 ई-बसों का इंतज़ाम करना। यह दिखाता है कि पुरवोदय कोई एब्स्ट्रैक्ट \"पहले पूरब\" का नारा नहीं है; यह एक रीजनल डेवलपमेंट पैकेज लेबल है जो इंडस्ट्रियल कॉरिडोर इंफ्रास्ट्रक्चर, टूरिज्म डेस्टिनेशन बिल्डिंग, और ग्रीन मोबिलिटी को जोड़ता है। यह शब्द तीसरे कर्तव्य के तहत टारगेटेड कोशिशों के हिस्से के रूप में भी दिखता है, जिसमें डेवलपमेंट और रोज़गार को तेज़ करने के लिए पुरवोदय राज्यों और नॉर्थ-ईस्ट पर फोकस करने की बात साफ तौर पर कही गई है। इसलिए पुरवोदय को पूर्वी भारत के लिए एक इकोनॉमिक एक्सीलरेशन स्ट्रेटेजी के तौर पर पेश किया गया है, जिसमें लॉजिस्टिक्स/इंडस्ट्री, टूरिज्म और पब्लिक ट्रांसपोर्ट में इंटीग्रेटेड इंटरवेंशन शामिल हैं। भारत-केंद्रित खासियत: यह एक रीजन-कोडेड ग्रोथ डॉक्ट्रिन को एक सांस्कृतिक रूप से गूंजने वाला नाम (उदय = उदय) देता है, जिसे मापने योग्य डिलिवरेबल्स के साथ पैकेज किया गया है। एग्जाम की तैयारी के लिए, पुरवोदय को एक टारगेटेड रीजनल प्रोग्राम के तौर पर टेस्ट किया जा सकता है: इसके कंपोनेंट्स (इंडस्ट्रियल कॉरिडोर, टूरिज्म डेस्टिनेशन, ई-बसें) और इच्छित परिणाम (डेवलपमेंट + रोज़गार) की पहचान करें।",
       "disambiguatingDescription": "Independent educational interpretation of 'Purvodaya (Purvodaya States Framework)' based on the Union Budget speech 2026. This is not an official scheme notification, cabinet approval note, DPR, tender, or legal definition.",
   "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
       "additionalProperty": [
         {
@@ -1250,8 +1250,8 @@
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://www.orangeeconomy.in/p/temple-towns.html#B30-HCAMOE26-T026",
-      "url": "https://www.orangeeconomy.in/p/temple-towns.html",
+      "@id": "https://orangeeconomy.b30bharat.com/p/temple-towns.html#B30-HCAMOE26-T026",
+      "url": "https://orangeeconomy.b30bharat.com/p/temple-towns.html",
       "name": "मंदिर-नगर (Temple-Towns)",
       "alternateName": [
         "मंदिर-शहर (Temple-Towns)",
@@ -1264,7 +1264,7 @@
       "description": "भाषण में सिटी इकोनॉमिक रीजन पर चर्चा करते समय \"यहां तक कि मंदिर-नगर\" को भी शामिल किया गया है, और टियर II और टियर III शहरों पर ध्यान केंद्रित किया गया है जिन्हें आधुनिक इंफ्रास्ट्रक्चर और बेसिक सुविधाओं की ज़रूरत है। यह एक सूक्ष्म लेकिन महत्वपूर्ण भारत-केंद्रित बदलाव है: मंदिर शहरों पर पारंपरिक रूप से तीर्थयात्रा या सांस्कृतिक केंद्रों के रूप में चर्चा की जाती है, लेकिन बजट उन्हें आर्थिक योजना के नज़रिए से देखता है - ऐसी जगहों के रूप में जिन्हें \"आधुनिक इंफ्रास्ट्रक्चर और बेसिक सुविधाओं की भी ज़रूरत है,\" जिसका मतलब है कि उन्हें व्यापक शहर-क्षेत्र विकास तर्क में विकास केंद्रों के रूप में पहचाना जा रहा है। इसका मतलब है कि मंदिर शहर मुख्यधारा की आर्थिक योजना से \"बाहर\" नहीं हैं; उन्हें उन्हीं संरचनात्मक निवेश प्राथमिकताओं में शामिल किया गया है। इसलिए, इस बजट संदर्भ में \"मंदिर शहर\" शब्द एक आर्थिक वर्गीकरण ट्रिगर है: ज़्यादा भीड़ और सांस्कृतिक महत्व वाली जगहें सेवाओं, हॉस्पिटैलिटी, कनेक्टिविटी, नौकरियों और स्थानीय उद्यम के लिए नियोजित केंद्र बन सकती हैं - अगर इंफ्रास्ट्रक्चर और सुविधाओं को अपग्रेड किया जाए। भारत-केंद्रित तत्व: यह विश्वास/सभ्यता भूगोल को विकास वास्तुकला में एकीकृत करता है, बिना इसे आर्थिक विकास से अलग माने। परीक्षा की प्रासंगिकता के लिए, यह एक तथ्यात्मक अंश के रूप में आ सकता है: \"CER फोकस में कौन से गैर-पारंपरिक शहरी नोड्स शामिल हैं?\" - उत्तर: मंदिर शहर।",
       "disambiguatingDescription": "Independent educational interpretation of 'Temple-Towns as Growth Centres within CER framing' based on the Union Budget speech 2026. This is not a city master plan, DPR, scheme notification, tender, or legal definition.",
  "subjectOf": [
-        { "@id": "https://www.orangeeconomy.in/#book-budget-guide" }
+        { "@id": "https://orangeeconomy.b30bharat.com/#book-budget-guide" }
       ],
       "additionalProperty": [
         {
